@@ -1,6 +1,6 @@
 # Outcome Analysis in Elective Electrical Cardioversion of Atrial Fibrillation Patients: Development and Validation of a Machine-learning Prognostic Model
 
-The code for the development of this Machine Learning is based in a set of luigi scripts built for this purpose. The most current version of these scripts can be found at: https://github.com/IA-Cardiologia-husa/KoopaML
+The code for the development of this Machine Learning is based in a set of luigi scripts built for this purpose. The most current version of these scripts can be found at: https://github.com/IA-Cardiologia-husa/KoopaML. An online calculator has been built with these models and can be found at https://colab.research.google.com/drive/1TbHf9waHNQYHQJhu5M9iqnpO5AESGDO5 .
 To run this Python code you will need:
 
 - luigi
@@ -28,5 +28,7 @@ The scripts generate:
 3. An intermediate folder with all the intermediate files generated
 4. A log folder with the log of the luigi execution
 
+---
+Currently there are 10 workflows defined. The 5 original workflows as shown in the article, and 5 additional workflows with a restricted set of features (selected from the most important ones as measured by the MDA algorithm) to use in the online calculator.
 
 
