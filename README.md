@@ -20,10 +20,10 @@ The scripts look for a data file called *CVE-Abril2014-Diciembre2018.xlsx*, whic
 
 The scripts generate:
 1. A report folder, subdivided into workflows with:
-  - Statistical univariant analysis of the variables
-  - ROC curve of the trained models (internal and external validation)
-  - PR curve of the trained models (internal and external validation)
-  - A BestML_model_report with numerical values for the area under the ROC/PR curves and its confidence interval, the value of operational thresholds automatically selected with different criteria and the respective values of sensitivity and specificity, and the feature importances as measured by the MDA algorithm using the eli5 libray
+    - Statistical univariant analysis of the variables
+    - ROC curve of the trained models (internal and external validation)
+    - PR curve of the trained models (internal and external validation)
+    - A BestML_model_report with numerical values for the area under the ROC/PR curves and its confidence interval, the value of operational thresholds automatically selected with different criteria and the respective values of sensitivity and specificity, and the feature importances as measured by the MDA algorithm using the eli5 libray
 2. A model folder, with all the models trained (in pickle format) and an excel file with the hyperparameter selection results.
 3. An intermediate folder with all the intermediate files generated
 4. A log folder with the log of the luigi execution
