@@ -4,7 +4,7 @@ The code for the development of this Machine Learning is based in a set of luigi
 To run this Python code you will need:
 
 - luigi
-- scikit learn == 0.23
+- scikit learn == 0.21.3
 - xgboost == 0.90
 - eli5 == 0.10.1
 - numpy
