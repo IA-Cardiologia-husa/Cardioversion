@@ -31,4 +31,6 @@ The scripts generate:
 ---
 Currently there are 10 workflows defined. The 5 original workflows as shown in the article, and 5 additional workflows with a restricted set of features (selected from the most important ones as measured by the MDA algorithm) to use in the online calculator.
 
+A roc_data folder contains the intermediate results needed to plot ROC curves in the online calculator.
+
 
