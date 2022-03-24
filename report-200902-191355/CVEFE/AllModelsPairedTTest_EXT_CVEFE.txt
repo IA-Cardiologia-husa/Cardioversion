@@ -1,0 +1,56 @@
+Electrical CV: Random Forest-Extremely Randomized Trees, Avg Diff: -0.07666666666666666, p-value: nan
+Electrical CV: Random Forest-Logistic Regression, Avg Diff: -0.12111111111111106, p-value: nan
+Electrical CV: Random Forest-XGBoost, Avg Diff: -0.16888888888888887, p-value: nan
+Electrical CV: Random Forest-CHA2DS2-VASc, Avg Diff: -0.05277777777777776, p-value: nan
+Electrical CV: Random Forest-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.13055555555555554, p-value: nan
+Electrical CV: Random Forest-HATCH, Avg Diff: -0.03888888888888886, p-value: nan
+Electrical CV: Random Forest-HATCH refitted odd ratios, Avg Diff: -0.17944444444444452, p-value: nan
+Electrical CV: Extremely Randomized Trees-Random Forest, Avg Diff: 0.07666666666666666, p-value: nan
+Electrical CV: Extremely Randomized Trees-Logistic Regression, Avg Diff: -0.0444444444444444, p-value: nan
+Electrical CV: Extremely Randomized Trees-XGBoost, Avg Diff: -0.0922222222222222, p-value: nan
+Electrical CV: Extremely Randomized Trees-CHA2DS2-VASc, Avg Diff: 0.023888888888888904, p-value: nan
+Electrical CV: Extremely Randomized Trees-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.053888888888888875, p-value: nan
+Electrical CV: Extremely Randomized Trees-HATCH, Avg Diff: 0.0377777777777778, p-value: nan
+Electrical CV: Extremely Randomized Trees-HATCH refitted odd ratios, Avg Diff: -0.10277777777777786, p-value: nan
+Electrical CV: Logistic Regression-Random Forest, Avg Diff: 0.12111111111111106, p-value: nan
+Electrical CV: Logistic Regression-Extremely Randomized Trees, Avg Diff: 0.0444444444444444, p-value: nan
+Electrical CV: Logistic Regression-XGBoost, Avg Diff: -0.04777777777777781, p-value: nan
+Electrical CV: Logistic Regression-CHA2DS2-VASc, Avg Diff: 0.0683333333333333, p-value: nan
+Electrical CV: Logistic Regression-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.009444444444444478, p-value: nan
+Electrical CV: Logistic Regression-HATCH, Avg Diff: 0.0822222222222222, p-value: nan
+Electrical CV: Logistic Regression-HATCH refitted odd ratios, Avg Diff: -0.05833333333333346, p-value: nan
+Electrical CV: XGBoost-Random Forest, Avg Diff: 0.16888888888888887, p-value: nan
+Electrical CV: XGBoost-Extremely Randomized Trees, Avg Diff: 0.0922222222222222, p-value: nan
+Electrical CV: XGBoost-Logistic Regression, Avg Diff: 0.04777777777777781, p-value: nan
+Electrical CV: XGBoost-CHA2DS2-VASc, Avg Diff: 0.11611111111111111, p-value: nan
+Electrical CV: XGBoost-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.03833333333333333, p-value: nan
+Electrical CV: XGBoost-HATCH, Avg Diff: 0.13, p-value: nan
+Electrical CV: XGBoost-HATCH refitted odd ratios, Avg Diff: -0.010555555555555651, p-value: nan
+Electrical CV: CHA2DS2-VASc-Random Forest, Avg Diff: 0.05277777777777776, p-value: nan
+Electrical CV: CHA2DS2-VASc-Extremely Randomized Trees, Avg Diff: -0.023888888888888904, p-value: nan
+Electrical CV: CHA2DS2-VASc-Logistic Regression, Avg Diff: -0.0683333333333333, p-value: nan
+Electrical CV: CHA2DS2-VASc-XGBoost, Avg Diff: -0.11611111111111111, p-value: nan
+Electrical CV: CHA2DS2-VASc-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.07777777777777778, p-value: nan
+Electrical CV: CHA2DS2-VASc-HATCH, Avg Diff: 0.013888888888888895, p-value: nan
+Electrical CV: CHA2DS2-VASc-HATCH refitted odd ratios, Avg Diff: -0.12666666666666676, p-value: nan
+Electrical CV: CHA2DS2-VASc refitted odd ratios-Random Forest, Avg Diff: 0.13055555555555554, p-value: nan
+Electrical CV: CHA2DS2-VASc refitted odd ratios-Extremely Randomized Trees, Avg Diff: 0.053888888888888875, p-value: nan
+Electrical CV: CHA2DS2-VASc refitted odd ratios-Logistic Regression, Avg Diff: 0.009444444444444478, p-value: nan
+Electrical CV: CHA2DS2-VASc refitted odd ratios-XGBoost, Avg Diff: -0.03833333333333333, p-value: nan
+Electrical CV: CHA2DS2-VASc refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.07777777777777778, p-value: nan
+Electrical CV: CHA2DS2-VASc refitted odd ratios-HATCH, Avg Diff: 0.09166666666666667, p-value: nan
+Electrical CV: CHA2DS2-VASc refitted odd ratios-HATCH refitted odd ratios, Avg Diff: -0.04888888888888898, p-value: nan
+Electrical CV: HATCH-Random Forest, Avg Diff: 0.03888888888888886, p-value: nan
+Electrical CV: HATCH-Extremely Randomized Trees, Avg Diff: -0.0377777777777778, p-value: nan
+Electrical CV: HATCH-Logistic Regression, Avg Diff: -0.0822222222222222, p-value: nan
+Electrical CV: HATCH-XGBoost, Avg Diff: -0.13, p-value: nan
+Electrical CV: HATCH-CHA2DS2-VASc, Avg Diff: -0.013888888888888895, p-value: nan
+Electrical CV: HATCH-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.09166666666666667, p-value: nan
+Electrical CV: HATCH-HATCH refitted odd ratios, Avg Diff: -0.14055555555555566, p-value: nan
+Electrical CV: HATCH refitted odd ratios-Random Forest, Avg Diff: 0.17944444444444452, p-value: nan
+Electrical CV: HATCH refitted odd ratios-Extremely Randomized Trees, Avg Diff: 0.10277777777777786, p-value: nan
+Electrical CV: HATCH refitted odd ratios-Logistic Regression, Avg Diff: 0.05833333333333346, p-value: nan
+Electrical CV: HATCH refitted odd ratios-XGBoost, Avg Diff: 0.010555555555555651, p-value: nan
+Electrical CV: HATCH refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.12666666666666676, p-value: nan
+Electrical CV: HATCH refitted odd ratios-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.04888888888888898, p-value: nan
+Electrical CV: HATCH refitted odd ratios-HATCH, Avg Diff: 0.14055555555555566, p-value: nan

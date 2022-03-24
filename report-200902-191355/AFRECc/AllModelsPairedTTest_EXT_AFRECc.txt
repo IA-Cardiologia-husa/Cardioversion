@@ -1,0 +1,56 @@
+AF Recurrence (calculator variables): Random Forest-Extremely Randomized Trees, Avg Diff: -0.020901639344262368, p-value: nan
+AF Recurrence (calculator variables): Random Forest-Logistic Regression, Avg Diff: -0.04590163934426228, p-value: nan
+AF Recurrence (calculator variables): Random Forest-XGBoost, Avg Diff: -0.014344262295082011, p-value: nan
+AF Recurrence (calculator variables): Random Forest-CHA2DS2-VASc, Avg Diff: 0.2006147540983606, p-value: nan
+AF Recurrence (calculator variables): Random Forest-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.12479508196721317, p-value: nan
+AF Recurrence (calculator variables): Random Forest-HATCH, Avg Diff: 0.12110655737704917, p-value: nan
+AF Recurrence (calculator variables): Random Forest-HATCH refitted odd ratios, Avg Diff: 0.052254098360655754, p-value: nan
+AF Recurrence (calculator variables): Extremely Randomized Trees-Random Forest, Avg Diff: 0.020901639344262368, p-value: nan
+AF Recurrence (calculator variables): Extremely Randomized Trees-Logistic Regression, Avg Diff: -0.02499999999999991, p-value: nan
+AF Recurrence (calculator variables): Extremely Randomized Trees-XGBoost, Avg Diff: 0.006557377049180357, p-value: nan
+AF Recurrence (calculator variables): Extremely Randomized Trees-CHA2DS2-VASc, Avg Diff: 0.22151639344262297, p-value: nan
+AF Recurrence (calculator variables): Extremely Randomized Trees-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.14569672131147554, p-value: nan
+AF Recurrence (calculator variables): Extremely Randomized Trees-HATCH, Avg Diff: 0.14200819672131154, p-value: nan
+AF Recurrence (calculator variables): Extremely Randomized Trees-HATCH refitted odd ratios, Avg Diff: 0.07315573770491812, p-value: nan
+AF Recurrence (calculator variables): Logistic Regression-Random Forest, Avg Diff: 0.04590163934426228, p-value: nan
+AF Recurrence (calculator variables): Logistic Regression-Extremely Randomized Trees, Avg Diff: 0.02499999999999991, p-value: nan
+AF Recurrence (calculator variables): Logistic Regression-XGBoost, Avg Diff: 0.03155737704918027, p-value: nan
+AF Recurrence (calculator variables): Logistic Regression-CHA2DS2-VASc, Avg Diff: 0.24651639344262288, p-value: nan
+AF Recurrence (calculator variables): Logistic Regression-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.17069672131147545, p-value: nan
+AF Recurrence (calculator variables): Logistic Regression-HATCH, Avg Diff: 0.16700819672131145, p-value: nan
+AF Recurrence (calculator variables): Logistic Regression-HATCH refitted odd ratios, Avg Diff: 0.09815573770491803, p-value: nan
+AF Recurrence (calculator variables): XGBoost-Random Forest, Avg Diff: 0.014344262295082011, p-value: nan
+AF Recurrence (calculator variables): XGBoost-Extremely Randomized Trees, Avg Diff: -0.006557377049180357, p-value: nan
+AF Recurrence (calculator variables): XGBoost-Logistic Regression, Avg Diff: -0.03155737704918027, p-value: nan
+AF Recurrence (calculator variables): XGBoost-CHA2DS2-VASc, Avg Diff: 0.21495901639344261, p-value: nan
+AF Recurrence (calculator variables): XGBoost-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.13913934426229518, p-value: nan
+AF Recurrence (calculator variables): XGBoost-HATCH, Avg Diff: 0.13545081967213118, p-value: nan
+AF Recurrence (calculator variables): XGBoost-HATCH refitted odd ratios, Avg Diff: 0.06659836065573776, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc-Random Forest, Avg Diff: -0.2006147540983606, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc-Extremely Randomized Trees, Avg Diff: -0.22151639344262297, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc-Logistic Regression, Avg Diff: -0.24651639344262288, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc-XGBoost, Avg Diff: -0.21495901639344261, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.07581967213114743, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc-HATCH, Avg Diff: -0.07950819672131143, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc-HATCH refitted odd ratios, Avg Diff: -0.14836065573770485, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc refitted odd ratios-Random Forest, Avg Diff: -0.12479508196721317, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.14569672131147554, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc refitted odd ratios-Logistic Regression, Avg Diff: -0.17069672131147545, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc refitted odd ratios-XGBoost, Avg Diff: -0.13913934426229518, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.07581967213114743, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc refitted odd ratios-HATCH, Avg Diff: -0.0036885245901639996, p-value: nan
+AF Recurrence (calculator variables): CHA2DS2-VASc refitted odd ratios-HATCH refitted odd ratios, Avg Diff: -0.07254098360655742, p-value: nan
+AF Recurrence (calculator variables): HATCH-Random Forest, Avg Diff: -0.12110655737704917, p-value: nan
+AF Recurrence (calculator variables): HATCH-Extremely Randomized Trees, Avg Diff: -0.14200819672131154, p-value: nan
+AF Recurrence (calculator variables): HATCH-Logistic Regression, Avg Diff: -0.16700819672131145, p-value: nan
+AF Recurrence (calculator variables): HATCH-XGBoost, Avg Diff: -0.13545081967213118, p-value: nan
+AF Recurrence (calculator variables): HATCH-CHA2DS2-VASc, Avg Diff: 0.07950819672131143, p-value: nan
+AF Recurrence (calculator variables): HATCH-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.0036885245901639996, p-value: nan
+AF Recurrence (calculator variables): HATCH-HATCH refitted odd ratios, Avg Diff: -0.06885245901639342, p-value: nan
+AF Recurrence (calculator variables): HATCH refitted odd ratios-Random Forest, Avg Diff: -0.052254098360655754, p-value: nan
+AF Recurrence (calculator variables): HATCH refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.07315573770491812, p-value: nan
+AF Recurrence (calculator variables): HATCH refitted odd ratios-Logistic Regression, Avg Diff: -0.09815573770491803, p-value: nan
+AF Recurrence (calculator variables): HATCH refitted odd ratios-XGBoost, Avg Diff: -0.06659836065573776, p-value: nan
+AF Recurrence (calculator variables): HATCH refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.14836065573770485, p-value: nan
+AF Recurrence (calculator variables): HATCH refitted odd ratios-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.07254098360655742, p-value: nan
+AF Recurrence (calculator variables): HATCH refitted odd ratios-HATCH, Avg Diff: 0.06885245901639342, p-value: nan

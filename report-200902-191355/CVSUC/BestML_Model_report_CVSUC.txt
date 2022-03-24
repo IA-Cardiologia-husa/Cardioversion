@@ -1,0 +1,127 @@
+Model name: ET
+AUC ROC: 0.6867073421320814
+AUC ROC stderr: 0.031734617369434524
+AUC ROC Confidence Interval (95%): 0.6237389763980076-0.7496757078661552
+AUC PR: 0.7167691220114173
+AUC PR stderr: 0.03185230653154358
+AUC PR Confidence Interval (95%): 0.6535672354468778-0.7799710085759568
+
+Threshold: 0.5199154253952222 Optimum for accuracy
+TP:37.2 FP:19.9 TN:26.9 FN:16.0
+Sensitivity:69.9 Specifity:57.4 Precision:65.1 NPRv:62.7
+
+Threshold: 0.529869948313395 Optimum for single point AUC
+TP:36.1 FP:18.9 TN:27.9 FN:17.1
+Sensitivity:67.9 Specifity:59.6 Precision:65.6 NPRv:62.1
+
+Optimum for double point AUC
+Threshold: 0.4774523631709176
+TP:42.6 FP:25.8 TN:21.0 FN:10.5
+Sensitivity:80.2 Specifity:44.9 Precision:62.3 NPRv:66.6
+Threshold: 0.6177338903760564
+TP:21.7 FP:8.3 TN:38.5 FN:31.5
+Sensitivity:40.8 Specifity:82.3 Precision:72.3 NPRv:55.0
+
+Optimum for triple point AUC
+Threshold: 0.4586247879604521
+TP:44.6 FP:28.8 TN:18.0 FN:8.6
+Sensitivity:83.8 Specifity:38.5 Precision:60.7 NPRv:67.7
+Threshold: 0.529869948313395
+TP:36.1 FP:18.9 TN:27.9 FN:17.1
+Sensitivity:67.9 Specifity:59.6 Precision:65.6 NPRv:62.1
+Threshold: 0.6208911338339294
+TP:20.9 FP:7.9 TN:39.0 FN:32.2
+Sensitivity:39.4 Specifity:83.2 Precision:72.7 NPRv:54.7
+
+Threshold: 0.5194767512366585 Optimum for f0.5
+TP:37.2 FP:20.0 TN:26.8 FN:15.9
+Sensitivity:70.1 Specifity:57.3 Precision:65.1 NPRv:62.8
+
+Threshold: 0.4396250595232535 Optimum for f1
+TP:46.1 FP:31.4 TN:15.4 FN:7.1
+Sensitivity:86.7 Specifity:32.9 Precision:59.5 NPRv:68.5
+
+Threshold: 0.22591293340484436 Optimum for f2
+TP:53.2 FP:46.6 TN:0.2 FN:0.0
+Sensitivity:100.0 Specifity:0.5 Precision:53.3 NPRv:100.0
+
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+ET eli5 MDA importances with cv=10
+Dil AI LMS           1.000 2.065
+FA_paroxistica       0.577 1.523
+ACO previa si no     0.468 1.272
+Dil AI S             0.446 1.904
+exfumador o fumador  0.423 0.976
+RESPIRATORIO         0.388 1.248
+AA pre               0.369 1.302
+DM                   0.362 1.045
+Previous CVE attempt 0.336 0.829
+IECAS/ARA II         0.326 1.383
+CF>=3                0.324 1.254
+IM                   0.312 0.808
+HASBLED              0.306 0.874
+FEVI M-G             0.293 0.974
+CC s n               0.278 0.845
+BB si no             0.246 1.066
+Dil AI MS            0.242 1.585
+FA_persistenteLD2    0.225 0.421
+IMC                  0.220 0.742
+TFG                  0.211 0.958
+ICTUS/AIT PREVIO     0.200 0.694
+EAP                  0.182 0.580
+Creatinina           0.162 0.792
+apixaban             0.149 0.788
+DL                   0.114 1.214
+EDAD                 0.105 1.021
+TEP/TVP              0.094 0.330
+Masa VI              0.069 0.671
+EAC o CI             0.065 0.664
+SANGRADO PREVIO      0.047 0.476
+HP low               0.039 0.919
+HP high              0.036 0.338
+MOVILIDAD            0.024 0.538
+clopi o tica         0.022 0.190
+dronedarona          0.016 0.151
+fumador              0.009 0.855
+sintrom              0.007 0.116
+heparina             0.000 0.000
+SAC VAL              0.000 0.000
+Eao                  -0.008 0.102
+AINES                -0.009 0.372
+EM                   -0.018 0.096
+REUMATICA            -0.022 0.187
+DIGOXINA             -0.024 0.587
+rivaroxaban          -0.029 1.015
+Doble Antiagregantes -0.040 0.175
+Prot mec             -0.045 0.421
+AVK O ACOD           -0.061 0.320
+FEVI L-M-G           -0.064 0.897
+edoxaban             -0.074 0.463
+Genero               -0.077 1.505
+Prot bio             -0.114 0.434
+ARM                  -0.121 0.522
+FEVI G               -0.124 0.431
+AAS                  -0.127 0.690
+IT                   -0.135 0.525
+CF==4                -0.158 0.429
+NEOPLASIA            -0.166 0.731
+ANEMIA               -0.169 0.659
+Iao                  -0.181 0.434
+HTA                  -0.183 1.111
+dabigatran           -0.184 0.450
+Valvulopatía sign    -0.207 0.624
+TALLA                -0.250 0.611
+amiodarona           -0.255 0.743
+flecainida           -0.283 1.100
+CF>=2                -0.289 0.816
+ICC                  -0.584 1.053

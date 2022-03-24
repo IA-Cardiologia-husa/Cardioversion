@@ -1,0 +1,56 @@
+Pharmacologic CV (calculator variables): Random Forest-Extremely Randomized Trees, Avg Diff: -0.01767929292929293, p-value: 0.33498884107383886
+Pharmacologic CV (calculator variables): Random Forest-Logistic Regression, Avg Diff: -0.013857731157731156, p-value: 0.3649934967104933
+Pharmacologic CV (calculator variables): Random Forest-XGBoost, Avg Diff: -0.017608275058275055, p-value: 0.33691154804951784
+Pharmacologic CV (calculator variables): Random Forest-CHA2DS2-VASc, Avg Diff: 0.22232433954933956, p-value: 0.02397403222954729
+Pharmacologic CV (calculator variables): Random Forest-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.10512352369852368, p-value: 0.11471555067137121
+Pharmacologic CV (calculator variables): Random Forest-HATCH, Avg Diff: 0.24574628982128993, p-value: 0.014211244993740085
+Pharmacologic CV (calculator variables): Random Forest-HATCH refitted odd ratios, Avg Diff: 0.11122103729603722, p-value: 0.11233390708883399
+Pharmacologic CV (calculator variables): Extremely Randomized Trees-Random Forest, Avg Diff: 0.01767929292929293, p-value: 0.33498884107383886
+Pharmacologic CV (calculator variables): Extremely Randomized Trees-Logistic Regression, Avg Diff: 0.0038215617715617696, p-value: 0.46219483257288896
+Pharmacologic CV (calculator variables): Extremely Randomized Trees-XGBoost, Avg Diff: 7.101787101787549e-05, p-value: 0.49945141223813044
+Pharmacologic CV (calculator variables): Extremely Randomized Trees-CHA2DS2-VASc, Avg Diff: 0.2400036324786323, p-value: 0.015417896568039392
+Pharmacologic CV (calculator variables): Extremely Randomized Trees-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.12280281662781661, p-value: 0.07138162024724537
+Pharmacologic CV (calculator variables): Extremely Randomized Trees-HATCH, Avg Diff: 0.26342558275058275, p-value: 0.007731382269975181
+Pharmacologic CV (calculator variables): Extremely Randomized Trees-HATCH refitted odd ratios, Avg Diff: 0.12890033022533018, p-value: 0.07165629064708466
+Pharmacologic CV (calculator variables): Logistic Regression-Random Forest, Avg Diff: 0.013857731157731156, p-value: 0.3649934967104933
+Pharmacologic CV (calculator variables): Logistic Regression-Extremely Randomized Trees, Avg Diff: -0.0038215617715617696, p-value: 0.46219483257288896
+Pharmacologic CV (calculator variables): Logistic Regression-XGBoost, Avg Diff: -0.0037505439005438962, p-value: 0.4656477597136363
+Pharmacologic CV (calculator variables): Logistic Regression-CHA2DS2-VASc, Avg Diff: 0.23618207070707065, p-value: 0.011640131159100536
+Pharmacologic CV (calculator variables): Logistic Regression-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.11898125485625485, p-value: 0.08157181973421951
+Pharmacologic CV (calculator variables): Logistic Regression-HATCH, Avg Diff: 0.2596040209790209, p-value: 0.005757719724270469
+Pharmacologic CV (calculator variables): Logistic Regression-HATCH refitted odd ratios, Avg Diff: 0.12507876845376845, p-value: 0.08408346480784841
+Pharmacologic CV (calculator variables): XGBoost-Random Forest, Avg Diff: 0.017608275058275055, p-value: 0.33691154804951784
+Pharmacologic CV (calculator variables): XGBoost-Extremely Randomized Trees, Avg Diff: -7.101787101787549e-05, p-value: 0.49945141223813044
+Pharmacologic CV (calculator variables): XGBoost-Logistic Regression, Avg Diff: 0.0037505439005438962, p-value: 0.4656477597136363
+Pharmacologic CV (calculator variables): XGBoost-CHA2DS2-VASc, Avg Diff: 0.23993261460761459, p-value: 0.006842257249073908
+Pharmacologic CV (calculator variables): XGBoost-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.12273179875679871, p-value: 0.09742661688777651
+Pharmacologic CV (calculator variables): XGBoost-HATCH, Avg Diff: 0.2633545648795648, p-value: 0.004925662078862455
+Pharmacologic CV (calculator variables): XGBoost-HATCH refitted odd ratios, Avg Diff: 0.1288293123543123, p-value: 0.08074620400503152
+Pharmacologic CV (calculator variables): CHA2DS2-VASc-Random Forest, Avg Diff: -0.22232433954933956, p-value: 0.02397403222954729
+Pharmacologic CV (calculator variables): CHA2DS2-VASc-Extremely Randomized Trees, Avg Diff: -0.2400036324786323, p-value: 0.015417896568039392
+Pharmacologic CV (calculator variables): CHA2DS2-VASc-Logistic Regression, Avg Diff: -0.23618207070707065, p-value: 0.011640131159100536
+Pharmacologic CV (calculator variables): CHA2DS2-VASc-XGBoost, Avg Diff: -0.23993261460761459, p-value: 0.006842257249073908
+Pharmacologic CV (calculator variables): CHA2DS2-VASc-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.1172008158508158, p-value: 0.15305991395164692
+Pharmacologic CV (calculator variables): CHA2DS2-VASc-HATCH, Avg Diff: 0.02342195027195028, p-value: 0.3196743131591949
+Pharmacologic CV (calculator variables): CHA2DS2-VASc-HATCH refitted odd ratios, Avg Diff: -0.11110330225330223, p-value: 0.1557242188310366
+Pharmacologic CV (calculator variables): CHA2DS2-VASc refitted odd ratios-Random Forest, Avg Diff: -0.10512352369852368, p-value: 0.11471555067137121
+Pharmacologic CV (calculator variables): CHA2DS2-VASc refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.12280281662781661, p-value: 0.07138162024724537
+Pharmacologic CV (calculator variables): CHA2DS2-VASc refitted odd ratios-Logistic Regression, Avg Diff: -0.11898125485625485, p-value: 0.08157181973421951
+Pharmacologic CV (calculator variables): CHA2DS2-VASc refitted odd ratios-XGBoost, Avg Diff: -0.12273179875679871, p-value: 0.09742661688777651
+Pharmacologic CV (calculator variables): CHA2DS2-VASc refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.1172008158508158, p-value: 0.15305991395164692
+Pharmacologic CV (calculator variables): CHA2DS2-VASc refitted odd ratios-HATCH, Avg Diff: 0.1406227661227661, p-value: 0.09645385872401749
+Pharmacologic CV (calculator variables): CHA2DS2-VASc refitted odd ratios-HATCH refitted odd ratios, Avg Diff: 0.0060975135975135895, p-value: 0.4593404319502009
+Pharmacologic CV (calculator variables): HATCH-Random Forest, Avg Diff: -0.24574628982128993, p-value: 0.014211244993740085
+Pharmacologic CV (calculator variables): HATCH-Extremely Randomized Trees, Avg Diff: -0.26342558275058275, p-value: 0.007731382269975181
+Pharmacologic CV (calculator variables): HATCH-Logistic Regression, Avg Diff: -0.2596040209790209, p-value: 0.005757719724270469
+Pharmacologic CV (calculator variables): HATCH-XGBoost, Avg Diff: -0.2633545648795648, p-value: 0.004925662078862455
+Pharmacologic CV (calculator variables): HATCH-CHA2DS2-VASc, Avg Diff: -0.02342195027195028, p-value: 0.3196743131591949
+Pharmacologic CV (calculator variables): HATCH-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.1406227661227661, p-value: 0.09645385872401749
+Pharmacologic CV (calculator variables): HATCH-HATCH refitted odd ratios, Avg Diff: -0.1345252525252525, p-value: 0.11823533087514142
+Pharmacologic CV (calculator variables): HATCH refitted odd ratios-Random Forest, Avg Diff: -0.11122103729603722, p-value: 0.11233390708883399
+Pharmacologic CV (calculator variables): HATCH refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.12890033022533018, p-value: 0.07165629064708466
+Pharmacologic CV (calculator variables): HATCH refitted odd ratios-Logistic Regression, Avg Diff: -0.12507876845376845, p-value: 0.08408346480784841
+Pharmacologic CV (calculator variables): HATCH refitted odd ratios-XGBoost, Avg Diff: -0.1288293123543123, p-value: 0.08074620400503152
+Pharmacologic CV (calculator variables): HATCH refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.11110330225330223, p-value: 0.1557242188310366
+Pharmacologic CV (calculator variables): HATCH refitted odd ratios-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.0060975135975135895, p-value: 0.4593404319502009
+Pharmacologic CV (calculator variables): HATCH refitted odd ratios-HATCH, Avg Diff: 0.1345252525252525, p-value: 0.11823533087514142

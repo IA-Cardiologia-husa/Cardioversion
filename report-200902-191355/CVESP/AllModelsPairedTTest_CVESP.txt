@@ -1,0 +1,56 @@
+Spontaneous Restoration of SR: Random Forest-Extremely Randomized Trees, Avg Diff: 0.008601960784313734, p-value: 0.3141242354419418
+Spontaneous Restoration of SR: Random Forest-Logistic Regression, Avg Diff: 0.009978787348272644, p-value: 0.34617824136865705
+Spontaneous Restoration of SR: Random Forest-XGBoost, Avg Diff: 0.01759691876750699, p-value: 0.2791280540142212
+Spontaneous Restoration of SR: Random Forest-CHA2DS2-VASc, Avg Diff: 0.46683455007002805, p-value: 3.17774854320336e-06
+Spontaneous Restoration of SR: Random Forest-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.17138529119981322, p-value: 7.939206939447183e-05
+Spontaneous Restoration of SR: Random Forest-HATCH, Avg Diff: 0.5089236169467783, p-value: 6.22259268793135e-07
+Spontaneous Restoration of SR: Random Forest-HATCH refitted odd ratios, Avg Diff: 0.15229708216619983, p-value: 9.807453300489353e-05
+Spontaneous Restoration of SR: Extremely Randomized Trees-Random Forest, Avg Diff: -0.008601960784313734, p-value: 0.3141242354419418
+Spontaneous Restoration of SR: Extremely Randomized Trees-Logistic Regression, Avg Diff: 0.0013768265639589107, p-value: 0.4802216331834437
+Spontaneous Restoration of SR: Extremely Randomized Trees-XGBoost, Avg Diff: 0.008994957983193271, p-value: 0.40458976886423226
+Spontaneous Restoration of SR: Extremely Randomized Trees-CHA2DS2-VASc, Avg Diff: 0.45823258928571436, p-value: 8.975007670846107e-06
+Spontaneous Restoration of SR: Extremely Randomized Trees-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.16278333041549956, p-value: 9.029777660163828e-05
+Spontaneous Restoration of SR: Extremely Randomized Trees-HATCH, Avg Diff: 0.5003216561624647, p-value: 1.959057085817066e-06
+Spontaneous Restoration of SR: Extremely Randomized Trees-HATCH refitted odd ratios, Avg Diff: 0.1436951213818861, p-value: 0.00016904682524417937
+Spontaneous Restoration of SR: Logistic Regression-Random Forest, Avg Diff: -0.009978787348272644, p-value: 0.34617824136865705
+Spontaneous Restoration of SR: Logistic Regression-Extremely Randomized Trees, Avg Diff: -0.0013768265639589107, p-value: 0.4802216331834437
+Spontaneous Restoration of SR: Logistic Regression-XGBoost, Avg Diff: 0.007618131419234359, p-value: 0.38085740272374535
+Spontaneous Restoration of SR: Logistic Regression-CHA2DS2-VASc, Avg Diff: 0.4568557627217553, p-value: 3.882268937245188e-06
+Spontaneous Restoration of SR: Logistic Regression-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.1614065038515406, p-value: 0.0010677457483371463
+Spontaneous Restoration of SR: Logistic Regression-HATCH, Avg Diff: 0.49894482959850583, p-value: 9.593650647324247e-07
+Spontaneous Restoration of SR: Logistic Regression-HATCH refitted odd ratios, Avg Diff: 0.14231829481792724, p-value: 0.0013973673258661833
+Spontaneous Restoration of SR: XGBoost-Random Forest, Avg Diff: -0.01759691876750699, p-value: 0.2791280540142212
+Spontaneous Restoration of SR: XGBoost-Extremely Randomized Trees, Avg Diff: -0.008994957983193271, p-value: 0.40458976886423226
+Spontaneous Restoration of SR: XGBoost-Logistic Regression, Avg Diff: -0.007618131419234359, p-value: 0.38085740272374535
+Spontaneous Restoration of SR: XGBoost-CHA2DS2-VASc, Avg Diff: 0.44923763130252115, p-value: 3.0542574680582924e-06
+Spontaneous Restoration of SR: XGBoost-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.1537883724323062, p-value: 0.0064757933634795855
+Spontaneous Restoration of SR: XGBoost-HATCH, Avg Diff: 0.49132669817927166, p-value: 5.881021631466028e-07
+Spontaneous Restoration of SR: XGBoost-HATCH refitted odd ratios, Avg Diff: 0.13470016339869287, p-value: 0.006949687008631508
+Spontaneous Restoration of SR: CHA2DS2-VASc-Random Forest, Avg Diff: -0.46683455007002805, p-value: 3.17774854320336e-06
+Spontaneous Restoration of SR: CHA2DS2-VASc-Extremely Randomized Trees, Avg Diff: -0.45823258928571436, p-value: 8.975007670846107e-06
+Spontaneous Restoration of SR: CHA2DS2-VASc-Logistic Regression, Avg Diff: -0.4568557627217553, p-value: 3.882268937245188e-06
+Spontaneous Restoration of SR: CHA2DS2-VASc-XGBoost, Avg Diff: -0.44923763130252115, p-value: 3.0542574680582924e-06
+Spontaneous Restoration of SR: CHA2DS2-VASc-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.2954492588702147, p-value: 0.004367812683087832
+Spontaneous Restoration of SR: CHA2DS2-VASc-HATCH, Avg Diff: 0.04208906687675071, p-value: 0.08493968150611027
+Spontaneous Restoration of SR: CHA2DS2-VASc-HATCH refitted odd ratios, Avg Diff: -0.31453746790382825, p-value: 0.00202874036744803
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-Random Forest, Avg Diff: -0.17138529119981322, p-value: 7.939206939447183e-05
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.16278333041549956, p-value: 9.029777660163828e-05
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-Logistic Regression, Avg Diff: -0.1614065038515406, p-value: 0.0010677457483371463
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-XGBoost, Avg Diff: -0.1537883724323062, p-value: 0.0064757933634795855
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.2954492588702147, p-value: 0.004367812683087832
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-HATCH, Avg Diff: 0.3375383257469656, p-value: 0.0015527001653261791
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-HATCH refitted odd ratios, Avg Diff: -0.019088209033613444, p-value: 0.27568276232963007
+Spontaneous Restoration of SR: HATCH-Random Forest, Avg Diff: -0.5089236169467783, p-value: 6.22259268793135e-07
+Spontaneous Restoration of SR: HATCH-Extremely Randomized Trees, Avg Diff: -0.5003216561624647, p-value: 1.959057085817066e-06
+Spontaneous Restoration of SR: HATCH-Logistic Regression, Avg Diff: -0.49894482959850583, p-value: 9.593650647324247e-07
+Spontaneous Restoration of SR: HATCH-XGBoost, Avg Diff: -0.49132669817927166, p-value: 5.881021631466028e-07
+Spontaneous Restoration of SR: HATCH-CHA2DS2-VASc, Avg Diff: -0.04208906687675071, p-value: 0.08493968150611027
+Spontaneous Restoration of SR: HATCH-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.3375383257469656, p-value: 0.0015527001653261791
+Spontaneous Restoration of SR: HATCH-HATCH refitted odd ratios, Avg Diff: -0.3566265347805791, p-value: 0.0007232214903398622
+Spontaneous Restoration of SR: HATCH refitted odd ratios-Random Forest, Avg Diff: -0.15229708216619983, p-value: 9.807453300489353e-05
+Spontaneous Restoration of SR: HATCH refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.1436951213818861, p-value: 0.00016904682524417937
+Spontaneous Restoration of SR: HATCH refitted odd ratios-Logistic Regression, Avg Diff: -0.14231829481792724, p-value: 0.0013973673258661833
+Spontaneous Restoration of SR: HATCH refitted odd ratios-XGBoost, Avg Diff: -0.13470016339869287, p-value: 0.006949687008631508
+Spontaneous Restoration of SR: HATCH refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.31453746790382825, p-value: 0.00202874036744803
+Spontaneous Restoration of SR: HATCH refitted odd ratios-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.019088209033613444, p-value: 0.27568276232963007
+Spontaneous Restoration of SR: HATCH refitted odd ratios-HATCH, Avg Diff: 0.3566265347805791, p-value: 0.0007232214903398622

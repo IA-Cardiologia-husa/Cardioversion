@@ -1,0 +1,100 @@
+Model name: ET
+AUC ROC: 0.6817076969250603
+AUC ROC stderr: 0.04021271256927974
+AUC ROC Confidence Interval (95%): 0.6019169509789492-0.7614984428711714
+AUC PR: 0.6221101568349053
+AUC PR stderr: 0.04639355363773796
+AUC PR Confidence Interval (95%): 0.5300552812661784-0.7141650324036323
+
+Threshold: 0.44817526471858893 Optimum for accuracy
+TP:17.0 FP:10.6 TN:50.9 FN:21.4
+Sensitivity:44.3 Specifity:82.7 Precision:61.6 NPRv:70.4
+
+Threshold: 0.4188674430766727 Optimum for single point AUC
+TP:20.5 FP:15.4 TN:46.2 FN:17.9
+Sensitivity:53.4 Specifity:75.0 Precision:57.2 NPRv:72.0
+
+Optimum for double point AUC
+Threshold: 0.3709068556319206
+TP:25.0 FP:23.0 TN:38.6 FN:13.5
+Sensitivity:65.0 Specifity:62.7 Precision:52.1 NPRv:74.1
+Threshold: 0.47315956997867986
+TP:15.0 FP:8.7 TN:52.8 FN:23.4
+Sensitivity:39.0 Specifity:85.8 Precision:63.3 NPRv:69.3
+
+Optimum for triple point AUC
+Threshold: 0.1996142927738883
+TP:37.3 FP:54.2 TN:7.4 FN:1.2
+Sensitivity:97.0 Specifity:12.0 Precision:40.8 NPRv:86.3
+Threshold: 0.3709068556319206
+TP:25.0 FP:23.0 TN:38.6 FN:13.5
+Sensitivity:65.0 Specifity:62.7 Precision:52.1 NPRv:74.1
+Threshold: 0.47315956997867986
+TP:15.0 FP:8.7 TN:52.8 FN:23.4
+Sensitivity:39.0 Specifity:85.8 Precision:63.3 NPRv:69.3
+
+Threshold: 0.4481472600544733 Optimum for f0.5
+TP:17.0 FP:10.7 TN:50.9 FN:21.4
+Sensitivity:44.3 Specifity:82.7 Precision:61.5 NPRv:70.4
+
+Threshold: 0.36953954508182646 Optimum for f1
+TP:25.1 FP:23.4 TN:38.2 FN:13.4
+Sensitivity:65.2 Specifity:62.0 Precision:51.8 NPRv:74.1
+
+Threshold: 0.16167274041574262 Optimum for f2
+TP:38.3 FP:59.4 TN:2.1 FN:0.2
+Sensitivity:99.5 Specifity:3.5 Precision:39.2 NPRv:92.1
+
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+ET eli5 MDA importances with cv=10
+CV ESPONTÁNEA        1.000 1.705
+Dil AI LMS           1.000 2.023
+Dil AI MS            0.943 1.815
+IECAS/ARA II         0.849 1.728
+ICTUS/AIT PREVIO     0.840 1.426
+ACO previa si no     0.713 1.465
+AA post              0.685 1.633
+FA_paroxistica       0.683 1.313
+CF>=3                0.504 1.582
+Previous CVE attempt 0.492 1.494
+Dil AI S             0.491 1.974
+dronedarona post     0.371 0.678
+Creatinina           0.368 0.863
+BB si no             0.347 1.386
+CC s n               0.298 1.131
+RESPIRATORIO         0.289 1.455
+FEVI M-G             0.284 0.997
+CHOQUES              0.258 0.941
+sintrom              0.242 0.824
+ENERGIA MAX          0.227 1.050
+IM                   0.211 0.818
+EDAD                 0.169 1.558
+FEVI L-M-G           0.135 1.084
+MOVILIDAD            0.134 0.735
+flecainida post      0.105 1.267
+CF==4                0.066 0.441
+IMC                  0.053 1.011
+fumador              0.050 0.932
+exfumador o fumador  0.019 1.449
+heparina             0.000 0.000
+CV EFECTIVA          0.000 0.000
+AA pre               -0.007 2.064
+rivaroxaban          -0.012 1.379
+edoxaban             -0.035 0.687
+CV FARMA             -0.038 0.697
+FEVI G               -0.042 0.757
+dabigatran           -0.068 0.837
+CF>=2                -0.097 1.758
+apixaban             -0.268 0.792
+ICC                  -0.422 1.146
+amiodarona post      -0.456 1.371

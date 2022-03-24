@@ -1,0 +1,116 @@
+Model name: ET
+AUC ROC: 0.7129629629629629
+AUC ROC stderr: 0.08755047769819832
+AUC ROC Confidence Interval (95%): 0.6254124852647646-0.8005134406611613
+AUC PR: 0.41850385348636227
+AUC PR stderr: 0.11040804248365257
+AUC PR Confidence Interval (95%): 0.30809581100270966-0.5289118959700149
+
+Threshold: 0.4180040984774349 Optimum for accuracy
+TP:8.9 FP:4.4 TN:75.6 FN:11.1
+Sensitivity:44.4 Specifity:94.4 Precision:66.7 NPRv:87.2
+
+Threshold: 0.2582094042116008 Optimum for single point AUC
+TP:11.1 FP:8.9 TN:71.1 FN:8.9
+Sensitivity:55.6 Specifity:88.9 Precision:55.6 NPRv:88.9
+
+Optimum for double point AUC
+Threshold: 0.16093642287667725
+TP:17.8 FP:46.7 TN:33.3 FN:2.2
+Sensitivity:88.9 Specifity:41.7 Precision:27.6 NPRv:93.8
+Threshold: 0.2582094042116008
+TP:11.1 FP:8.9 TN:71.1 FN:8.9
+Sensitivity:55.6 Specifity:88.9 Precision:55.6 NPRv:88.9
+
+Optimum for triple point AUC
+Threshold: 0.16093642287667725
+TP:17.8 FP:46.7 TN:33.3 FN:2.2
+Sensitivity:88.9 Specifity:41.7 Precision:27.6 NPRv:93.8
+Threshold: 0.2582094042116008
+TP:11.1 FP:8.9 TN:71.1 FN:8.9
+Sensitivity:55.6 Specifity:88.9 Precision:55.6 NPRv:88.9
+Threshold: 0.4180040984774349
+TP:8.9 FP:4.4 TN:75.6 FN:11.1
+Sensitivity:44.4 Specifity:94.4 Precision:66.7 NPRv:87.2
+
+Threshold: 0.4180040984774349 Optimum for f0.5
+TP:8.9 FP:4.4 TN:75.6 FN:11.1
+Sensitivity:44.4 Specifity:94.4 Precision:66.7 NPRv:87.2
+
+Threshold: 0.2582094042116008 Optimum for f1
+TP:11.1 FP:8.9 TN:71.1 FN:8.9
+Sensitivity:55.6 Specifity:88.9 Precision:55.6 NPRv:88.9
+
+Threshold: 0.16093642287667725 Optimum for f2
+TP:17.8 FP:46.7 TN:33.3 FN:2.2
+Sensitivity:88.9 Specifity:41.7 Precision:27.6 NPRv:93.8
+
+ET eli5 MDA importances on external Dataset
+FA_paroxistica       1.000 0.340
+flecainida           0.272 0.172
+amiodarona           0.109 0.039
+DL                   0.042 0.042
+IMC                  0.042 0.032
+edoxaban             0.038 0.108
+TALLA                0.034 0.036
+EAP                  0.024 0.068
+Dil AI MS            0.024 0.018
+exfumador o fumador  0.009 0.007
+EAC o CI             0.001 0.006
+CF>=3                0.001 0.018
+AAS                  0.001 0.003
+Iao                  0.001 0.003
+IM                   0.001 0.023
+heparina             0.000 0.000
+dronedarona          0.000 0.000
+dabigatran           0.000 0.000
+clopi o tica         0.000 0.000
+apixaban             0.000 0.000
+Valvulopatía sign    0.000 0.000
+TEP/TVP              0.000 0.000
+SAC VAL              0.000 0.000
+REUMATICA            0.000 0.000
+RESPIRATORIO         0.000 0.000
+Prot mec             0.000 0.000
+MOVILIDAD            0.000 0.000
+IT                   0.000 0.000
+HP low               0.000 0.000
+HP high              0.000 0.000
+FEVI M-G             0.000 0.000
+FEVI L-M-G           0.000 0.000
+FEVI G               0.000 0.000
+FA_persistenteLD2    0.000 0.000
+Eao                  0.000 0.000
+EM                   0.000 0.000
+Doble Antiagregantes 0.000 0.000
+Dil AI S             0.000 0.000
+Dil AI LMS           0.000 0.000
+DM                   0.000 0.000
+DIGOXINA             0.000 0.000
+CF==4                0.000 0.000
+CC s n               0.000 0.000
+ANEMIA               0.000 0.000
+AINES                0.000 0.000
+AA pre               0.000 0.000
+HASBLED              -0.000 0.017
+ARM                  -0.001 0.008
+fumador              -0.001 0.006
+Previous CVE attempt -0.001 0.004
+Creatinina           -0.002 0.013
+EDAD                 -0.002 0.005
+TFG                  -0.002 0.014
+Genero               -0.004 0.007
+ACO previa si no     -0.005 0.007
+NEOPLASIA            -0.010 0.105
+BB si no             -0.011 0.020
+CF>=2                -0.017 0.078
+HTA                  -0.019 0.015
+IECAS/ARA II         -0.022 0.076
+Prot bio             -0.022 0.027
+ICTUS/AIT PREVIO     -0.026 0.019
+Masa VI              -0.028 0.024
+SANGRADO PREVIO      -0.032 0.067
+sintrom              -0.053 0.033
+AVK O ACOD           -0.073 0.043
+rivaroxaban          -0.138 0.079
+ICC                  -0.212 0.096

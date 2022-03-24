@@ -1,0 +1,56 @@
+AF Recurrence: Random Forest-Extremely Randomized Trees, Avg Diff: -0.011475409836065653, p-value: nan
+AF Recurrence: Random Forest-Logistic Regression, Avg Diff: -0.03319672131147544, p-value: nan
+AF Recurrence: Random Forest-XGBoost, Avg Diff: 0.040983606557376984, p-value: nan
+AF Recurrence: Random Forest-CHA2DS2-VASc, Avg Diff: 0.194467213114754, p-value: nan
+AF Recurrence: Random Forest-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.11864754098360658, p-value: nan
+AF Recurrence: Random Forest-HATCH, Avg Diff: 0.11495901639344258, p-value: nan
+AF Recurrence: Random Forest-HATCH refitted odd ratios, Avg Diff: 0.04610655737704916, p-value: nan
+AF Recurrence: Extremely Randomized Trees-Random Forest, Avg Diff: 0.011475409836065653, p-value: nan
+AF Recurrence: Extremely Randomized Trees-Logistic Regression, Avg Diff: -0.021721311475409788, p-value: nan
+AF Recurrence: Extremely Randomized Trees-XGBoost, Avg Diff: 0.05245901639344264, p-value: nan
+AF Recurrence: Extremely Randomized Trees-CHA2DS2-VASc, Avg Diff: 0.20594262295081966, p-value: nan
+AF Recurrence: Extremely Randomized Trees-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.13012295081967223, p-value: nan
+AF Recurrence: Extremely Randomized Trees-HATCH, Avg Diff: 0.12643442622950823, p-value: nan
+AF Recurrence: Extremely Randomized Trees-HATCH refitted odd ratios, Avg Diff: 0.057581967213114815, p-value: nan
+AF Recurrence: Logistic Regression-Random Forest, Avg Diff: 0.03319672131147544, p-value: nan
+AF Recurrence: Logistic Regression-Extremely Randomized Trees, Avg Diff: 0.021721311475409788, p-value: nan
+AF Recurrence: Logistic Regression-XGBoost, Avg Diff: 0.07418032786885242, p-value: nan
+AF Recurrence: Logistic Regression-CHA2DS2-VASc, Avg Diff: 0.22766393442622945, p-value: nan
+AF Recurrence: Logistic Regression-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.15184426229508202, p-value: nan
+AF Recurrence: Logistic Regression-HATCH, Avg Diff: 0.14815573770491802, p-value: nan
+AF Recurrence: Logistic Regression-HATCH refitted odd ratios, Avg Diff: 0.0793032786885246, p-value: nan
+AF Recurrence: XGBoost-Random Forest, Avg Diff: -0.040983606557376984, p-value: nan
+AF Recurrence: XGBoost-Extremely Randomized Trees, Avg Diff: -0.05245901639344264, p-value: nan
+AF Recurrence: XGBoost-Logistic Regression, Avg Diff: -0.07418032786885242, p-value: nan
+AF Recurrence: XGBoost-CHA2DS2-VASc, Avg Diff: 0.15348360655737703, p-value: nan
+AF Recurrence: XGBoost-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.0776639344262296, p-value: nan
+AF Recurrence: XGBoost-HATCH, Avg Diff: 0.0739754098360656, p-value: nan
+AF Recurrence: XGBoost-HATCH refitted odd ratios, Avg Diff: 0.0051229508196721785, p-value: nan
+AF Recurrence: CHA2DS2-VASc-Random Forest, Avg Diff: -0.194467213114754, p-value: nan
+AF Recurrence: CHA2DS2-VASc-Extremely Randomized Trees, Avg Diff: -0.20594262295081966, p-value: nan
+AF Recurrence: CHA2DS2-VASc-Logistic Regression, Avg Diff: -0.22766393442622945, p-value: nan
+AF Recurrence: CHA2DS2-VASc-XGBoost, Avg Diff: -0.15348360655737703, p-value: nan
+AF Recurrence: CHA2DS2-VASc-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.07581967213114743, p-value: nan
+AF Recurrence: CHA2DS2-VASc-HATCH, Avg Diff: -0.07950819672131143, p-value: nan
+AF Recurrence: CHA2DS2-VASc-HATCH refitted odd ratios, Avg Diff: -0.14836065573770485, p-value: nan
+AF Recurrence: CHA2DS2-VASc refitted odd ratios-Random Forest, Avg Diff: -0.11864754098360658, p-value: nan
+AF Recurrence: CHA2DS2-VASc refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.13012295081967223, p-value: nan
+AF Recurrence: CHA2DS2-VASc refitted odd ratios-Logistic Regression, Avg Diff: -0.15184426229508202, p-value: nan
+AF Recurrence: CHA2DS2-VASc refitted odd ratios-XGBoost, Avg Diff: -0.0776639344262296, p-value: nan
+AF Recurrence: CHA2DS2-VASc refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.07581967213114743, p-value: nan
+AF Recurrence: CHA2DS2-VASc refitted odd ratios-HATCH, Avg Diff: -0.0036885245901639996, p-value: nan
+AF Recurrence: CHA2DS2-VASc refitted odd ratios-HATCH refitted odd ratios, Avg Diff: -0.07254098360655742, p-value: nan
+AF Recurrence: HATCH-Random Forest, Avg Diff: -0.11495901639344258, p-value: nan
+AF Recurrence: HATCH-Extremely Randomized Trees, Avg Diff: -0.12643442622950823, p-value: nan
+AF Recurrence: HATCH-Logistic Regression, Avg Diff: -0.14815573770491802, p-value: nan
+AF Recurrence: HATCH-XGBoost, Avg Diff: -0.0739754098360656, p-value: nan
+AF Recurrence: HATCH-CHA2DS2-VASc, Avg Diff: 0.07950819672131143, p-value: nan
+AF Recurrence: HATCH-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.0036885245901639996, p-value: nan
+AF Recurrence: HATCH-HATCH refitted odd ratios, Avg Diff: -0.06885245901639342, p-value: nan
+AF Recurrence: HATCH refitted odd ratios-Random Forest, Avg Diff: -0.04610655737704916, p-value: nan
+AF Recurrence: HATCH refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.057581967213114815, p-value: nan
+AF Recurrence: HATCH refitted odd ratios-Logistic Regression, Avg Diff: -0.0793032786885246, p-value: nan
+AF Recurrence: HATCH refitted odd ratios-XGBoost, Avg Diff: -0.0051229508196721785, p-value: nan
+AF Recurrence: HATCH refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.14836065573770485, p-value: nan
+AF Recurrence: HATCH refitted odd ratios-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.07254098360655742, p-value: nan
+AF Recurrence: HATCH refitted odd ratios-HATCH, Avg Diff: 0.06885245901639342, p-value: nan

@@ -1,0 +1,127 @@
+Model name: LR_SCL_pipeline
+AUC ROC: 0.5086291610944357
+AUC ROC stderr: 0.05613159717144073
+AUC ROC Confidence Interval (95%): 0.39725189447160614-0.6200064277172652
+AUC PR: 0.8482410845990002
+AUC PR stderr: 0.022638677616099154
+AUC PR Confidence Interval (95%): 0.803321036713396-0.8931611324846043
+
+Threshold: 0.6876833530201598 Optimum for accuracy
+TP:82.8 FP:16.7 TN:0.2 FN:0.3
+Sensitivity:99.6 Specifity:0.9 Precision:83.2 NPRv:33.3
+
+Threshold: 0.8018689041757373 Optimum for single point AUC
+TP:69.0 FP:13.5 TN:3.3 FN:14.1
+Sensitivity:83.0 Specifity:19.8 Precision:83.6 NPRv:19.1
+
+Optimum for double point AUC
+Threshold: 0.7503493280428775
+TP:80.4 FP:16.0 TN:0.8 FN:2.7
+Sensitivity:96.7 Specifity:4.9 Precision:83.4 NPRv:23.3
+Threshold: 0.8018689041757373
+TP:69.0 FP:13.5 TN:3.3 FN:14.1
+Sensitivity:83.0 Specifity:19.8 Precision:83.6 NPRv:19.1
+
+Optimum for triple point AUC
+Threshold: 0.6876833530201598
+TP:82.8 FP:16.7 TN:0.2 FN:0.3
+Sensitivity:99.6 Specifity:0.9 Precision:83.2 NPRv:33.3
+Threshold: 0.7578911971727659
+TP:79.8 FP:15.9 TN:1.0 FN:3.4
+Sensitivity:95.9 Specifity:5.8 Precision:83.4 NPRv:22.5
+Threshold: 0.8018689041757373
+TP:69.0 FP:13.5 TN:3.3 FN:14.1
+Sensitivity:83.0 Specifity:19.8 Precision:83.6 NPRv:19.1
+
+Threshold: 0.5852345131641147 Optimum for f0.5
+TP:83.1 FP:16.9 TN:0.0 FN:0.0
+Sensitivity:100.0 Specifity:0.0 Precision:83.1 NPRv:100.0
+
+Threshold: 0.5852345131641147 Optimum for f1
+TP:83.1 FP:16.9 TN:0.0 FN:0.0
+Sensitivity:100.0 Specifity:0.0 Precision:83.1 NPRv:100.0
+
+Threshold: 0.5852345131641147 Optimum for f2
+TP:83.1 FP:16.9 TN:0.0 FN:0.0
+Sensitivity:100.0 Specifity:0.0 Precision:83.1 NPRv:100.0
+
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+LR_SCL_pipeline eli5 MDA importances with cv=10
+RESPIRATORIO         1.000 2.380
+FA_persistenteLD2    0.925 1.902
+Genero               0.633 2.362
+CC s n               0.220 0.779
+MOVILIDAD            0.183 0.642
+Dil AI LMS           0.180 0.835
+AAS                  0.140 0.503
+Masa VI              0.133 0.446
+Doble Antiagregantes 0.131 0.819
+Prot mec             0.110 0.369
+Eao                  0.086 0.380
+CF>=3                0.083 0.273
+FEVI M-G             0.082 0.308
+dabigatran           0.082 0.757
+exfumador o fumador  0.066 0.230
+IT                   0.061 0.277
+HASBLED              0.054 0.290
+Previous CVE attempt 0.045 0.164
+DIGOXINA             0.033 1.227
+apixaban             0.027 0.082
+ICTUS/AIT PREVIO     0.025 0.446
+TFG                  0.024 0.561
+CF==4                0.014 0.090
+Iao                  0.012 0.416
+ANEMIA               0.009 0.180
+AVK O ACOD           0.009 0.074
+EAC o CI             0.008 0.162
+Creatinina           0.008 0.257
+sintrom              0.007 0.074
+AA pre               0.006 0.064
+HTA                  0.004 0.083
+heparina             0.000 0.000
+edoxaban             0.000 0.000
+dronedarona          0.000 0.000
+clopi o tica         0.000 0.000
+SAC VAL              0.000 0.000
+amiodarona           -0.004 0.128
+FA_paroxistica       -0.004 0.247
+ICC                  -0.005 0.306
+HP high              -0.005 0.074
+BB si no             -0.006 0.089
+EM                   -0.006 0.245
+EDAD                 -0.007 0.057
+TEP/TVP              -0.015 0.388
+FEVI L-M-G           -0.025 0.098
+ACO previa si no     -0.035 0.122
+REUMATICA            -0.040 0.337
+IECAS/ARA II         -0.041 0.427
+rivaroxaban          -0.041 0.149
+HP low               -0.046 0.180
+SANGRADO PREVIO      -0.049 0.380
+AINES                -0.052 0.204
+Dil AI S             -0.053 0.246
+CF>=2                -0.053 0.172
+NEOPLASIA            -0.055 0.179
+EAP                  -0.062 0.597
+DL                   -0.074 0.514
+IMC                  -0.082 0.229
+flecainida           -0.095 0.297
+Valvulopatía sign    -0.113 0.261
+Prot bio             -0.116 0.379
+ARM                  -0.145 0.614
+fumador              -0.145 0.477
+Dil AI MS            -0.153 0.592
+IM                   -0.156 1.113
+TALLA                -0.165 0.422
+DM                   -0.226 0.677
+FEVI G               -0.892 2.795

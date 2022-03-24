@@ -1,0 +1,116 @@
+Model name: LR_SCL_pipeline
+AUC ROC: 0.6576292559899117
+AUC ROC stderr: 0.05180632354282289
+AUC ROC Confidence Interval (95%): 0.6058229324470888-0.7094355795327346
+AUC PR: 0.6832998107802605
+AUC PR stderr: 0.05066257367584686
+AUC PR Confidence Interval (95%): 0.6326372371044137-0.7339623844561073
+
+Threshold: 0.5564784611091047 Optimum for accuracy
+TP:37.2 FP:17.7 TN:28.3 FN:16.8
+Sensitivity:68.9 Specifity:61.5 Precision:67.7 NPRv:62.7
+
+Threshold: 0.6313765931524357 Optimum for single point AUC
+TP:24.8 FP:6.2 TN:39.8 FN:29.2
+Sensitivity:45.9 Specifity:86.5 Precision:80.0 NPRv:57.7
+
+Optimum for double point AUC
+Threshold: 0.5523602322831656
+TP:38.1 FP:18.6 TN:27.4 FN:15.9
+Sensitivity:70.5 Specifity:59.6 Precision:67.2 NPRv:63.3
+Threshold: 0.6313765931524357
+TP:24.8 FP:6.2 TN:39.8 FN:29.2
+Sensitivity:45.9 Specifity:86.5 Precision:80.0 NPRv:57.7
+
+Optimum for triple point AUC
+Threshold: 0.31193158241516217
+TP:54.0 FP:45.1 TN:0.9 FN:0.0
+Sensitivity:100.0 Specifity:1.9 Precision:54.5 NPRv:100.0
+Threshold: 0.5523602322831656
+TP:38.1 FP:18.6 TN:27.4 FN:15.9
+Sensitivity:70.5 Specifity:59.6 Precision:67.2 NPRv:63.3
+Threshold: 0.6313765931524357
+TP:24.8 FP:6.2 TN:39.8 FN:29.2
+Sensitivity:45.9 Specifity:86.5 Precision:80.0 NPRv:57.7
+
+Threshold: 0.6292330923317488 Optimum for f0.5
+TP:24.8 FP:7.1 TN:38.9 FN:29.2
+Sensitivity:45.9 Specifity:84.6 Precision:77.8 NPRv:57.1
+
+Threshold: 0.31193158241516217 Optimum for f1
+TP:54.0 FP:45.1 TN:0.9 FN:0.0
+Sensitivity:100.0 Specifity:1.9 Precision:54.5 NPRv:100.0
+
+Threshold: 0.31193158241516217 Optimum for f2
+TP:54.0 FP:45.1 TN:0.9 FN:0.0
+Sensitivity:100.0 Specifity:1.9 Precision:54.5 NPRv:100.0
+
+LR_SCL_pipeline eli5 MDA importances on external Dataset
+FA_paroxistica       1.000 0.471
+MOVILIDAD            0.701 0.349
+Previous CVE attempt 0.416 0.204
+Dil AI S             0.390 0.278
+RESPIRATORIO         0.366 0.395
+CF>=3                0.312 0.348
+Dil AI LMS           0.275 0.342
+HTA                  0.205 0.188
+ACO previa si no     0.202 0.229
+CC s n               0.180 0.224
+HASBLED              0.121 0.093
+EAP                  0.093 0.060
+rivaroxaban          0.085 0.125
+ARM                  0.059 0.051
+IM                   0.040 0.103
+Creatinina           0.036 0.061
+BB si no             0.022 0.045
+DIGOXINA             0.019 0.054
+exfumador o fumador  0.016 0.220
+EM                   0.011 0.018
+REUMATICA            0.009 0.013
+AAS                  0.009 0.028
+sintrom              0.008 0.005
+Dil AI MS            0.005 0.039
+AVK O ACOD           0.004 0.005
+ICC                  0.003 0.018
+Iao                  0.003 0.007
+heparina             0.000 0.000
+dronedarona          0.000 0.000
+clopi o tica         0.000 0.000
+apixaban             0.000 0.000
+amiodarona           0.000 0.000
+Valvulopatía sign    0.000 0.000
+TFG                  0.000 0.000
+TALLA                0.000 0.000
+SAC VAL              0.000 0.000
+Prot mec             0.000 0.000
+Masa VI              0.000 0.000
+IT                   0.000 0.000
+FEVI L-M-G           0.000 0.000
+FEVI G               0.000 0.000
+FA_persistenteLD2    0.000 0.000
+EDAD                 0.000 0.000
+CF>=2                0.000 0.000
+CF==4                0.000 0.000
+ANEMIA               0.000 0.000
+AINES                0.000 0.000
+Doble Antiagregantes -0.000 0.035
+edoxaban             -0.004 0.019
+IECAS/ARA II         -0.005 0.006
+dabigatran           -0.007 0.007
+DM                   -0.010 0.020
+TEP/TVP              -0.014 0.107
+Prot bio             -0.018 0.154
+flecainida           -0.018 0.152
+NEOPLASIA            -0.025 0.042
+AA pre               -0.027 0.033
+fumador              -0.030 0.143
+DL                   -0.032 0.031
+HP high              -0.033 0.027
+HP low               -0.035 0.020
+IMC                  -0.047 0.074
+Eao                  -0.062 0.047
+FEVI M-G             -0.067 0.108
+ICTUS/AIT PREVIO     -0.119 0.381
+SANGRADO PREVIO      -0.140 0.151
+Genero               -0.191 0.125
+EAC o CI             -0.204 0.146

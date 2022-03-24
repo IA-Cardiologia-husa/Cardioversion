@@ -1,0 +1,56 @@
+Successful CV (calculator variables): Random Forest-Extremely Randomized Trees, Avg Diff: -0.006256597720533971, p-value: 0.3000789110383579
+Successful CV (calculator variables): Random Forest-Logistic Regression, Avg Diff: 0.01712696204885508, p-value: 0.22119455733970522
+Successful CV (calculator variables): Random Forest-XGBoost, Avg Diff: 0.037000142106095806, p-value: 0.04308680749750418
+Successful CV (calculator variables): Random Forest-CHA2DS2-VASc, Avg Diff: 0.27634139439343874, p-value: 2.446305351348913e-07
+Successful CV (calculator variables): Random Forest-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.0899576259599612, p-value: 0.016227074921504325
+Successful CV (calculator variables): Random Forest-HATCH, Avg Diff: 0.28755761785924894, p-value: 2.212786945878115e-06
+Successful CV (calculator variables): Random Forest-HATCH refitted odd ratios, Avg Diff: 0.07179682256511906, p-value: 0.03519800324199542
+Successful CV (calculator variables): Extremely Randomized Trees-Random Forest, Avg Diff: 0.006256597720533971, p-value: 0.3000789110383579
+Successful CV (calculator variables): Extremely Randomized Trees-Logistic Regression, Avg Diff: 0.02338355976938904, p-value: 0.17837501051432514
+Successful CV (calculator variables): Extremely Randomized Trees-XGBoost, Avg Diff: 0.04325673982662976, p-value: 0.047199122827103875
+Successful CV (calculator variables): Extremely Randomized Trees-CHA2DS2-VASc, Avg Diff: 0.2825979921139725, p-value: 5.5761078227232864e-08
+Successful CV (calculator variables): Extremely Randomized Trees-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.09621422368049515, p-value: 0.011193027427822218
+Successful CV (calculator variables): Extremely Randomized Trees-HATCH, Avg Diff: 0.29381421557978304, p-value: 7.277953891377008e-07
+Successful CV (calculator variables): Extremely Randomized Trees-HATCH refitted odd ratios, Avg Diff: 0.07805342028565304, p-value: 0.02810117036493911
+Successful CV (calculator variables): Logistic Regression-Random Forest, Avg Diff: -0.01712696204885508, p-value: 0.22119455733970522
+Successful CV (calculator variables): Logistic Regression-Extremely Randomized Trees, Avg Diff: -0.02338355976938904, p-value: 0.17837501051432514
+Successful CV (calculator variables): Logistic Regression-XGBoost, Avg Diff: 0.019873180057240734, p-value: 0.1154750445227436
+Successful CV (calculator variables): Logistic Regression-CHA2DS2-VASc, Avg Diff: 0.25921443234458347, p-value: 3.601921607749532e-06
+Successful CV (calculator variables): Logistic Regression-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.07283066391110615, p-value: 0.04101620800697086
+Successful CV (calculator variables): Logistic Regression-HATCH, Avg Diff: 0.27043065581039394, p-value: 1.9605472595614623e-05
+Successful CV (calculator variables): Logistic Regression-HATCH refitted odd ratios, Avg Diff: 0.05466986051626398, p-value: 0.06281785171125322
+Successful CV (calculator variables): XGBoost-Random Forest, Avg Diff: -0.037000142106095806, p-value: 0.04308680749750418
+Successful CV (calculator variables): XGBoost-Extremely Randomized Trees, Avg Diff: -0.04325673982662976, p-value: 0.047199122827103875
+Successful CV (calculator variables): XGBoost-Logistic Regression, Avg Diff: -0.019873180057240734, p-value: 0.1154750445227436
+Successful CV (calculator variables): XGBoost-CHA2DS2-VASc, Avg Diff: 0.23934125228734282, p-value: 2.3323376435140326e-05
+Successful CV (calculator variables): XGBoost-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.05295748385386543, p-value: 0.10760405078279103
+Successful CV (calculator variables): XGBoost-HATCH, Avg Diff: 0.2505574757531532, p-value: 8.846957921861477e-05
+Successful CV (calculator variables): XGBoost-HATCH refitted odd ratios, Avg Diff: 0.034796680459023274, p-value: 0.1751785165948604
+Successful CV (calculator variables): CHA2DS2-VASc-Random Forest, Avg Diff: -0.27634139439343874, p-value: 2.446305351348913e-07
+Successful CV (calculator variables): CHA2DS2-VASc-Extremely Randomized Trees, Avg Diff: -0.2825979921139725, p-value: 5.5761078227232864e-08
+Successful CV (calculator variables): CHA2DS2-VASc-Logistic Regression, Avg Diff: -0.25921443234458347, p-value: 3.601921607749532e-06
+Successful CV (calculator variables): CHA2DS2-VASc-XGBoost, Avg Diff: -0.23934125228734282, p-value: 2.3323376435140326e-05
+Successful CV (calculator variables): CHA2DS2-VASc-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.18638376843347745, p-value: 0.00033834308030908806
+Successful CV (calculator variables): CHA2DS2-VASc-HATCH, Avg Diff: 0.011216223465810377, p-value: 0.3001238987272377
+Successful CV (calculator variables): CHA2DS2-VASc-HATCH refitted odd ratios, Avg Diff: -0.20454457182831953, p-value: 0.0001501924345609547
+Successful CV (calculator variables): CHA2DS2-VASc refitted odd ratios-Random Forest, Avg Diff: -0.0899576259599612, p-value: 0.016227074921504325
+Successful CV (calculator variables): CHA2DS2-VASc refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.09621422368049515, p-value: 0.011193027427822218
+Successful CV (calculator variables): CHA2DS2-VASc refitted odd ratios-Logistic Regression, Avg Diff: -0.07283066391110615, p-value: 0.04101620800697086
+Successful CV (calculator variables): CHA2DS2-VASc refitted odd ratios-XGBoost, Avg Diff: -0.05295748385386543, p-value: 0.10760405078279103
+Successful CV (calculator variables): CHA2DS2-VASc refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.18638376843347745, p-value: 0.00033834308030908806
+Successful CV (calculator variables): CHA2DS2-VASc refitted odd ratios-HATCH, Avg Diff: 0.19759999189928767, p-value: 0.0005814620174405292
+Successful CV (calculator variables): CHA2DS2-VASc refitted odd ratios-HATCH refitted odd ratios, Avg Diff: -0.01816080339484214, p-value: 0.2645361593071282
+Successful CV (calculator variables): HATCH-Random Forest, Avg Diff: -0.28755761785924894, p-value: 2.212786945878115e-06
+Successful CV (calculator variables): HATCH-Extremely Randomized Trees, Avg Diff: -0.29381421557978304, p-value: 7.277953891377008e-07
+Successful CV (calculator variables): HATCH-Logistic Regression, Avg Diff: -0.27043065581039394, p-value: 1.9605472595614623e-05
+Successful CV (calculator variables): HATCH-XGBoost, Avg Diff: -0.2505574757531532, p-value: 8.846957921861477e-05
+Successful CV (calculator variables): HATCH-CHA2DS2-VASc, Avg Diff: -0.011216223465810377, p-value: 0.3001238987272377
+Successful CV (calculator variables): HATCH-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.19759999189928767, p-value: 0.0005814620174405292
+Successful CV (calculator variables): HATCH-HATCH refitted odd ratios, Avg Diff: -0.2157607952941299, p-value: 0.0006610997578178742
+Successful CV (calculator variables): HATCH refitted odd ratios-Random Forest, Avg Diff: -0.07179682256511906, p-value: 0.03519800324199542
+Successful CV (calculator variables): HATCH refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.07805342028565304, p-value: 0.02810117036493911
+Successful CV (calculator variables): HATCH refitted odd ratios-Logistic Regression, Avg Diff: -0.05466986051626398, p-value: 0.06281785171125322
+Successful CV (calculator variables): HATCH refitted odd ratios-XGBoost, Avg Diff: -0.034796680459023274, p-value: 0.1751785165948604
+Successful CV (calculator variables): HATCH refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.20454457182831953, p-value: 0.0001501924345609547
+Successful CV (calculator variables): HATCH refitted odd ratios-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.01816080339484214, p-value: 0.2645361593071282
+Successful CV (calculator variables): HATCH refitted odd ratios-HATCH, Avg Diff: 0.2157607952941299, p-value: 0.0006610997578178742

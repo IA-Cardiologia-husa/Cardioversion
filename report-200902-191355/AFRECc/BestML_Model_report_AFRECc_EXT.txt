@@ -1,0 +1,89 @@
+Model name: LR_SCL_pipeline
+AUC ROC: 0.6610655737704918
+AUC ROC stderr: 0.053960853604802475
+AUC ROC Confidence Interval (95%): 0.6071047201656893-0.7150264273752943
+AUC PR: 0.5421713013656392
+AUC PR stderr: 0.05842466620943142
+AUC PR Confidence Interval (95%): 0.48374663515620775-0.6005959675750706
+
+Threshold: 0.4073671110258301 Optimum for accuracy
+TP:20.8 FP:13.9 TN:46.5 FN:18.8
+Sensitivity:52.5 Specifity:77.0 Precision:60.0 NPRv:71.2
+
+Threshold: 0.3247057032373809 Optimum for single point AUC
+TP:29.7 FP:25.7 TN:34.7 FN:9.9
+Sensitivity:75.0 Specifity:57.4 Precision:53.6 NPRv:77.8
+
+Optimum for double point AUC
+Threshold: 0.3247057032373809
+TP:29.7 FP:25.7 TN:34.7 FN:9.9
+Sensitivity:75.0 Specifity:57.4 Precision:53.6 NPRv:77.8
+Threshold: 0.4073671110258301
+TP:20.8 FP:13.9 TN:46.5 FN:18.8
+Sensitivity:52.5 Specifity:77.0 Precision:60.0 NPRv:71.2
+
+Optimum for triple point AUC
+Threshold: 0.1929014790025262
+TP:39.6 FP:54.5 TN:5.9 FN:0.0
+Sensitivity:100.0 Specifity:9.8 Precision:42.1 NPRv:100.0
+Threshold: 0.3247057032373809
+TP:29.7 FP:25.7 TN:34.7 FN:9.9
+Sensitivity:75.0 Specifity:57.4 Precision:53.6 NPRv:77.8
+Threshold: 0.4073671110258301
+TP:20.8 FP:13.9 TN:46.5 FN:18.8
+Sensitivity:52.5 Specifity:77.0 Precision:60.0 NPRv:71.2
+
+Threshold: 0.40379317461908304 Optimum for f0.5
+TP:21.8 FP:14.9 TN:45.5 FN:17.8
+Sensitivity:55.0 Specifity:75.4 Precision:59.5 NPRv:71.9
+
+Threshold: 0.3247057032373809 Optimum for f1
+TP:29.7 FP:25.7 TN:34.7 FN:9.9
+Sensitivity:75.0 Specifity:57.4 Precision:53.6 NPRv:77.8
+
+Threshold: 0.1929014790025262 Optimum for f2
+TP:39.6 FP:54.5 TN:5.9 FN:0.0
+Sensitivity:100.0 Specifity:9.8 Precision:42.1 NPRv:100.0
+
+LR_SCL_pipeline eli5 MDA importances on external Dataset
+MOVILIDAD            1.000 0.624
+Previous CVE attempt 0.996 0.610
+Dil AI S             0.787 0.458
+Dil AI MS            0.779 0.283
+ICTUS/AIT PREVIO     0.621 0.694
+FA_paroxistica       0.509 0.607
+IECAS/ARA II         0.503 0.388
+CF>=3                0.448 0.869
+amiodarona post      0.428 0.296
+IMC                  0.370 0.254
+FEVI G               0.340 0.277
+EDAD                 0.311 0.294
+ACO previa si no     0.294 0.330
+FEVI L-M-G           0.266 0.330
+rivaroxaban          0.246 0.289
+Dil AI LMS           0.237 0.466
+apixaban             0.190 0.169
+RESPIRATORIO         0.180 0.418
+edoxaban             0.112 0.144
+fumador              0.076 0.549
+ENERGIA MAX          0.051 0.066
+IM                   0.027 0.041
+Creatinina           0.024 0.284
+flecainida post      0.021 0.148
+dabigatran           0.002 0.027
+heparina             0.000 0.000
+dronedarona post     0.000 0.000
+CV EFECTIVA          0.000 0.000
+CF==4                0.000 0.000
+exfumador o fumador  -0.002 0.498
+ICC                  -0.017 0.094
+AA post              -0.028 0.017
+CF>=2                -0.031 0.066
+CHOQUES              -0.057 0.371
+sintrom              -0.061 0.174
+BB si no             -0.061 0.374
+CV FARMA             -0.139 0.078
+AA pre               -0.173 0.172
+CC s n               -0.190 0.477
+CV ESPONTÁNEA        -0.285 1.078
+FEVI M-G             -0.832 0.869

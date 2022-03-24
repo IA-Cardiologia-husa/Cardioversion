@@ -1,0 +1,88 @@
+Model name: RF_pipeline
+AUC ROC: 0.8316720529878617
+AUC ROC stderr: 0.05183684087291609
+AUC ROC Confidence Interval (95%): 0.7288165146151635-0.93452759136056
+AUC PR: 0.7235705814803537
+AUC PR stderr: 0.0700490888627682
+AUC PR Confidence Interval (95%): 0.5845779919211109-0.8625631710395965
+
+Threshold: 0.4291775651680122 Optimum for accuracy
+TP:7.8 FP:2.0 TN:79.0 FN:11.2
+Sensitivity:40.9 Specifity:97.6 Precision:79.9 NPRv:87.5
+
+Threshold: 0.21947228191314863 Optimum for single point AUC
+TP:14.1 FP:14.2 TN:66.7 FN:4.9
+Sensitivity:74.0 Specifity:82.4 Precision:49.7 NPRv:93.1
+
+Optimum for double point AUC
+Threshold: 0.17892768387110797
+TP:16.0 FP:22.9 TN:58.1 FN:3.0
+Sensitivity:84.0 Specifity:71.7 Precision:41.1 NPRv:95.0
+Threshold: 0.4291775651680122
+TP:7.8 FP:2.0 TN:79.0 FN:11.2
+Sensitivity:40.9 Specifity:97.6 Precision:79.9 NPRv:87.5
+
+Optimum for triple point AUC
+Threshold: 0.17892768387110797
+TP:16.0 FP:22.9 TN:58.1 FN:3.0
+Sensitivity:84.0 Specifity:71.7 Precision:41.1 NPRv:95.0
+Threshold: 0.2271467746869432
+TP:13.6 FP:12.7 TN:68.3 FN:5.4
+Sensitivity:71.7 Specifity:84.3 Precision:51.8 NPRv:92.7
+Threshold: 0.4291775651680122
+TP:7.8 FP:2.0 TN:79.0 FN:11.2
+Sensitivity:40.9 Specifity:97.6 Precision:79.9 NPRv:87.5
+
+Threshold: 0.428651018345717 Optimum for f0.5
+TP:7.8 FP:2.0 TN:79.0 FN:11.2
+Sensitivity:40.9 Specifity:97.5 Precision:79.4 NPRv:87.5
+
+Threshold: 0.22707460796549656 Optimum for f1
+TP:13.6 FP:12.8 TN:68.2 FN:5.4
+Sensitivity:71.7 Specifity:84.2 Precision:51.6 NPRv:92.7
+
+Threshold: 0.17869222440964921 Optimum for f2
+TP:16.0 FP:23.2 TN:57.8 FN:3.0
+Sensitivity:84.0 Specifity:71.4 Precision:40.8 NPRv:95.0
+
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+RF_pipeline eli5 MDA importances with cv=10
+FA_paroxistica       1.000 1.321
+ACO previa si no     0.400 0.848
+FEVI L-M-G           0.224 0.480
+IMC                  0.178 0.679
+sintrom              0.173 0.559
+ICC                  0.107 0.399
+IECAS/ARA II         0.096 0.578
+IM                   0.091 0.190
+Dil AI MS            0.087 0.763
+FEVI M-G             0.034 0.169
+BB si no             0.026 0.225
+CF>=3                0.022 0.141
+CF>=2                0.020 0.251
+exfumador o fumador  0.013 0.164
+apixaban             0.010 0.142
+Dil AI LMS           0.009 0.158
+Previous CVE attempt 0.008 0.092
+heparina             0.000 0.000
+MOVILIDAD            0.000 0.000
+CF==4                0.000 0.000
+Dil AI S             -0.001 0.500
+RESPIRATORIO         -0.004 0.157
+ICTUS/AIT PREVIO     -0.004 0.074
+FEVI G               -0.005 0.065
+CC s n               -0.016 0.151
+fumador              -0.025 0.202
+dabigatran           -0.029 0.108
+rivaroxaban          -0.056 0.250
+edoxaban             -0.089 0.360

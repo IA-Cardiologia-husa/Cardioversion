@@ -1,0 +1,127 @@
+Model name: RF_pipeline
+AUC ROC: 0.8216670985060692
+AUC ROC stderr: 0.05060564691006626
+AUC ROC Confidence Interval (95%): 0.7212545160650528-0.9220796809470857
+AUC PR: 0.6718702265713875
+AUC PR stderr: 0.06968249373780411
+AUC PR Confidence Interval (95%): 0.533605041273439-0.810135411869336
+
+Threshold: 0.2909955717096906 Optimum for accuracy
+TP:11.7 FP:8.2 TN:72.8 FN:7.3
+Sensitivity:61.4 Specifity:89.9 Precision:58.9 NPRv:90.8
+
+Threshold: 0.21482668111151634 Optimum for single point AUC
+TP:15.0 FP:15.9 TN:65.1 FN:4.0
+Sensitivity:78.9 Specifity:80.4 Precision:48.6 NPRv:94.2
+
+Optimum for double point AUC
+Threshold: 0.19874646107818744
+TP:15.5 FP:19.5 TN:61.5 FN:3.5
+Sensitivity:81.7 Specifity:76.0 Precision:44.4 NPRv:94.6
+Threshold: 0.2810331968103305
+TP:12.1 FP:8.7 TN:72.3 FN:6.9
+Sensitivity:63.7 Specifity:89.3 Precision:58.2 NPRv:91.3
+
+Optimum for triple point AUC
+Threshold: 0.19874646107818744
+TP:15.5 FP:19.5 TN:61.5 FN:3.5
+Sensitivity:81.7 Specifity:76.0 Precision:44.4 NPRv:94.6
+Threshold: 0.2810331968103305
+TP:12.1 FP:8.7 TN:72.3 FN:6.9
+Sensitivity:63.7 Specifity:89.3 Precision:58.2 NPRv:91.3
+Threshold: 0.4853088309641224
+TP:4.7 FP:2.1 TN:78.9 FN:14.3
+Sensitivity:24.6 Specifity:97.4 Precision:68.8 NPRv:84.6
+
+Threshold: 0.2932788961123031 Optimum for f0.5
+TP:11.5 FP:8.0 TN:72.9 FN:7.5
+Sensitivity:60.6 Specifity:90.1 Precision:58.9 NPRv:90.7
+
+Threshold: 0.26669399577553976 Optimum for f1
+TP:12.7 FP:9.8 TN:71.2 FN:6.3
+Sensitivity:66.9 Specifity:87.9 Precision:56.5 NPRv:91.9
+
+Threshold: 0.2059330360760944 Optimum for f2
+TP:15.4 FP:17.9 TN:63.1 FN:3.6
+Sensitivity:80.9 Specifity:77.9 Precision:46.2 NPRv:94.5
+
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+RF_pipeline eli5 MDA importances with cv=10
+FA_paroxistica       1.000 1.457
+ACO previa si no     0.199 0.606
+FEVI L-M-G           0.178 0.343
+DM                   0.089 0.226
+AVK O ACOD           0.075 0.242
+Dil AI MS            0.069 0.364
+Dil AI S             0.055 0.224
+sintrom              0.053 0.162
+Valvulopatía sign    0.050 0.181
+IECAS/ARA II         0.049 0.366
+EAC o CI             0.043 0.196
+CC s n               0.037 0.120
+ICC                  0.035 0.212
+Creatinina           0.035 0.427
+FEVI M-G             0.033 0.145
+BB si no             0.030 0.169
+RESPIRATORIO         0.030 0.137
+IM                   0.028 0.111
+NEOPLASIA            0.021 0.187
+IT                   0.020 0.073
+CF>=3                0.019 0.076
+ARM                  0.016 0.101
+rivaroxaban          0.015 0.109
+HP low               0.015 0.097
+edoxaban             0.013 0.120
+fumador              0.012 0.212
+HTA                  0.011 0.287
+ICTUS/AIT PREVIO     0.011 0.057
+ANEMIA               0.011 0.380
+TEP/TVP              0.007 0.044
+REUMATICA            0.007 0.069
+HP high              0.005 0.039
+Prot bio             0.004 0.033
+Previous CVE attempt 0.002 0.035
+Masa VI              0.001 0.323
+FEVI G               0.001 0.033
+heparina             0.000 0.000
+flecainida           0.000 0.000
+dronedarona          0.000 0.000
+amiodarona           0.000 0.000
+SAC VAL              0.000 0.000
+MOVILIDAD            0.000 0.000
+FA_persistenteLD2    0.000 0.000
+Eao                  0.000 0.000
+EM                   0.000 0.000
+Doble Antiagregantes 0.000 0.000
+CF==4                0.000 0.000
+AINES                0.000 0.000
+AA pre               0.000 0.000
+exfumador o fumador  -0.001 0.069
+clopi o tica         -0.002 0.027
+Prot mec             -0.002 0.031
+EAP                  -0.003 0.025
+AAS                  -0.014 0.100
+IMC                  -0.014 0.646
+DL                   -0.015 0.149
+dabigatran           -0.018 0.063
+SANGRADO PREVIO      -0.018 0.087
+Iao                  -0.024 0.086
+DIGOXINA             -0.031 0.107
+Genero               -0.037 0.162
+apixaban             -0.057 0.176
+TFG                  -0.060 0.576
+Dil AI LMS           -0.062 0.378
+CF>=2                -0.065 0.298
+TALLA                -0.088 0.240
+HASBLED              -0.103 0.247
+EDAD                 -0.104 0.488

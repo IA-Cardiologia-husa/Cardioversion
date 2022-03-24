@@ -1,0 +1,56 @@
+Successful CV: Random Forest-Extremely Randomized Trees, Avg Diff: -0.007026175935972462, p-value: 0.2524047130995621
+Successful CV: Random Forest-Logistic Regression, Avg Diff: 0.04641124314781967, p-value: 0.027258417740039027
+Successful CV: Random Forest-XGBoost, Avg Diff: 0.10631885767251442, p-value: 0.0007102275447029807
+Successful CV: Random Forest-CHA2DS2-VASc, Avg Diff: 0.2622626928122311, p-value: 6.943734654753543e-07
+Successful CV: Random Forest-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.07602707252690175, p-value: 0.023256167390705258
+Successful CV: Random Forest-HATCH, Avg Diff: 0.2734789162780413, p-value: 3.7572986340141437e-06
+Successful CV: Random Forest-HATCH refitted odd ratios, Avg Diff: 0.057718120983911464, p-value: 0.07096592055256531
+Successful CV: Extremely Randomized Trees-Random Forest, Avg Diff: 0.007026175935972462, p-value: 0.2524047130995621
+Successful CV: Extremely Randomized Trees-Logistic Regression, Avg Diff: 0.053437419083792126, p-value: 0.012680908428485375
+Successful CV: Extremely Randomized Trees-XGBoost, Avg Diff: 0.11334503360848693, p-value: 0.0002802964415961176
+Successful CV: Extremely Randomized Trees-CHA2DS2-VASc, Avg Diff: 0.2692888687482035, p-value: 4.861756116520709e-07
+Successful CV: Extremely Randomized Trees-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.08305324846287424, p-value: 0.016860847920570184
+Successful CV: Extremely Randomized Trees-HATCH, Avg Diff: 0.280505092214014, p-value: 2.561405902463458e-06
+Successful CV: Extremely Randomized Trees-HATCH refitted odd ratios, Avg Diff: 0.06474429691988394, p-value: 0.049036052723022874
+Successful CV: Logistic Regression-Random Forest, Avg Diff: -0.04641124314781967, p-value: 0.027258417740039027
+Successful CV: Logistic Regression-Extremely Randomized Trees, Avg Diff: -0.053437419083792126, p-value: 0.012680908428485375
+Successful CV: Logistic Regression-XGBoost, Avg Diff: 0.05990761452469484, p-value: 0.021604470088629136
+Successful CV: Logistic Regression-CHA2DS2-VASc, Avg Diff: 0.2158514496644113, p-value: 4.2727439484103426e-05
+Successful CV: Logistic Regression-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.029615829379082127, p-value: 0.21465441387626094
+Successful CV: Logistic Regression-HATCH, Avg Diff: 0.22706767313022172, p-value: 0.00015365795975380784
+Successful CV: Logistic Regression-HATCH refitted odd ratios, Avg Diff: 0.01130687783609183, p-value: 0.3695755139126966
+Successful CV: XGBoost-Random Forest, Avg Diff: -0.10631885767251442, p-value: 0.0007102275447029807
+Successful CV: XGBoost-Extremely Randomized Trees, Avg Diff: -0.11334503360848693, p-value: 0.0002802964415961176
+Successful CV: XGBoost-Logistic Regression, Avg Diff: -0.05990761452469484, p-value: 0.021604470088629136
+Successful CV: XGBoost-CHA2DS2-VASc, Avg Diff: 0.15594383513971655, p-value: 0.0007694020489483235
+Successful CV: XGBoost-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.030291785145612708, p-value: 0.22703350572188702
+Successful CV: XGBoost-HATCH, Avg Diff: 0.16716005860552688, p-value: 0.0015827891839947565
+Successful CV: XGBoost-HATCH refitted odd ratios, Avg Diff: -0.04860073668860304, p-value: 0.10876906487694339
+Successful CV: CHA2DS2-VASc-Random Forest, Avg Diff: -0.2622626928122311, p-value: 6.943734654753543e-07
+Successful CV: CHA2DS2-VASc-Extremely Randomized Trees, Avg Diff: -0.2692888687482035, p-value: 4.861756116520709e-07
+Successful CV: CHA2DS2-VASc-Logistic Regression, Avg Diff: -0.2158514496644113, p-value: 4.2727439484103426e-05
+Successful CV: CHA2DS2-VASc-XGBoost, Avg Diff: -0.15594383513971655, p-value: 0.0007694020489483235
+Successful CV: CHA2DS2-VASc-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.1862356202853293, p-value: 0.0003391178293238199
+Successful CV: CHA2DS2-VASc-HATCH, Avg Diff: 0.011216223465810377, p-value: 0.3001238987272377
+Successful CV: CHA2DS2-VASc-HATCH refitted odd ratios, Avg Diff: -0.20454457182831953, p-value: 0.0001501924345609547
+Successful CV: CHA2DS2-VASc refitted odd ratios-Random Forest, Avg Diff: -0.07602707252690175, p-value: 0.023256167390705258
+Successful CV: CHA2DS2-VASc refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.08305324846287424, p-value: 0.016860847920570184
+Successful CV: CHA2DS2-VASc refitted odd ratios-Logistic Regression, Avg Diff: -0.029615829379082127, p-value: 0.21465441387626094
+Successful CV: CHA2DS2-VASc refitted odd ratios-XGBoost, Avg Diff: 0.030291785145612708, p-value: 0.22703350572188702
+Successful CV: CHA2DS2-VASc refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.1862356202853293, p-value: 0.0003391178293238199
+Successful CV: CHA2DS2-VASc refitted odd ratios-HATCH, Avg Diff: 0.1974518437511395, p-value: 0.0005822860072073204
+Successful CV: CHA2DS2-VASc refitted odd ratios-HATCH refitted odd ratios, Avg Diff: -0.018308951542990292, p-value: 0.262955466944663
+Successful CV: HATCH-Random Forest, Avg Diff: -0.2734789162780413, p-value: 3.7572986340141437e-06
+Successful CV: HATCH-Extremely Randomized Trees, Avg Diff: -0.280505092214014, p-value: 2.561405902463458e-06
+Successful CV: HATCH-Logistic Regression, Avg Diff: -0.22706767313022172, p-value: 0.00015365795975380784
+Successful CV: HATCH-XGBoost, Avg Diff: -0.16716005860552688, p-value: 0.0015827891839947565
+Successful CV: HATCH-CHA2DS2-VASc, Avg Diff: -0.011216223465810377, p-value: 0.3001238987272377
+Successful CV: HATCH-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.1974518437511395, p-value: 0.0005822860072073204
+Successful CV: HATCH-HATCH refitted odd ratios, Avg Diff: -0.2157607952941299, p-value: 0.0006610997578178742
+Successful CV: HATCH refitted odd ratios-Random Forest, Avg Diff: -0.057718120983911464, p-value: 0.07096592055256531
+Successful CV: HATCH refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.06474429691988394, p-value: 0.049036052723022874
+Successful CV: HATCH refitted odd ratios-Logistic Regression, Avg Diff: -0.01130687783609183, p-value: 0.3695755139126966
+Successful CV: HATCH refitted odd ratios-XGBoost, Avg Diff: 0.04860073668860304, p-value: 0.10876906487694339
+Successful CV: HATCH refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.20454457182831953, p-value: 0.0001501924345609547
+Successful CV: HATCH refitted odd ratios-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.018308951542990292, p-value: 0.262955466944663
+Successful CV: HATCH refitted odd ratios-HATCH, Avg Diff: 0.2157607952941299, p-value: 0.0006610997578178742

@@ -1,0 +1,137 @@
+Model name: ET
+AUC ROC: 0.684769072188609
+AUC ROC stderr: 0.039312866319336566
+AUC ROC Confidence Interval (95%): 0.6067638164253867-0.7627743279518314
+AUC PR: 0.6087146765386965
+AUC PR stderr: 0.04457805994130559
+AUC PR Confidence Interval (95%): 0.5202621343377878-0.6971672187396052
+
+Threshold: 0.39767570119089646 Optimum for accuracy
+TP:22.8 FP:17.7 TN:43.8 FN:15.6
+Sensitivity:59.3 Specifity:71.2 Precision:56.3 NPRv:73.7
+
+Threshold: 0.38305354463720276 Optimum for single point AUC
+TP:24.3 FP:19.5 TN:42.1 FN:14.2
+Sensitivity:63.1 Specifity:68.3 Precision:55.5 NPRv:74.8
+
+Optimum for double point AUC
+Threshold: 0.38305354463720276
+TP:24.3 FP:19.5 TN:42.1 FN:14.2
+Sensitivity:63.1 Specifity:68.3 Precision:55.5 NPRv:74.8
+Threshold: 0.5090362710949934
+TP:11.1 FP:6.4 TN:55.2 FN:27.4
+Sensitivity:28.8 Specifity:89.6 Precision:63.4 NPRv:66.8
+
+Optimum for triple point AUC
+Threshold: 0.22125318138858546
+TP:36.5 FP:51.7 TN:9.9 FN:2.0
+Sensitivity:94.9 Specifity:16.0 Precision:41.4 NPRv:83.3
+Threshold: 0.38305354463720276
+TP:24.3 FP:19.5 TN:42.1 FN:14.2
+Sensitivity:63.1 Specifity:68.3 Precision:55.5 NPRv:74.8
+Threshold: 0.5090362710949934
+TP:11.1 FP:6.4 TN:55.2 FN:27.4
+Sensitivity:28.8 Specifity:89.6 Precision:63.4 NPRv:66.8
+
+Threshold: 0.3895106451611414 Optimum for f0.5
+TP:23.7 FP:18.8 TN:42.7 FN:14.7
+Sensitivity:61.7 Specifity:69.5 Precision:55.8 NPRv:74.4
+
+Threshold: 0.36713999361415045 Optimum for f1
+TP:25.7 FP:22.7 TN:38.8 FN:12.7
+Sensitivity:66.9 Specifity:63.0 Precision:53.1 NPRv:75.3
+
+Threshold: 0.137042957282107 Optimum for f2
+TP:38.5 FP:61.3 TN:0.2 FN:0.0
+Sensitivity:100.0 Specifity:0.4 Precision:38.5 NPRv:100.0
+
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+Fitting 10 folds for each of 20 candidates, totalling 200 fits
+ET eli5 MDA importances with cv=10
+CV ESPONTÁNEA        1.000 1.567
+ACO previa si no     0.857 2.093
+HTA                  0.849 1.389
+IECAS/ARA II         0.827 1.865
+CF>=3                0.818 1.774
+Dil AI LMS           0.672 2.287
+FEVI M-G             0.551 1.181
+CC s n               0.495 1.102
+ICTUS/AIT PREVIO     0.463 1.288
+HP low               0.424 1.805
+FA_paroxistica       0.410 1.340
+AA pre               0.374 1.340
+FEVI L-M-G           0.368 1.009
+BB si no             0.291 1.031
+EDAD                 0.268 0.975
+dronedarona post     0.262 0.664
+ENERGIA MAX          0.242 0.751
+apixaban             0.213 1.127
+AA post              0.209 1.405
+IMC                  0.178 0.892
+DIGOXINA             0.175 0.502
+TIEMPO ACO           0.170 0.944
+dronedarona          0.166 0.392
+amiodarona post      0.154 0.948
+FA_persistenteLD2    0.145 0.420
+CHOQUES              0.134 0.675
+HASBLED              0.099 1.283
+SANGRADO PREVIO      0.097 0.487
+clopi o tica         0.083 0.219
+MOVILIDAD            0.077 0.504
+ICC                  0.068 0.931
+amiodarona           0.067 0.800
+Prot mec             0.053 0.378
+REUMATICA            0.050 0.212
+Creatinina           0.048 1.023
+EAC o CI             0.039 0.926
+AINES                0.039 0.337
+CF==4                0.037 0.256
+sintrom              0.028 0.203
+NEOPLASIA            0.021 0.754
+dabigatran           0.019 0.483
+CV FARMA             0.019 0.467
+TEP/TVP              0.017 0.647
+Doble Antiagregantes 0.012 0.108
+Eao                  0.005 0.120
+Masa VI              0.003 0.754
+heparina             0.000 0.000
+SAC VAL              0.000 0.000
+EM                   0.000 0.000
+CV EFECTIVA          0.000 0.000
+AVK O ACOD           -0.011 0.324
+FEVI G               -0.017 0.554
+ARM                  -0.030 0.741
+Dil AI MS            -0.033 1.700
+Prot bio             -0.035 0.189
+IM                   -0.045 0.762
+edoxaban             -0.048 0.569
+rivaroxaban          -0.052 1.400
+Iao                  -0.057 0.210
+HP high              -0.063 0.454
+TALLA                -0.085 0.996
+exfumador o fumador  -0.087 0.919
+flecainida           -0.092 0.907
+AAS                  -0.098 0.695
+DL                   -0.099 1.681
+Previous CVE attempt -0.107 1.071
+ANEMIA               -0.110 0.636
+flecainida post      -0.136 0.953
+DM                   -0.139 1.075
+RESPIRATORIO         -0.144 1.138
+IT                   -0.188 0.517
+Genero               -0.201 1.413
+EAP                  -0.202 0.525
+TFG                  -0.239 1.093
+Dil AI S             -0.273 2.161
+Valvulopatía sign    -0.305 1.138
+CF>=2                -0.338 0.938
+fumador              -0.470 0.982

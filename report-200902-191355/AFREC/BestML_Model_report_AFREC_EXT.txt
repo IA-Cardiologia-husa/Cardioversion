@@ -1,0 +1,126 @@
+Model name: LR_SCL_pipeline
+AUC ROC: 0.6422131147540984
+AUC ROC stderr: 0.05494804041663787
+AUC ROC Confidence Interval (95%): 0.5872650743374606-0.6971611551707362
+AUC PR: 0.49179843176778093
+AUC PR stderr: 0.05907883111267206
+AUC PR Confidence Interval (95%): 0.4327196006551089-0.550877262880453
+
+Threshold: 0.41272796631495623 Optimum for accuracy
+TP:20.8 FP:11.9 TN:48.5 FN:18.8
+Sensitivity:52.5 Specifity:80.3 Precision:63.6 NPRv:72.1
+
+Threshold: 0.40889490745287393 Optimum for single point AUC
+TP:21.8 FP:12.9 TN:47.5 FN:17.8
+Sensitivity:55.0 Specifity:78.7 Precision:62.9 NPRv:72.7
+
+Optimum for double point AUC
+Threshold: 0.3139342720499192
+TP:29.7 FP:26.7 TN:33.7 FN:9.9
+Sensitivity:75.0 Specifity:55.7 Precision:52.6 NPRv:77.3
+Threshold: 0.41272796631495623
+TP:20.8 FP:11.9 TN:48.5 FN:18.8
+Sensitivity:52.5 Specifity:80.3 Precision:63.6 NPRv:72.1
+
+Optimum for triple point AUC
+Threshold: 0.20751900856253586
+TP:39.6 FP:53.5 TN:6.9 FN:0.0
+Sensitivity:100.0 Specifity:11.5 Precision:42.6 NPRv:100.0
+Threshold: 0.3139342720499192
+TP:29.7 FP:26.7 TN:33.7 FN:9.9
+Sensitivity:75.0 Specifity:55.7 Precision:52.6 NPRv:77.3
+Threshold: 0.41272796631495623
+TP:20.8 FP:11.9 TN:48.5 FN:18.8
+Sensitivity:52.5 Specifity:80.3 Precision:63.6 NPRv:72.1
+
+Threshold: 0.40889490745287393 Optimum for f0.5
+TP:21.8 FP:12.9 TN:47.5 FN:17.8
+Sensitivity:55.0 Specifity:78.7 Precision:62.9 NPRv:72.7
+
+Threshold: 0.3139342720499192 Optimum for f1
+TP:29.7 FP:26.7 TN:33.7 FN:9.9
+Sensitivity:75.0 Specifity:55.7 Precision:52.6 NPRv:77.3
+
+Threshold: 0.20751900856253586 Optimum for f2
+TP:39.6 FP:53.5 TN:6.9 FN:0.0
+Sensitivity:100.0 Specifity:11.5 Precision:42.6 NPRv:100.0
+
+LR_SCL_pipeline eli5 MDA importances on external Dataset
+Dil AI S             1.000 0.558
+Previous CVE attempt 0.511 0.278
+CF>=3                0.450 0.729
+ACO previa si no     0.385 0.320
+Dil AI MS            0.308 0.179
+CHOQUES              0.262 0.183
+Dil AI LMS           0.249 0.419
+HTA                  0.144 0.099
+FA_paroxistica       0.127 0.139
+RESPIRATORIO         0.091 0.129
+MOVILIDAD            0.054 0.043
+FEVI M-G             0.046 0.115
+CC s n               0.033 0.232
+exfumador o fumador  0.025 0.116
+Creatinina           0.024 0.064
+EAP                  0.021 0.043
+rivaroxaban          0.018 0.074
+ARM                  0.010 0.043
+edoxaban             0.002 0.006
+clopi o tica         0.000 0.004
+sintrom              0.000 0.000
+heparina             0.000 0.000
+flecainida post      0.000 0.000
+dronedarona post     0.000 0.000
+dronedarona          0.000 0.000
+dabigatran           0.000 0.000
+apixaban             0.000 0.000
+amiodarona post      0.000 0.000
+amiodarona           0.000 0.000
+Valvulopatía sign    0.000 0.000
+TIEMPO ACO           0.000 0.000
+TFG                  0.000 0.000
+TALLA                0.000 0.000
+SAC VAL              0.000 0.000
+REUMATICA            0.000 0.000
+Prot mec             0.000 0.000
+Masa VI              0.000 0.000
+Iao                  0.000 0.000
+IT                   0.000 0.000
+IMC                  0.000 0.000
+IM                   0.000 0.000
+ICC                  0.000 0.000
+HP high              0.000 0.000
+HASBLED              0.000 0.000
+FEVI L-M-G           0.000 0.000
+FEVI G               0.000 0.000
+FA_persistenteLD2    0.000 0.000
+Eao                  0.000 0.000
+ENERGIA MAX          0.000 0.000
+EM                   0.000 0.000
+EDAD                 0.000 0.000
+Doble Antiagregantes 0.000 0.000
+DM                   0.000 0.000
+DL                   0.000 0.000
+DIGOXINA             0.000 0.000
+CV FARMA             0.000 0.000
+CV EFECTIVA          0.000 0.000
+CF>=2                0.000 0.000
+CF==4                0.000 0.000
+AVK O ACOD           0.000 0.000
+ANEMIA               0.000 0.000
+AINES                0.000 0.000
+AAS                  0.000 0.000
+AA pre               0.000 0.000
+AA post              0.000 0.000
+flecainida           -0.001 0.009
+BB si no             -0.002 0.011
+EAC o CI             -0.002 0.028
+fumador              -0.003 0.010
+IECAS/ARA II         -0.009 0.009
+HP low               -0.010 0.010
+Prot bio             -0.011 0.030
+TEP/TVP              -0.031 0.036
+Genero               -0.033 0.026
+NEOPLASIA            -0.051 0.081
+ICTUS/AIT PREVIO     -0.060 0.339
+SANGRADO PREVIO      -0.066 0.057
+CV ESPONTÁNEA        -0.114 0.626

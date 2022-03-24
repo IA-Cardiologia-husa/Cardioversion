@@ -1,0 +1,56 @@
+Spontaneous Restoration of SR: Random Forest-Extremely Randomized Trees, Avg Diff: -0.06228373702422152, p-value: nan
+Spontaneous Restoration of SR: Random Forest-Logistic Regression, Avg Diff: -0.07843137254901966, p-value: nan
+Spontaneous Restoration of SR: Random Forest-XGBoost, Avg Diff: -0.04382929642445221, p-value: nan
+Spontaneous Restoration of SR: Random Forest-CHA2DS2-VASc, Avg Diff: 0.30738177623990776, p-value: nan
+Spontaneous Restoration of SR: Random Forest-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.09169550173010377, p-value: nan
+Spontaneous Restoration of SR: Random Forest-HATCH, Avg Diff: 0.38119953863898504, p-value: nan
+Spontaneous Restoration of SR: Random Forest-HATCH refitted odd ratios, Avg Diff: 0.05882352941176472, p-value: nan
+Spontaneous Restoration of SR: Extremely Randomized Trees-Random Forest, Avg Diff: 0.06228373702422152, p-value: nan
+Spontaneous Restoration of SR: Extremely Randomized Trees-Logistic Regression, Avg Diff: -0.016147635524798143, p-value: nan
+Spontaneous Restoration of SR: Extremely Randomized Trees-XGBoost, Avg Diff: 0.018454440599769306, p-value: nan
+Spontaneous Restoration of SR: Extremely Randomized Trees-CHA2DS2-VASc, Avg Diff: 0.3696655132641293, p-value: nan
+Spontaneous Restoration of SR: Extremely Randomized Trees-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.1539792387543253, p-value: nan
+Spontaneous Restoration of SR: Extremely Randomized Trees-HATCH, Avg Diff: 0.44348327566320656, p-value: nan
+Spontaneous Restoration of SR: Extremely Randomized Trees-HATCH refitted odd ratios, Avg Diff: 0.12110726643598624, p-value: nan
+Spontaneous Restoration of SR: Logistic Regression-Random Forest, Avg Diff: 0.07843137254901966, p-value: nan
+Spontaneous Restoration of SR: Logistic Regression-Extremely Randomized Trees, Avg Diff: 0.016147635524798143, p-value: nan
+Spontaneous Restoration of SR: Logistic Regression-XGBoost, Avg Diff: 0.03460207612456745, p-value: nan
+Spontaneous Restoration of SR: Logistic Regression-CHA2DS2-VASc, Avg Diff: 0.3858131487889274, p-value: nan
+Spontaneous Restoration of SR: Logistic Regression-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.17012687427912343, p-value: nan
+Spontaneous Restoration of SR: Logistic Regression-HATCH, Avg Diff: 0.4596309111880047, p-value: nan
+Spontaneous Restoration of SR: Logistic Regression-HATCH refitted odd ratios, Avg Diff: 0.13725490196078438, p-value: nan
+Spontaneous Restoration of SR: XGBoost-Random Forest, Avg Diff: 0.04382929642445221, p-value: nan
+Spontaneous Restoration of SR: XGBoost-Extremely Randomized Trees, Avg Diff: -0.018454440599769306, p-value: nan
+Spontaneous Restoration of SR: XGBoost-Logistic Regression, Avg Diff: -0.03460207612456745, p-value: nan
+Spontaneous Restoration of SR: XGBoost-CHA2DS2-VASc, Avg Diff: 0.35121107266435997, p-value: nan
+Spontaneous Restoration of SR: XGBoost-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.13552479815455598, p-value: nan
+Spontaneous Restoration of SR: XGBoost-HATCH, Avg Diff: 0.42502883506343725, p-value: nan
+Spontaneous Restoration of SR: XGBoost-HATCH refitted odd ratios, Avg Diff: 0.10265282583621693, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc-Random Forest, Avg Diff: -0.30738177623990776, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc-Extremely Randomized Trees, Avg Diff: -0.3696655132641293, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc-Logistic Regression, Avg Diff: -0.3858131487889274, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc-XGBoost, Avg Diff: -0.35121107266435997, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.215686274509804, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc-HATCH, Avg Diff: 0.07381776239907728, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc-HATCH refitted odd ratios, Avg Diff: -0.24855824682814304, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-Random Forest, Avg Diff: -0.09169550173010377, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.1539792387543253, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-Logistic Regression, Avg Diff: -0.17012687427912343, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-XGBoost, Avg Diff: -0.13552479815455598, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.215686274509804, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-HATCH, Avg Diff: 0.28950403690888127, p-value: nan
+Spontaneous Restoration of SR: CHA2DS2-VASc refitted odd ratios-HATCH refitted odd ratios, Avg Diff: -0.03287197231833905, p-value: nan
+Spontaneous Restoration of SR: HATCH-Random Forest, Avg Diff: -0.38119953863898504, p-value: nan
+Spontaneous Restoration of SR: HATCH-Extremely Randomized Trees, Avg Diff: -0.44348327566320656, p-value: nan
+Spontaneous Restoration of SR: HATCH-Logistic Regression, Avg Diff: -0.4596309111880047, p-value: nan
+Spontaneous Restoration of SR: HATCH-XGBoost, Avg Diff: -0.42502883506343725, p-value: nan
+Spontaneous Restoration of SR: HATCH-CHA2DS2-VASc, Avg Diff: -0.07381776239907728, p-value: nan
+Spontaneous Restoration of SR: HATCH-CHA2DS2-VASc refitted odd ratios, Avg Diff: -0.28950403690888127, p-value: nan
+Spontaneous Restoration of SR: HATCH-HATCH refitted odd ratios, Avg Diff: -0.3223760092272203, p-value: nan
+Spontaneous Restoration of SR: HATCH refitted odd ratios-Random Forest, Avg Diff: -0.05882352941176472, p-value: nan
+Spontaneous Restoration of SR: HATCH refitted odd ratios-Extremely Randomized Trees, Avg Diff: -0.12110726643598624, p-value: nan
+Spontaneous Restoration of SR: HATCH refitted odd ratios-Logistic Regression, Avg Diff: -0.13725490196078438, p-value: nan
+Spontaneous Restoration of SR: HATCH refitted odd ratios-XGBoost, Avg Diff: -0.10265282583621693, p-value: nan
+Spontaneous Restoration of SR: HATCH refitted odd ratios-CHA2DS2-VASc, Avg Diff: 0.24855824682814304, p-value: nan
+Spontaneous Restoration of SR: HATCH refitted odd ratios-CHA2DS2-VASc refitted odd ratios, Avg Diff: 0.03287197231833905, p-value: nan
+Spontaneous Restoration of SR: HATCH refitted odd ratios-HATCH, Avg Diff: 0.3223760092272203, p-value: nan

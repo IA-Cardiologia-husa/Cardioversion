@@ -1,0 +1,127 @@
+Model name: LR_SCL_pipeline
+AUC ROC: 0.7377029331779332
+AUC ROC stderr: 0.06823444585209788
+AUC ROC Confidence Interval (95%): 0.6023109890413993-0.8730948773144671
+AUC PR: 0.635525865800866
+AUC PR stderr: 0.08339152942216307
+AUC PR Confidence Interval (95%): 0.47005897950917497-0.800992752092557
+
+Threshold: 0.3891650755762236 Optimum for accuracy
+TP:9.9 FP:4.2 TN:76.1 FN:9.8
+Sensitivity:50.4 Specifity:94.8 Precision:70.4 NPRv:88.6
+
+Threshold: 0.3305798088382016 Optimum for single point AUC
+TP:11.1 FP:5.8 TN:74.5 FN:8.6
+Sensitivity:56.5 Specifity:92.7 Precision:65.6 NPRv:89.7
+
+Optimum for double point AUC
+Threshold: 0.3305798088382016
+TP:11.1 FP:5.8 TN:74.5 FN:8.6
+Sensitivity:56.5 Specifity:92.7 Precision:65.6 NPRv:89.7
+Threshold: 0.3891650755762236
+TP:9.9 FP:4.2 TN:76.1 FN:9.8
+Sensitivity:50.4 Specifity:94.8 Precision:70.4 NPRv:88.6
+
+Optimum for triple point AUC
+Threshold: 0.3305798088382016
+TP:11.1 FP:5.8 TN:74.5 FN:8.6
+Sensitivity:56.5 Specifity:92.7 Precision:65.6 NPRv:89.7
+Threshold: 0.3891650755762236
+TP:9.9 FP:4.2 TN:76.1 FN:9.8
+Sensitivity:50.4 Specifity:94.8 Precision:70.4 NPRv:88.6
+Threshold: 0.39787983292442125
+TP:9.6 FP:4.0 TN:76.3 FN:10.1
+Sensitivity:48.8 Specifity:95.0 Precision:70.6 NPRv:88.3
+
+Threshold: 0.38914281961651664 Optimum for f0.5
+TP:10.0 FP:4.2 TN:76.1 FN:9.7
+Sensitivity:50.8 Specifity:94.8 Precision:70.6 NPRv:88.7
+
+Threshold: 0.3310468904785653 Optimum for f1
+TP:11.1 FP:5.8 TN:74.5 FN:8.6
+Sensitivity:56.5 Specifity:92.8 Precision:65.9 NPRv:89.7
+
+Threshold: 0.3310468904785653 Optimum for f2
+TP:11.1 FP:5.8 TN:74.5 FN:8.6
+Sensitivity:56.5 Specifity:92.8 Precision:65.9 NPRv:89.7
+
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+Fitting 10 folds for each of 13 candidates, totalling 130 fits
+LR_SCL_pipeline eli5 MDA importances with cv=10
+FA_paroxistica       1.000 1.062
+NEOPLASIA            0.003 0.015
+sintrom              0.000 0.000
+heparina             0.000 0.000
+fumador              0.000 0.000
+flecainida           0.000 0.000
+exfumador o fumador  0.000 0.000
+edoxaban             0.000 0.000
+dronedarona          0.000 0.000
+dabigatran           0.000 0.000
+clopi o tica         0.000 0.000
+apixaban             0.000 0.000
+amiodarona           0.000 0.000
+Valvulopatía sign    0.000 0.000
+TFG                  0.000 0.000
+TEP/TVP              0.000 0.000
+TALLA                0.000 0.000
+SAC VAL              0.000 0.000
+REUMATICA            0.000 0.000
+RESPIRATORIO         0.000 0.000
+Prot mec             0.000 0.000
+Prot bio             0.000 0.000
+Previous CVE attempt 0.000 0.000
+Masa VI              0.000 0.000
+MOVILIDAD            0.000 0.000
+Iao                  0.000 0.000
+IT                   0.000 0.000
+IMC                  0.000 0.000
+IM                   0.000 0.000
+IECAS/ARA II         0.000 0.000
+HTA                  0.000 0.000
+HP low               0.000 0.000
+HP high              0.000 0.000
+HASBLED              0.000 0.000
+Genero               0.000 0.000
+FEVI M-G             0.000 0.000
+FEVI L-M-G           0.000 0.000
+FEVI G               0.000 0.000
+FA_persistenteLD2    0.000 0.000
+Eao                  0.000 0.000
+EM                   0.000 0.000
+EDAD                 0.000 0.000
+EAP                  0.000 0.000
+Doble Antiagregantes 0.000 0.000
+Dil AI S             0.000 0.000
+Dil AI MS            0.000 0.000
+Dil AI LMS           0.000 0.000
+DM                   0.000 0.000
+DIGOXINA             0.000 0.000
+Creatinina           0.000 0.000
+CF>=3                0.000 0.000
+CC s n               0.000 0.000
+BB si no             0.000 0.000
+AVK O ACOD           0.000 0.000
+ARM                  0.000 0.000
+ANEMIA               0.000 0.000
+AINES                0.000 0.000
+ACO previa si no     0.000 0.000
+AAS                  0.000 0.000
+AA pre               0.000 0.000
+CF==4                -0.007 0.166
+CF>=2                -0.007 0.039
+EAC o CI             -0.008 0.052
+SANGRADO PREVIO      -0.009 0.079
+rivaroxaban          -0.009 0.037
+ICTUS/AIT PREVIO     -0.036 0.091
+DL                   -0.056 0.207
+ICC                  -0.057 0.192

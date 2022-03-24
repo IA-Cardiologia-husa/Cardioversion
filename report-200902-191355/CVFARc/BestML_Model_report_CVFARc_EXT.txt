@@ -1,0 +1,77 @@
+Model name: BT_pipeline
+AUC ROC: 0.7376543209876543
+AUC ROC stderr: 0.08348818927578444
+AUC ROC Confidence Interval (95%): 0.6541661317118699-0.8211425102634387
+AUC PR: 0.5436653502442976
+AUC PR stderr: 0.10639953131224221
+AUC PR Confidence Interval (95%): 0.4372658189320554-0.6500648815565399
+
+Threshold: 0.6558826471795328 Optimum for accuracy
+TP:8.9 FP:2.2 TN:77.8 FN:11.1
+Sensitivity:44.4 Specifity:97.2 Precision:80.0 NPRv:87.5
+
+Threshold: 0.16845880299806595 Optimum for single point AUC
+TP:15.6 FP:26.7 TN:53.3 FN:4.4
+Sensitivity:77.8 Specifity:66.7 Precision:36.8 NPRv:92.3
+
+Optimum for double point AUC
+Threshold: 0.16845880299806595
+TP:15.6 FP:26.7 TN:53.3 FN:4.4
+Sensitivity:77.8 Specifity:66.7 Precision:36.8 NPRv:92.3
+Threshold: 0.6558826471795328
+TP:8.9 FP:2.2 TN:77.8 FN:11.1
+Sensitivity:44.4 Specifity:97.2 Precision:80.0 NPRv:87.5
+
+Optimum for triple point AUC
+Threshold: 0.14555736258625984
+TP:20.0 FP:60.0 TN:20.0 FN:0.0
+Sensitivity:100.0 Specifity:25.0 Precision:25.0 NPRv:100.0
+Threshold: 0.16845880299806595
+TP:15.6 FP:26.7 TN:53.3 FN:4.4
+Sensitivity:77.8 Specifity:66.7 Precision:36.8 NPRv:92.3
+Threshold: 0.6558826471795328
+TP:8.9 FP:2.2 TN:77.8 FN:11.1
+Sensitivity:44.4 Specifity:97.2 Precision:80.0 NPRv:87.5
+
+Threshold: 0.6558826471795328 Optimum for f0.5
+TP:8.9 FP:2.2 TN:77.8 FN:11.1
+Sensitivity:44.4 Specifity:97.2 Precision:80.0 NPRv:87.5
+
+Threshold: 0.6558826471795328 Optimum for f1
+TP:8.9 FP:2.2 TN:77.8 FN:11.1
+Sensitivity:44.4 Specifity:97.2 Precision:80.0 NPRv:87.5
+
+Threshold: 0.16845880299806595 Optimum for f2
+TP:15.6 FP:26.7 TN:53.3 FN:4.4
+Sensitivity:77.8 Specifity:66.7 Precision:36.8 NPRv:92.3
+
+BT_pipeline eli5 MDA importances on external Dataset
+FA_paroxistica       1.000 0.387
+IMC                  0.526 0.421
+Dil AI LMS           0.136 0.109
+CF>=2                0.061 0.118
+exfumador o fumador  0.048 0.025
+IECAS/ARA II         0.040 0.028
+FEVI L-M-G           0.030 0.017
+FEVI M-G             0.021 0.034
+IM                   0.007 0.011
+sintrom              0.000 0.000
+heparina             0.000 0.000
+fumador              0.000 0.000
+dabigatran           0.000 0.000
+apixaban             0.000 0.000
+RESPIRATORIO         0.000 0.000
+Previous CVE attempt 0.000 0.000
+MOVILIDAD            0.000 0.000
+FEVI G               0.000 0.000
+Dil AI S             0.000 0.000
+Dil AI MS            0.000 0.000
+CF==4                0.000 0.000
+CC s n               0.000 0.000
+edoxaban             -0.001 0.046
+CF>=3                -0.015 0.029
+rivaroxaban          -0.016 0.024
+ICTUS/AIT PREVIO     -0.041 0.052
+ACO previa si no     -0.066 0.050
+ICC                  -0.103 0.106
+BB si no             -0.253 0.267

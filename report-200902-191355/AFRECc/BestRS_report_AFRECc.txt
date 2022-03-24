@@ -1,0 +1,2108 @@
+Score name: HATCH refitted odd ratios
+AUC ROC: 0.6038907925876871
+AUC ROC stderr: 0.0371394969206557
+AUC ROC Confidence Interval Subsampling(95%): 0.5301979732272175- 0.6775836119481566
+
+AUC PR: 0.5137997810074267
+AUC PR stderr: 0.03218841056172956
+AUC PR Confidence Interval Subsampling(95%): 0.4499309911287218- 0.5776685708861317
+Threshold: 3.3655666779799
+TP:0.0 FP:0.0 TN:61.5 FN:38.5
+Sensitivity:0.0 Specifity:100.0 Precision:100.0 NPRv:61.5
+Threshold: 2.3655666779799
+TP:0.0 FP:0.0 TN:61.5 FN:38.4
+Sensitivity:0.1 Specifity:100.0 Precision:100.0 NPRv:61.6
+Threshold: 1.798170754615223
+TP:0.9 FP:0.0 TN:61.5 FN:37.5
+Sensitivity:2.4 Specifity:100.0 Precision:100.0 NPRv:62.1
+Threshold: 1.7730366076930364
+TP:0.9 FP:0.0 TN:61.5 FN:37.5
+Sensitivity:2.4 Specifity:99.9 Precision:96.2 NPRv:62.1
+Threshold: 1.7678604560551703
+TP:1.0 FP:0.0 TN:61.5 FN:37.5
+Sensitivity:2.5 Specifity:99.9 Precision:96.3 NPRv:62.1
+Threshold: 1.7257143516415674
+TP:1.0 FP:0.1 TN:61.4 FN:37.5
+Sensitivity:2.5 Specifity:99.8 Precision:89.7 NPRv:62.1
+Threshold: 1.7139765008880157
+TP:1.0 FP:0.1 TN:61.4 FN:37.5
+Sensitivity:2.6 Specifity:99.8 Precision:90.0 NPRv:62.1
+Threshold: 1.7121047835236332
+TP:1.0 FP:0.1 TN:61.4 FN:37.4
+Sensitivity:2.7 Specifity:99.8 Precision:87.5 NPRv:62.1
+Threshold: 1.6976871067222241
+TP:1.0 FP:0.2 TN:61.3 FN:37.4
+Sensitivity:2.7 Specifity:99.6 Precision:82.4 NPRv:62.1
+Threshold: 1.645409800379264
+TP:1.2 FP:0.2 TN:61.3 FN:37.3
+Sensitivity:3.0 Specifity:99.6 Precision:84.2 NPRv:62.2
+Threshold: 1.64443897945436
+TP:1.2 FP:0.3 TN:61.3 FN:37.3
+Sensitivity:3.0 Specifity:99.6 Precision:82.1 NPRv:62.2
+Threshold: 1.6272574136614517
+TP:1.2 FP:0.3 TN:61.3 FN:37.3
+Sensitivity:3.1 Specifity:99.6 Precision:82.5 NPRv:62.2
+Threshold: 1.6226711708403962
+TP:1.2 FP:0.3 TN:61.2 FN:37.3
+Sensitivity:3.1 Specifity:99.5 Precision:78.6 NPRv:62.2
+Threshold: 1.62040108095407
+TP:1.2 FP:0.3 TN:61.2 FN:37.2
+Sensitivity:3.2 Specifity:99.5 Precision:79.1 NPRv:62.2
+Threshold: 1.598832064111704
+TP:1.2 FP:0.4 TN:61.1 FN:37.2
+Sensitivity:3.2 Specifity:99.3 Precision:73.9 NPRv:62.1
+Threshold: 1.5975107925142196
+TP:1.3 FP:0.4 TN:61.1 FN:37.2
+Sensitivity:3.3 Specifity:99.3 Precision:74.5 NPRv:62.2
+Threshold: 1.5934073164063607
+TP:1.3 FP:0.5 TN:61.0 FN:37.2
+Sensitivity:3.3 Specifity:99.1 Precision:70.0 NPRv:62.1
+Threshold: 1.5759063744659865
+TP:1.3 FP:0.7 TN:60.9 FN:37.2
+Sensitivity:3.3 Specifity:98.9 Precision:66.0 NPRv:62.1
+Threshold: 1.5569087793182406
+TP:1.3 FP:0.7 TN:60.9 FN:37.1
+Sensitivity:3.4 Specifity:98.9 Precision:66.7 NPRv:62.1
+Threshold: 1.5456384850562184
+TP:1.3 FP:0.8 TN:60.8 FN:37.1
+Sensitivity:3.4 Specifity:98.8 Precision:63.2 NPRv:62.1
+Threshold: 1.5395444198722403
+TP:1.4 FP:0.8 TN:60.8 FN:37.1
+Sensitivity:3.5 Specifity:98.8 Precision:63.8 NPRv:62.1
+Threshold: 1.5333678585967452
+TP:1.4 FP:0.8 TN:60.7 FN:37.1
+Sensitivity:3.5 Specifity:98.7 Precision:62.7 NPRv:62.1
+Threshold: 1.5133685476634748
+TP:1.4 FP:0.8 TN:60.7 FN:37.1
+Sensitivity:3.6 Specifity:98.7 Precision:63.3 NPRv:62.1
+Threshold: 1.5123438094669952
+TP:1.4 FP:0.8 TN:60.7 FN:37.1
+Sensitivity:3.6 Specifity:98.6 Precision:62.3 NPRv:62.1
+Threshold: 1.5090933711721444
+TP:1.4 FP:0.8 TN:60.7 FN:37.0
+Sensitivity:3.7 Specifity:98.6 Precision:62.9 NPRv:62.1
+Threshold: 1.4813315127652151
+TP:1.4 FP:0.9 TN:60.6 FN:37.0
+Sensitivity:3.7 Specifity:98.5 Precision:60.9 NPRv:62.1
+Threshold: 1.4645618837785241
+TP:1.5 FP:1.0 TN:60.6 FN:37.0
+Sensitivity:3.8 Specifity:98.5 Precision:60.6 NPRv:62.1
+Threshold: 1.4544763196815054
+TP:1.5 FP:1.0 TN:60.6 FN:36.9
+Sensitivity:4.0 Specifity:98.5 Precision:61.8 NPRv:62.1
+Threshold: 1.4473104079640513
+TP:1.5 FP:1.0 TN:60.5 FN:36.9
+Sensitivity:4.0 Specifity:98.4 Precision:60.9 NPRv:62.1
+Threshold: 1.4418757128516995
+TP:1.6 FP:1.0 TN:60.5 FN:36.9
+Sensitivity:4.1 Specifity:98.3 Precision:60.6 NPRv:62.1
+Threshold: 1.4378743618975682
+TP:1.6 FP:1.0 TN:60.5 FN:36.8
+Sensitivity:4.3 Specifity:98.3 Precision:61.6 NPRv:62.2
+Threshold: 1.4353337858360016
+TP:1.6 FP:1.1 TN:60.5 FN:36.8
+Sensitivity:4.3 Specifity:98.3 Precision:60.8 NPRv:62.2
+Threshold: 1.430834756762943
+TP:1.7 FP:1.1 TN:60.5 FN:36.8
+Sensitivity:4.4 Specifity:98.3 Precision:61.3 NPRv:62.2
+Threshold: 1.4217175365956398
+TP:1.7 FP:1.1 TN:60.4 FN:36.7
+Sensitivity:4.5 Specifity:98.2 Precision:61.0 NPRv:62.2
+Threshold: 1.38634940679218
+TP:1.9 FP:1.1 TN:60.4 FN:36.6
+Sensitivity:4.9 Specifity:98.2 Precision:63.0 NPRv:62.3
+Threshold: 1.3810380350220997
+TP:1.9 FP:1.2 TN:60.4 FN:36.6
+Sensitivity:4.9 Specifity:98.1 Precision:61.4 NPRv:62.3
+Threshold: 1.3701922532630952
+TP:2.0 FP:1.2 TN:60.4 FN:36.5
+Sensitivity:5.1 Specifity:98.1 Precision:62.8 NPRv:62.3
+Threshold: 1.362713574078916
+TP:2.0 FP:1.2 TN:60.3 FN:36.5
+Sensitivity:5.1 Specifity:98.0 Precision:62.1 NPRv:62.3
+Threshold: 1.3509059635242062
+TP:2.0 FP:1.2 TN:60.3 FN:36.4
+Sensitivity:5.2 Specifity:98.0 Precision:62.5 NPRv:62.3
+Threshold: 1.3469836404692193
+TP:2.0 FP:1.3 TN:60.2 FN:36.4
+Sensitivity:5.2 Specifity:97.9 Precision:60.4 NPRv:62.3
+Threshold: 1.3458602292317128
+TP:2.1 FP:1.4 TN:60.2 FN:36.4
+Sensitivity:5.3 Specifity:97.8 Precision:60.2 NPRv:62.3
+Threshold: 1.3221590376004615
+TP:2.1 FP:1.5 TN:60.1 FN:36.4
+Sensitivity:5.3 Specifity:97.6 Precision:58.3 NPRv:62.3
+Threshold: 1.3190046767746173
+TP:2.1 FP:1.5 TN:60.1 FN:36.4
+Sensitivity:5.4 Specifity:97.6 Precision:58.8 NPRv:62.3
+Threshold: 1.313965672613585
+TP:2.1 FP:1.5 TN:60.0 FN:36.3
+Sensitivity:5.5 Specifity:97.6 Precision:58.6 NPRv:62.3
+Threshold: 1.312293688103996
+TP:2.1 FP:1.5 TN:60.0 FN:36.3
+Sensitivity:5.5 Specifity:97.5 Precision:58.0 NPRv:62.3
+Threshold: 1.2992879644016495
+TP:2.2 FP:1.5 TN:60.0 FN:36.3
+Sensitivity:5.7 Specifity:97.5 Precision:58.8 NPRv:62.3
+Threshold: 1.2854670185007628
+TP:2.3 FP:1.5 TN:60.0 FN:36.2
+Sensitivity:5.9 Specifity:97.5 Precision:59.6 NPRv:62.4
+Threshold: 1.275003095939865
+TP:2.3 FP:1.6 TN:60.0 FN:36.2
+Sensitivity:5.9 Specifity:97.4 Precision:59.0 NPRv:62.4
+Threshold: 1.2724473584779936
+TP:2.3 FP:1.6 TN:60.0 FN:36.1
+Sensitivity:6.1 Specifity:97.4 Precision:59.8 NPRv:62.4
+Threshold: 1.2706185846072475
+TP:2.3 FP:1.6 TN:59.9 FN:36.1
+Sensitivity:6.1 Specifity:97.4 Precision:59.3 NPRv:62.4
+Threshold: 1.260996659814044
+TP:2.5 FP:1.6 TN:59.9 FN:36.0
+Sensitivity:6.4 Specifity:97.4 Precision:60.4 NPRv:62.5
+Threshold: 1.2538141450082732
+TP:2.5 FP:1.6 TN:59.9 FN:36.0
+Sensitivity:6.4 Specifity:97.3 Precision:59.8 NPRv:62.5
+Threshold: 1.2379063699196053
+TP:2.5 FP:1.6 TN:59.9 FN:36.0
+Sensitivity:6.5 Specifity:97.3 Precision:60.2 NPRv:62.5
+Threshold: 1.2366407838737636
+TP:2.5 FP:1.7 TN:59.9 FN:35.9
+Sensitivity:6.6 Specifity:97.3 Precision:60.0 NPRv:62.5
+Threshold: 1.2336573769750931
+TP:2.6 FP:1.7 TN:59.9 FN:35.9
+Sensitivity:6.7 Specifity:97.3 Precision:60.3 NPRv:62.5
+Threshold: 1.2333674559689218
+TP:2.6 FP:1.8 TN:59.8 FN:35.8
+Sensitivity:6.9 Specifity:97.1 Precision:60.0 NPRv:62.5
+Threshold: 1.2323573725363959
+TP:2.7 FP:1.8 TN:59.8 FN:35.8
+Sensitivity:7.0 Specifity:97.1 Precision:60.3 NPRv:62.6
+Threshold: 1.2268062621303037
+TP:2.7 FP:1.8 TN:59.7 FN:35.7
+Sensitivity:7.1 Specifity:97.0 Precision:60.0 NPRv:62.6
+Threshold: 1.2100738809819396
+TP:2.8 FP:1.8 TN:59.7 FN:35.6
+Sensitivity:7.3 Specifity:97.0 Precision:60.6 NPRv:62.6
+Threshold: 1.199955736542782
+TP:2.8 FP:1.9 TN:59.6 FN:35.6
+Sensitivity:7.3 Specifity:96.9 Precision:59.7 NPRv:62.6
+Threshold: 1.1977878056903513
+TP:2.9 FP:1.9 TN:59.6 FN:35.6
+Sensitivity:7.4 Specifity:96.9 Precision:60.0 NPRv:62.6
+Threshold: 1.189713631973293
+TP:2.9 FP:2.0 TN:59.6 FN:35.6
+Sensitivity:7.4 Specifity:96.8 Precision:59.1 NPRv:62.6
+Threshold: 1.1880517534861175
+TP:2.9 FP:2.1 TN:59.5 FN:35.6
+Sensitivity:7.5 Specifity:96.7 Precision:58.5 NPRv:62.6
+Threshold: 1.186815577964068
+TP:2.9 FP:2.1 TN:59.4 FN:35.6
+Sensitivity:7.5 Specifity:96.5 Precision:57.7 NPRv:62.6
+Threshold: 1.1860172731498002
+TP:2.9 FP:2.2 TN:59.4 FN:35.6
+Sensitivity:7.5 Specifity:96.5 Precision:57.2 NPRv:62.5
+Threshold: 1.185946921245268
+TP:2.9 FP:2.2 TN:59.4 FN:35.5
+Sensitivity:7.6 Specifity:96.5 Precision:57.6 NPRv:62.6
+Threshold: 1.1855317418036226
+TP:2.9 FP:2.2 TN:59.3 FN:35.5
+Sensitivity:7.6 Specifity:96.4 Precision:56.7 NPRv:62.5
+Threshold: 1.1837543269053041
+TP:2.9 FP:2.3 TN:59.2 FN:35.5
+Sensitivity:7.6 Specifity:96.2 Precision:55.9 NPRv:62.5
+Threshold: 1.1814381988328393
+TP:3.0 FP:2.3 TN:59.2 FN:35.5
+Sensitivity:7.8 Specifity:96.2 Precision:56.6 NPRv:62.6
+Threshold: 1.1779349330765438
+TP:3.0 FP:2.3 TN:59.2 FN:35.5
+Sensitivity:7.8 Specifity:96.2 Precision:56.2 NPRv:62.5
+Threshold: 1.1680139953435427
+TP:3.0 FP:2.3 TN:59.2 FN:35.4
+Sensitivity:7.9 Specifity:96.2 Precision:56.5 NPRv:62.6
+Threshold: 1.1662416107996305
+TP:3.0 FP:2.4 TN:59.2 FN:35.4
+Sensitivity:7.9 Specifity:96.1 Precision:56.1 NPRv:62.5
+Threshold: 1.1606238788466257
+TP:3.1 FP:2.4 TN:59.1 FN:35.4
+Sensitivity:8.0 Specifity:96.1 Precision:56.0 NPRv:62.6
+Threshold: 1.1428262804698348
+TP:3.1 FP:2.5 TN:59.0 FN:35.4
+Sensitivity:8.0 Specifity:95.9 Precision:54.9 NPRv:62.5
+Threshold: 1.1379705689800352
+TP:3.1 FP:2.5 TN:59.0 FN:35.3
+Sensitivity:8.1 Specifity:95.9 Precision:55.2 NPRv:62.5
+Threshold: 1.136343698404712
+TP:3.1 FP:2.6 TN:59.0 FN:35.3
+Sensitivity:8.1 Specifity:95.8 Precision:54.8 NPRv:62.5
+Threshold: 1.1360656255920452
+TP:3.2 FP:2.6 TN:59.0 FN:35.3
+Sensitivity:8.2 Specifity:95.8 Precision:55.1 NPRv:62.5
+Threshold: 1.1116453997849882
+TP:3.2 FP:2.7 TN:58.8 FN:35.3
+Sensitivity:8.2 Specifity:95.6 Precision:53.8 NPRv:62.5
+Threshold: 1.1079376839822708
+TP:3.2 FP:2.8 TN:58.8 FN:35.3
+Sensitivity:8.3 Specifity:95.5 Precision:53.4 NPRv:62.5
+Threshold: 1.100179360400294
+TP:3.3 FP:2.8 TN:58.8 FN:35.2
+Sensitivity:8.5 Specifity:95.5 Precision:53.9 NPRv:62.5
+Threshold: 1.0608945729013293
+TP:3.3 FP:3.0 TN:58.5 FN:35.2
+Sensitivity:8.5 Specifity:95.1 Precision:51.7 NPRv:62.4
+Threshold: 1.0563415326560197
+TP:3.3 FP:3.1 TN:58.5 FN:35.2
+Sensitivity:8.6 Specifity:95.0 Precision:51.7 NPRv:62.4
+Threshold: 1.0559911438652887
+TP:3.3 FP:3.1 TN:58.4 FN:35.2
+Sensitivity:8.6 Specifity:94.9 Precision:51.4 NPRv:62.4
+Threshold: 1.0508642790381706
+TP:3.3 FP:3.1 TN:58.4 FN:35.1
+Sensitivity:8.7 Specifity:94.9 Precision:51.7 NPRv:62.5
+Threshold: 1.0418097861693594
+TP:3.4 FP:3.2 TN:58.4 FN:35.1
+Sensitivity:8.9 Specifity:94.8 Precision:51.7 NPRv:62.5
+Threshold: 1.041627078142559
+TP:3.4 FP:3.3 TN:58.2 FN:35.0
+Sensitivity:9.0 Specifity:94.6 Precision:51.1 NPRv:62.5
+Threshold: 1.0401638149066874
+TP:3.5 FP:3.3 TN:58.2 FN:35.0
+Sensitivity:9.0 Specifity:94.6 Precision:51.1 NPRv:62.5
+Threshold: 1.0366617117632093
+TP:3.5 FP:3.4 TN:58.2 FN:35.0
+Sensitivity:9.0 Specifity:94.5 Precision:50.8 NPRv:62.4
+Threshold: 1.0365989369771085
+TP:3.5 FP:3.4 TN:58.1 FN:34.9
+Sensitivity:9.1 Specifity:94.5 Precision:50.8 NPRv:62.5
+Threshold: 1.0324897740724186
+TP:3.5 FP:3.5 TN:58.0 FN:34.9
+Sensitivity:9.1 Specifity:94.3 Precision:50.0 NPRv:62.4
+Threshold: 1.0271977257565912
+TP:3.5 FP:3.6 TN:57.9 FN:34.9
+Sensitivity:9.1 Specifity:94.1 Precision:49.2 NPRv:62.4
+Threshold: 1.0152131256390962
+TP:3.5 FP:3.7 TN:57.9 FN:34.9
+Sensitivity:9.1 Specifity:94.0 Precision:49.0 NPRv:62.4
+Threshold: 1.0116968439010425
+TP:3.6 FP:3.7 TN:57.9 FN:34.9
+Sensitivity:9.2 Specifity:94.0 Precision:49.2 NPRv:62.4
+Threshold: 1.0029847594123416
+TP:3.6 FP:3.8 TN:57.8 FN:34.9
+Sensitivity:9.2 Specifity:93.9 Precision:48.5 NPRv:62.3
+Threshold: 0.9996851163874991
+TP:3.6 FP:3.8 TN:57.7 FN:34.9
+Sensitivity:9.3 Specifity:93.8 Precision:48.5 NPRv:62.3
+Threshold: 0.9952490093621835
+TP:3.6 FP:3.9 TN:57.7 FN:34.9
+Sensitivity:9.3 Specifity:93.7 Precision:48.0 NPRv:62.3
+Threshold: 0.9932430579522066
+TP:3.7 FP:3.9 TN:57.7 FN:34.8
+Sensitivity:9.5 Specifity:93.7 Precision:48.5 NPRv:62.4
+Threshold: 0.990964400393157
+TP:3.7 FP:4.0 TN:57.6 FN:34.8
+Sensitivity:9.5 Specifity:93.6 Precision:48.1 NPRv:62.3
+Threshold: 0.9813239361968724
+TP:3.7 FP:4.1 TN:57.4 FN:34.8
+Sensitivity:9.5 Specifity:93.3 Precision:46.9 NPRv:62.3
+Threshold: 0.9785969507543337
+TP:3.7 FP:4.2 TN:57.4 FN:34.8
+Sensitivity:9.6 Specifity:93.2 Precision:47.0 NPRv:62.3
+Threshold: 0.9742269932303583
+TP:3.7 FP:4.2 TN:57.3 FN:34.8
+Sensitivity:9.6 Specifity:93.2 Precision:46.8 NPRv:62.3
+Threshold: 0.9723548584816171
+TP:3.7 FP:4.3 TN:57.3 FN:34.8
+Sensitivity:9.6 Specifity:93.0 Precision:46.3 NPRv:62.2
+Threshold: 0.9649952729501796
+TP:3.7 FP:4.4 TN:57.1 FN:34.7
+Sensitivity:9.7 Specifity:92.9 Precision:45.9 NPRv:62.2
+Threshold: 0.9640891600656472
+TP:3.8 FP:4.4 TN:57.1 FN:34.7
+Sensitivity:9.8 Specifity:92.9 Precision:46.2 NPRv:62.2
+Threshold: 0.963727683349496
+TP:3.8 FP:4.5 TN:57.1 FN:34.7
+Sensitivity:9.8 Specifity:92.7 Precision:45.8 NPRv:62.2
+Threshold: 0.9634098947391418
+TP:3.8 FP:4.6 TN:56.9 FN:34.7
+Sensitivity:9.9 Specifity:92.5 Precision:45.2 NPRv:62.2
+Threshold: 0.9619496460526926
+TP:3.8 FP:4.6 TN:56.9 FN:34.6
+Sensitivity:10.0 Specifity:92.5 Precision:45.5 NPRv:62.2
+Threshold: 0.9618984418032641
+TP:3.8 FP:4.7 TN:56.9 FN:34.6
+Sensitivity:10.0 Specifity:92.4 Precision:45.3 NPRv:62.2
+Threshold: 0.9611897875841616
+TP:3.9 FP:4.7 TN:56.8 FN:34.6
+Sensitivity:10.1 Specifity:92.4 Precision:45.3 NPRv:62.2
+Threshold: 0.9588860375052384
+TP:3.9 FP:4.7 TN:56.8 FN:34.5
+Sensitivity:10.2 Specifity:92.4 Precision:45.5 NPRv:62.2
+Threshold: 0.9577171641258431
+TP:3.9 FP:4.7 TN:56.8 FN:34.5
+Sensitivity:10.2 Specifity:92.3 Precision:45.3 NPRv:62.2
+Threshold: 0.9562751773735965
+TP:4.0 FP:4.7 TN:56.8 FN:34.5
+Sensitivity:10.3 Specifity:92.3 Precision:45.6 NPRv:62.2
+Threshold: 0.9488080218661494
+TP:4.0 FP:4.8 TN:56.8 FN:34.5
+Sensitivity:10.3 Specifity:92.3 Precision:45.4 NPRv:62.2
+Threshold: 0.9473456057842906
+TP:4.0 FP:4.8 TN:56.7 FN:34.5
+Sensitivity:10.4 Specifity:92.2 Precision:45.4 NPRv:62.2
+Threshold: 0.9399810912448774
+TP:4.0 FP:4.9 TN:56.6 FN:34.5
+Sensitivity:10.4 Specifity:92.0 Precision:44.9 NPRv:62.2
+Threshold: 0.9379072900921023
+TP:4.0 FP:4.9 TN:56.6 FN:34.4
+Sensitivity:10.5 Specifity:92.0 Precision:44.9 NPRv:62.2
+Threshold: 0.9337272152248415
+TP:4.1 FP:5.0 TN:56.6 FN:34.4
+Sensitivity:10.7 Specifity:91.9 Precision:45.2 NPRv:62.2
+Threshold: 0.9282064222402724
+TP:4.1 FP:5.0 TN:56.6 FN:34.3
+Sensitivity:10.8 Specifity:91.9 Precision:45.4 NPRv:62.2
+Threshold: 0.9256646060383282
+TP:4.1 FP:5.1 TN:56.5 FN:34.3
+Sensitivity:10.8 Specifity:91.8 Precision:45.0 NPRv:62.2
+Threshold: 0.924927757179354
+TP:4.1 FP:5.1 TN:56.4 FN:34.3
+Sensitivity:10.8 Specifity:91.7 Precision:44.8 NPRv:62.2
+Threshold: 0.9218851042522791
+TP:4.2 FP:5.1 TN:56.4 FN:34.3
+Sensitivity:10.9 Specifity:91.7 Precision:44.9 NPRv:62.2
+Threshold: 0.9168648410106466
+TP:4.2 FP:5.1 TN:56.4 FN:34.2
+Sensitivity:11.0 Specifity:91.7 Precision:45.3 NPRv:62.2
+Threshold: 0.8985941082342633
+TP:4.3 FP:5.1 TN:56.4 FN:34.1
+Sensitivity:11.2 Specifity:91.7 Precision:45.7 NPRv:62.3
+Threshold: 0.8974301736512945
+TP:4.3 FP:5.2 TN:56.4 FN:34.1
+Sensitivity:11.2 Specifity:91.6 Precision:45.6 NPRv:62.3
+Threshold: 0.8969477256632103
+TP:4.4 FP:5.2 TN:56.3 FN:34.1
+Sensitivity:11.3 Specifity:91.5 Precision:45.4 NPRv:62.3
+Threshold: 0.8966278548242845
+TP:4.4 FP:5.3 TN:56.3 FN:34.1
+Sensitivity:11.4 Specifity:91.4 Precision:45.5 NPRv:62.3
+Threshold: 0.8920292473694275
+TP:4.5 FP:5.3 TN:56.3 FN:34.0
+Sensitivity:11.7 Specifity:91.4 Precision:46.1 NPRv:62.4
+Threshold: 0.891731430052022
+TP:4.5 FP:5.3 TN:56.2 FN:34.0
+Sensitivity:11.7 Specifity:91.4 Precision:45.9 NPRv:62.3
+Threshold: 0.8846755005955208
+TP:4.5 FP:5.3 TN:56.2 FN:33.9
+Sensitivity:11.8 Specifity:91.4 Precision:46.1 NPRv:62.4
+Threshold: 0.8809384086233109
+TP:4.6 FP:5.3 TN:56.2 FN:33.8
+Sensitivity:12.0 Specifity:91.4 Precision:46.5 NPRv:62.4
+Threshold: 0.8782525017001301
+TP:4.7 FP:5.4 TN:56.2 FN:33.8
+Sensitivity:12.2 Specifity:91.2 Precision:46.5 NPRv:62.4
+Threshold: 0.8739943459992711
+TP:4.7 FP:5.5 TN:56.0 FN:33.8
+Sensitivity:12.2 Specifity:91.1 Precision:46.0 NPRv:62.4
+Threshold: 0.869102497997627
+TP:4.7 FP:5.6 TN:56.0 FN:33.8
+Sensitivity:12.2 Specifity:91.0 Precision:45.7 NPRv:62.4
+Threshold: 0.8686647329419372
+TP:4.7 FP:5.6 TN:55.9 FN:33.7
+Sensitivity:12.3 Specifity:90.9 Precision:45.7 NPRv:62.4
+Threshold: 0.8632587311865154
+TP:4.8 FP:5.6 TN:55.9 FN:33.7
+Sensitivity:12.4 Specifity:90.9 Precision:45.9 NPRv:62.4
+Threshold: 0.8605406417289023
+TP:4.8 FP:5.6 TN:55.9 FN:33.7
+Sensitivity:12.4 Specifity:90.8 Precision:45.8 NPRv:62.4
+Threshold: 0.859195173873176
+TP:4.8 FP:5.8 TN:55.8 FN:33.7
+Sensitivity:12.5 Specifity:90.7 Precision:45.5 NPRv:62.4
+Threshold: 0.8576110252605632
+TP:4.8 FP:5.8 TN:55.8 FN:33.6
+Sensitivity:12.6 Specifity:90.7 Precision:45.7 NPRv:62.4
+Threshold: 0.8535406759404605
+TP:4.9 FP:5.8 TN:55.8 FN:33.6
+Sensitivity:12.7 Specifity:90.6 Precision:45.7 NPRv:62.4
+Threshold: 0.8493228487445337
+TP:5.0 FP:5.8 TN:55.8 FN:33.5
+Sensitivity:13.0 Specifity:90.6 Precision:46.3 NPRv:62.5
+Threshold: 0.8491939453106111
+TP:5.0 FP:5.9 TN:55.7 FN:33.5
+Sensitivity:13.0 Specifity:90.5 Precision:45.9 NPRv:62.4
+Threshold: 0.8449649750325816
+TP:5.0 FP:5.9 TN:55.7 FN:33.4
+Sensitivity:13.0 Specifity:90.5 Precision:46.1 NPRv:62.5
+Threshold: 0.8447054706210376
+TP:5.1 FP:5.9 TN:55.6 FN:33.4
+Sensitivity:13.1 Specifity:90.4 Precision:46.0 NPRv:62.5
+Threshold: 0.8442139993103069
+TP:5.1 FP:5.9 TN:55.6 FN:33.4
+Sensitivity:13.2 Specifity:90.4 Precision:46.2 NPRv:62.5
+Threshold: 0.8441831443655873
+TP:5.1 FP:6.0 TN:55.5 FN:33.4
+Sensitivity:13.2 Specifity:90.2 Precision:45.7 NPRv:62.4
+Threshold: 0.8426154421890982
+TP:5.1 FP:6.0 TN:55.5 FN:33.3
+Sensitivity:13.3 Specifity:90.2 Precision:45.9 NPRv:62.5
+Threshold: 0.8391572393117271
+TP:5.1 FP:6.1 TN:55.4 FN:33.3
+Sensitivity:13.3 Specifity:90.1 Precision:45.6 NPRv:62.4
+Threshold: 0.8379261691245475
+TP:5.2 FP:6.2 TN:55.4 FN:33.3
+Sensitivity:13.4 Specifity:90.0 Precision:45.6 NPRv:62.5
+Threshold: 0.8378227546099649
+TP:5.2 FP:6.2 TN:55.4 FN:33.3
+Sensitivity:13.5 Specifity:90.0 Precision:45.8 NPRv:62.5
+Threshold: 0.8341526395399057
+TP:5.2 FP:6.2 TN:55.3 FN:33.2
+Sensitivity:13.6 Specifity:89.9 Precision:45.8 NPRv:62.5
+Threshold: 0.8262666676301423
+TP:5.2 FP:6.2 TN:55.3 FN:33.2
+Sensitivity:13.6 Specifity:89.9 Precision:45.7 NPRv:62.5
+Threshold: 0.8209518773886413
+TP:5.3 FP:6.2 TN:55.3 FN:33.2
+Sensitivity:13.7 Specifity:89.9 Precision:45.9 NPRv:62.5
+Threshold: 0.8118574350890754
+TP:5.3 FP:6.4 TN:55.2 FN:33.1
+Sensitivity:13.9 Specifity:89.6 Precision:45.6 NPRv:62.5
+Threshold: 0.8096853596949324
+TP:5.3 FP:6.4 TN:55.1 FN:33.1
+Sensitivity:13.9 Specifity:89.6 Precision:45.5 NPRv:62.5
+Threshold: 0.804643490809884
+TP:5.4 FP:6.4 TN:55.1 FN:33.0
+Sensitivity:14.1 Specifity:89.6 Precision:45.8 NPRv:62.5
+Threshold: 0.8035901703642496
+TP:5.4 FP:6.4 TN:55.1 FN:33.0
+Sensitivity:14.1 Specifity:89.5 Precision:45.7 NPRv:62.5
+Threshold: 0.8026988264806383
+TP:5.5 FP:6.5 TN:55.1 FN:33.0
+Sensitivity:14.2 Specifity:89.5 Precision:45.7 NPRv:62.5
+Threshold: 0.8018903115819188
+TP:5.5 FP:6.6 TN:55.0 FN:33.0
+Sensitivity:14.2 Specifity:89.3 Precision:45.4 NPRv:62.5
+Threshold: 0.8001981087446128
+TP:5.5 FP:6.6 TN:54.9 FN:32.9
+Sensitivity:14.4 Specifity:89.2 Precision:45.5 NPRv:62.5
+Threshold: 0.7986502600929233
+TP:5.6 FP:6.7 TN:54.8 FN:32.9
+Sensitivity:14.5 Specifity:89.1 Precision:45.4 NPRv:62.5
+Threshold: 0.7935792784740034
+TP:5.6 FP:6.7 TN:54.8 FN:32.9
+Sensitivity:14.6 Specifity:89.0 Precision:45.4 NPRv:62.5
+Threshold: 0.7934232015381416
+TP:5.6 FP:6.7 TN:54.8 FN:32.8
+Sensitivity:14.7 Specifity:89.0 Precision:45.6 NPRv:62.5
+Threshold: 0.7914259187861061
+TP:5.6 FP:6.8 TN:54.8 FN:32.8
+Sensitivity:14.7 Specifity:89.0 Precision:45.4 NPRv:62.5
+Threshold: 0.789456120704169
+TP:5.7 FP:6.8 TN:54.7 FN:32.8
+Sensitivity:14.8 Specifity:88.9 Precision:45.3 NPRv:62.5
+Threshold: 0.7883778502433039
+TP:5.7 FP:6.9 TN:54.7 FN:32.8
+Sensitivity:14.8 Specifity:88.8 Precision:45.2 NPRv:62.5
+Threshold: 0.7874327892336979
+TP:5.8 FP:6.9 TN:54.6 FN:32.7
+Sensitivity:15.0 Specifity:88.8 Precision:45.4 NPRv:62.5
+Threshold: 0.7853072866094097
+TP:5.8 FP:7.0 TN:54.6 FN:32.7
+Sensitivity:15.0 Specifity:88.7 Precision:45.2 NPRv:62.5
+Threshold: 0.784556345576493
+TP:5.8 FP:7.0 TN:54.6 FN:32.7
+Sensitivity:15.0 Specifity:88.7 Precision:45.4 NPRv:62.6
+Threshold: 0.7826228249072734
+TP:5.8 FP:7.0 TN:54.5 FN:32.7
+Sensitivity:15.0 Specifity:88.6 Precision:45.1 NPRv:62.5
+Threshold: 0.7807362807275111
+TP:5.8 FP:7.0 TN:54.5 FN:32.6
+Sensitivity:15.1 Specifity:88.6 Precision:45.3 NPRv:62.5
+Threshold: 0.7801001131179837
+TP:5.9 FP:7.1 TN:54.5 FN:32.6
+Sensitivity:15.2 Specifity:88.5 Precision:45.3 NPRv:62.6
+Threshold: 0.7783544323315266
+TP:5.9 FP:7.1 TN:54.5 FN:32.6
+Sensitivity:15.3 Specifity:88.5 Precision:45.5 NPRv:62.6
+Threshold: 0.7728333082174427
+TP:5.9 FP:7.1 TN:54.4 FN:32.6
+Sensitivity:15.3 Specifity:88.5 Precision:45.4 NPRv:62.6
+Threshold: 0.7683484526887822
+TP:6.0 FP:7.1 TN:54.4 FN:32.5
+Sensitivity:15.5 Specifity:88.5 Precision:45.7 NPRv:62.6
+Threshold: 0.7681310077735416
+TP:6.0 FP:7.1 TN:54.4 FN:32.5
+Sensitivity:15.5 Specifity:88.4 Precision:45.5 NPRv:62.6
+Threshold: 0.767419978549247
+TP:6.0 FP:7.2 TN:54.3 FN:32.5
+Sensitivity:15.6 Specifity:88.3 Precision:45.4 NPRv:62.6
+Threshold: 0.7619866682920715
+TP:6.0 FP:7.3 TN:54.2 FN:32.5
+Sensitivity:15.6 Specifity:88.2 Precision:45.2 NPRv:62.6
+Threshold: 0.760493581707625
+TP:6.0 FP:7.3 TN:54.2 FN:32.4
+Sensitivity:15.7 Specifity:88.2 Precision:45.3 NPRv:62.6
+Threshold: 0.7595630783197812
+TP:6.0 FP:7.3 TN:54.2 FN:32.4
+Sensitivity:15.7 Specifity:88.1 Precision:45.2 NPRv:62.6
+Threshold: 0.7567003836540922
+TP:6.1 FP:7.4 TN:54.1 FN:32.4
+Sensitivity:15.8 Specifity:87.9 Precision:45.0 NPRv:62.6
+Threshold: 0.7562047536152366
+TP:6.1 FP:7.4 TN:54.1 FN:32.3
+Sensitivity:15.9 Specifity:87.9 Precision:45.1 NPRv:62.6
+Threshold: 0.7558249385225819
+TP:6.1 FP:7.5 TN:54.0 FN:32.3
+Sensitivity:15.9 Specifity:87.8 Precision:44.9 NPRv:62.6
+Threshold: 0.752618511640845
+TP:6.2 FP:7.5 TN:54.0 FN:32.3
+Sensitivity:16.0 Specifity:87.8 Precision:45.0 NPRv:62.6
+Threshold: 0.7509149959394716
+TP:6.2 FP:7.5 TN:54.0 FN:32.3
+Sensitivity:16.0 Specifity:87.7 Precision:44.9 NPRv:62.6
+Threshold: 0.7479184410946751
+TP:6.2 FP:7.6 TN:54.0 FN:32.3
+Sensitivity:16.1 Specifity:87.7 Precision:44.9 NPRv:62.6
+Threshold: 0.7473677978945997
+TP:6.2 FP:7.7 TN:53.8 FN:32.2
+Sensitivity:16.2 Specifity:87.4 Precision:44.6 NPRv:62.5
+Threshold: 0.7465079633390057
+TP:6.3 FP:7.7 TN:53.8 FN:32.2
+Sensitivity:16.3 Specifity:87.4 Precision:44.8 NPRv:62.6
+Threshold: 0.743243080091342
+TP:6.3 FP:7.8 TN:53.7 FN:32.2
+Sensitivity:16.3 Specifity:87.3 Precision:44.5 NPRv:62.5
+Threshold: 0.7415132879349121
+TP:6.3 FP:7.8 TN:53.7 FN:32.1
+Sensitivity:16.5 Specifity:87.3 Precision:44.7 NPRv:62.6
+Threshold: 0.7395296001169154
+TP:6.3 FP:7.9 TN:53.7 FN:32.1
+Sensitivity:16.5 Specifity:87.2 Precision:44.6 NPRv:62.6
+Threshold: 0.7370609470423082
+TP:6.4 FP:7.9 TN:53.6 FN:32.1
+Sensitivity:16.6 Specifity:87.1 Precision:44.6 NPRv:62.6
+Threshold: 0.7361803478059687
+TP:6.4 FP:8.0 TN:53.6 FN:32.1
+Sensitivity:16.6 Specifity:87.0 Precision:44.4 NPRv:62.5
+Threshold: 0.7336512132034565
+TP:6.4 FP:8.0 TN:53.6 FN:32.0
+Sensitivity:16.8 Specifity:87.0 Precision:44.7 NPRv:62.6
+Threshold: 0.7302083809108137
+TP:6.5 FP:8.0 TN:53.6 FN:31.9
+Sensitivity:17.0 Specifity:87.0 Precision:44.9 NPRv:62.6
+Threshold: 0.7282324746218062
+TP:6.5 FP:8.0 TN:53.5 FN:31.9
+Sensitivity:17.0 Specifity:87.0 Precision:44.8 NPRv:62.6
+Threshold: 0.7249305554660197
+TP:6.6 FP:8.1 TN:53.4 FN:31.9
+Sensitivity:17.0 Specifity:86.8 Precision:44.8 NPRv:62.6
+Threshold: 0.7218430919959148
+TP:6.6 FP:8.1 TN:53.4 FN:31.9
+Sensitivity:17.0 Specifity:86.8 Precision:44.6 NPRv:62.6
+Threshold: 0.7211139767545711
+TP:6.6 FP:8.1 TN:53.4 FN:31.9
+Sensitivity:17.1 Specifity:86.8 Precision:44.8 NPRv:62.6
+Threshold: 0.7207934694733016
+TP:6.6 FP:8.2 TN:53.3 FN:31.9
+Sensitivity:17.1 Specifity:86.7 Precision:44.6 NPRv:62.6
+Threshold: 0.7204854019165521
+TP:6.7 FP:8.2 TN:53.3 FN:31.7
+Sensitivity:17.5 Specifity:86.7 Precision:45.1 NPRv:62.7
+Threshold: 0.7187433263926537
+TP:6.7 FP:8.2 TN:53.3 FN:31.7
+Sensitivity:17.5 Specifity:86.6 Precision:45.0 NPRv:62.7
+Threshold: 0.7180474581867019
+TP:6.8 FP:8.3 TN:53.3 FN:31.7
+Sensitivity:17.6 Specifity:86.5 Precision:45.0 NPRv:62.7
+Threshold: 0.7174740093732761
+TP:6.8 FP:8.4 TN:53.2 FN:31.6
+Sensitivity:17.7 Specifity:86.4 Precision:44.9 NPRv:62.7
+Threshold: 0.7095499443417274
+TP:6.8 FP:8.5 TN:53.0 FN:31.6
+Sensitivity:17.7 Specifity:86.2 Precision:44.5 NPRv:62.6
+Threshold: 0.708560555359194
+TP:6.8 FP:8.5 TN:53.0 FN:31.6
+Sensitivity:17.8 Specifity:86.2 Precision:44.6 NPRv:62.7
+Threshold: 0.7077244700001312
+TP:6.9 FP:8.6 TN:52.9 FN:31.5
+Sensitivity:18.0 Specifity:86.0 Precision:44.5 NPRv:62.6
+Threshold: 0.7072729539928714
+TP:7.0 FP:8.7 TN:52.9 FN:31.5
+Sensitivity:18.1 Specifity:85.9 Precision:44.5 NPRv:62.7
+Threshold: 0.7049389837129664
+TP:7.0 FP:8.7 TN:52.9 FN:31.4
+Sensitivity:18.3 Specifity:85.9 Precision:44.8 NPRv:62.7
+Threshold: 0.703274831365769
+TP:7.1 FP:8.8 TN:52.8 FN:31.4
+Sensitivity:18.5 Specifity:85.8 Precision:44.8 NPRv:62.7
+Threshold: 0.702037541106525
+TP:7.1 FP:8.8 TN:52.8 FN:31.3
+Sensitivity:18.6 Specifity:85.8 Precision:44.9 NPRv:62.8
+Threshold: 0.6972792624985102
+TP:7.2 FP:8.8 TN:52.8 FN:31.2
+Sensitivity:18.8 Specifity:85.8 Precision:45.2 NPRv:62.8
+Threshold: 0.6969534870904066
+TP:7.3 FP:8.8 TN:52.8 FN:31.2
+Sensitivity:18.9 Specifity:85.8 Precision:45.3 NPRv:62.8
+Threshold: 0.6962290931283539
+TP:7.3 FP:8.8 TN:52.7 FN:31.1
+Sensitivity:19.0 Specifity:85.7 Precision:45.4 NPRv:62.9
+Threshold: 0.6952706873788214
+TP:7.4 FP:8.9 TN:52.6 FN:31.1
+Sensitivity:19.2 Specifity:85.5 Precision:45.3 NPRv:62.9
+Threshold: 0.6931695720865378
+TP:7.4 FP:9.0 TN:52.6 FN:31.0
+Sensitivity:19.3 Specifity:85.4 Precision:45.3 NPRv:62.9
+Threshold: 0.6915481152984526
+TP:7.5 FP:9.0 TN:52.5 FN:31.0
+Sensitivity:19.5 Specifity:85.4 Precision:45.5 NPRv:62.9
+Threshold: 0.6913713328384429
+TP:7.5 FP:9.0 TN:52.5 FN:30.9
+Sensitivity:19.6 Specifity:85.3 Precision:45.5 NPRv:62.9
+Threshold: 0.6889777731549157
+TP:7.6 FP:9.0 TN:52.5 FN:30.8
+Sensitivity:19.8 Specifity:85.3 Precision:45.7 NPRv:63.0
+Threshold: 0.687591676671601
+TP:7.7 FP:9.1 TN:52.5 FN:30.8
+Sensitivity:19.9 Specifity:85.2 Precision:45.7 NPRv:63.0
+Threshold: 0.6858354418447938
+TP:7.7 FP:9.1 TN:52.4 FN:30.7
+Sensitivity:20.1 Specifity:85.2 Precision:45.9 NPRv:63.0
+Threshold: 0.6821466089267114
+TP:7.8 FP:9.1 TN:52.4 FN:30.7
+Sensitivity:20.3 Specifity:85.2 Precision:46.1 NPRv:63.1
+Threshold: 0.6815325279627045
+TP:7.8 FP:9.2 TN:52.4 FN:30.7
+Sensitivity:20.3 Specifity:85.1 Precision:46.0 NPRv:63.1
+Threshold: 0.6811334040206023
+TP:7.9 FP:9.2 TN:52.3 FN:30.5
+Sensitivity:20.7 Specifity:85.0 Precision:46.3 NPRv:63.2
+Threshold: 0.6799219685864822
+TP:8.0 FP:9.2 TN:52.3 FN:30.5
+Sensitivity:20.8 Specifity:85.0 Precision:46.4 NPRv:63.2
+Threshold: 0.6761650741851958
+TP:8.0 FP:9.3 TN:52.2 FN:30.4
+Sensitivity:20.9 Specifity:84.9 Precision:46.3 NPRv:63.2
+Threshold: 0.675285301196132
+TP:8.1 FP:9.3 TN:52.2 FN:30.4
+Sensitivity:21.0 Specifity:84.9 Precision:46.4 NPRv:63.2
+Threshold: 0.6752167965002485
+TP:8.1 FP:9.3 TN:52.2 FN:30.4
+Sensitivity:21.0 Specifity:84.8 Precision:46.3 NPRv:63.2
+Threshold: 0.6726833132435713
+TP:8.1 FP:9.4 TN:52.2 FN:30.4
+Sensitivity:21.0 Specifity:84.8 Precision:46.3 NPRv:63.2
+Threshold: 0.6724091537546455
+TP:8.1 FP:9.4 TN:52.2 FN:30.3
+Sensitivity:21.1 Specifity:84.8 Precision:46.4 NPRv:63.2
+Threshold: 0.6721789069389943
+TP:8.2 FP:9.4 TN:52.1 FN:30.3
+Sensitivity:21.3 Specifity:84.7 Precision:46.6 NPRv:63.3
+Threshold: 0.6696682119936824
+TP:8.2 FP:9.5 TN:52.1 FN:30.3
+Sensitivity:21.3 Specifity:84.6 Precision:46.5 NPRv:63.3
+Threshold: 0.6678499523401618
+TP:8.2 FP:9.5 TN:52.1 FN:30.2
+Sensitivity:21.4 Specifity:84.6 Precision:46.6 NPRv:63.3
+Threshold: 0.666906302489293
+TP:8.2 FP:9.5 TN:52.0 FN:30.2
+Sensitivity:21.4 Specifity:84.5 Precision:46.4 NPRv:63.3
+Threshold: 0.6662096878216752
+TP:8.3 FP:9.6 TN:51.9 FN:30.2
+Sensitivity:21.5 Specifity:84.3 Precision:46.2 NPRv:63.2
+Threshold: 0.6597503585278104
+TP:8.3 FP:9.7 TN:51.9 FN:30.2
+Sensitivity:21.5 Specifity:84.3 Precision:46.1 NPRv:63.2
+Threshold: 0.6553670158637823
+TP:8.3 FP:9.7 TN:51.9 FN:30.1
+Sensitivity:21.6 Specifity:84.3 Precision:46.2 NPRv:63.2
+Threshold: 0.6552874999942624
+TP:8.4 FP:9.7 TN:51.8 FN:30.1
+Sensitivity:21.7 Specifity:84.2 Precision:46.2 NPRv:63.3
+Threshold: 0.651777493200867
+TP:8.4 FP:9.8 TN:51.8 FN:30.1
+Sensitivity:21.7 Specifity:84.1 Precision:46.1 NPRv:63.2
+Threshold: 0.6499661105569495
+TP:8.4 FP:9.8 TN:51.8 FN:30.0
+Sensitivity:21.9 Specifity:84.1 Precision:46.3 NPRv:63.3
+Threshold: 0.6428771345743608
+TP:8.4 FP:9.9 TN:51.6 FN:30.0
+Sensitivity:21.9 Specifity:83.9 Precision:46.0 NPRv:63.2
+Threshold: 0.6422050734006404
+TP:8.5 FP:10.0 TN:51.6 FN:30.0
+Sensitivity:22.0 Specifity:83.8 Precision:45.9 NPRv:63.2
+Threshold: 0.641632637959776
+TP:8.5 FP:10.0 TN:51.6 FN:30.0
+Sensitivity:22.1 Specifity:83.8 Precision:46.0 NPRv:63.3
+Threshold: 0.6407677648533698
+TP:8.6 FP:10.0 TN:51.5 FN:29.9
+Sensitivity:22.3 Specifity:83.8 Precision:46.2 NPRv:63.3
+Threshold: 0.6404433904804127
+TP:8.6 FP:10.0 TN:51.5 FN:29.9
+Sensitivity:22.4 Specifity:83.8 Precision:46.3 NPRv:63.3
+Threshold: 0.6349497633751782
+TP:8.6 FP:10.1 TN:51.4 FN:29.9
+Sensitivity:22.4 Specifity:83.6 Precision:46.0 NPRv:63.3
+Threshold: 0.6264248900351788
+TP:8.7 FP:10.1 TN:51.4 FN:29.8
+Sensitivity:22.6 Specifity:83.6 Precision:46.2 NPRv:63.3
+Threshold: 0.6231578576992278
+TP:8.7 FP:10.1 TN:51.4 FN:29.7
+Sensitivity:22.7 Specifity:83.5 Precision:46.2 NPRv:63.3
+Threshold: 0.6231222043031508
+TP:8.8 FP:10.2 TN:51.4 FN:29.7
+Sensitivity:22.9 Specifity:83.5 Precision:46.3 NPRv:63.4
+Threshold: 0.6212279874163412
+TP:8.9 FP:10.2 TN:51.4 FN:29.6
+Sensitivity:23.1 Specifity:83.5 Precision:46.6 NPRv:63.5
+Threshold: 0.6188842062346926
+TP:9.0 FP:10.3 TN:51.3 FN:29.5
+Sensitivity:23.3 Specifity:83.3 Precision:46.7 NPRv:63.5
+Threshold: 0.616543461309762
+TP:9.0 FP:10.3 TN:51.2 FN:29.4
+Sensitivity:23.5 Specifity:83.2 Precision:46.7 NPRv:63.5
+Threshold: 0.6141190842810174
+TP:9.1 FP:10.4 TN:51.1 FN:29.4
+Sensitivity:23.6 Specifity:83.0 Precision:46.5 NPRv:63.5
+Threshold: 0.61306006840935
+TP:9.1 FP:10.5 TN:51.1 FN:29.3
+Sensitivity:23.7 Specifity:83.0 Precision:46.5 NPRv:63.5
+Threshold: 0.6102213908792519
+TP:9.2 FP:10.5 TN:51.1 FN:29.3
+Sensitivity:23.9 Specifity:83.0 Precision:46.7 NPRv:63.6
+Threshold: 0.6087833354688533
+TP:9.2 FP:10.5 TN:51.0 FN:29.3
+Sensitivity:23.9 Specifity:82.9 Precision:46.7 NPRv:63.5
+Threshold: 0.603818601588281
+TP:9.2 FP:10.5 TN:51.0 FN:29.2
+Sensitivity:24.0 Specifity:82.9 Precision:46.7 NPRv:63.6
+Threshold: 0.6023949818494193
+TP:9.2 FP:10.6 TN:51.0 FN:29.2
+Sensitivity:24.0 Specifity:82.8 Precision:46.6 NPRv:63.5
+Threshold: 0.5991940277379769
+TP:9.4 FP:10.6 TN:51.0 FN:29.1
+Sensitivity:24.4 Specifity:82.8 Precision:47.0 NPRv:63.7
+Threshold: 0.5982489115686548
+TP:9.5 FP:10.7 TN:50.9 FN:29.0
+Sensitivity:24.6 Specifity:82.7 Precision:47.0 NPRv:63.7
+Threshold: 0.5927355498678956
+TP:9.5 FP:10.7 TN:50.8 FN:29.0
+Sensitivity:24.6 Specifity:82.6 Precision:46.9 NPRv:63.7
+Threshold: 0.5901923169365058
+TP:9.5 FP:10.7 TN:50.8 FN:28.9
+Sensitivity:24.8 Specifity:82.6 Precision:47.1 NPRv:63.7
+Threshold: 0.5898313910317639
+TP:9.6 FP:10.7 TN:50.8 FN:28.9
+Sensitivity:24.9 Specifity:82.6 Precision:47.2 NPRv:63.8
+Threshold: 0.585499034084517
+TP:9.6 FP:10.7 TN:50.8 FN:28.9
+Sensitivity:24.9 Specifity:82.6 Precision:47.1 NPRv:63.7
+Threshold: 0.5824927352833379
+TP:9.6 FP:10.7 TN:50.8 FN:28.8
+Sensitivity:25.0 Specifity:82.6 Precision:47.3 NPRv:63.8
+Threshold: 0.5818770669671428
+TP:9.6 FP:10.8 TN:50.8 FN:28.8
+Sensitivity:25.0 Specifity:82.5 Precision:47.2 NPRv:63.8
+Threshold: 0.5801575387243865
+TP:9.7 FP:10.8 TN:50.7 FN:28.8
+Sensitivity:25.2 Specifity:82.4 Precision:47.3 NPRv:63.8
+Threshold: 0.5747592057674074
+TP:9.8 FP:10.8 TN:50.7 FN:28.7
+Sensitivity:25.4 Specifity:82.4 Precision:47.5 NPRv:63.9
+Threshold: 0.574672320235414
+TP:9.8 FP:10.9 TN:50.7 FN:28.6
+Sensitivity:25.5 Specifity:82.3 Precision:47.4 NPRv:63.9
+Threshold: 0.5735914354362915
+TP:9.9 FP:10.9 TN:50.6 FN:28.6
+Sensitivity:25.6 Specifity:82.3 Precision:47.4 NPRv:63.9
+Threshold: 0.5728872252188655
+TP:9.9 FP:11.0 TN:50.6 FN:28.6
+Sensitivity:25.6 Specifity:82.2 Precision:47.4 NPRv:63.9
+Threshold: 0.5715082921763556
+TP:9.9 FP:11.0 TN:50.5 FN:28.6
+Sensitivity:25.6 Specifity:82.1 Precision:47.2 NPRv:63.8
+Threshold: 0.5698638518643718
+TP:9.9 FP:11.1 TN:50.4 FN:28.6
+Sensitivity:25.7 Specifity:82.0 Precision:47.1 NPRv:63.8
+Threshold: 0.5695480369538957
+TP:9.9 FP:11.1 TN:50.4 FN:28.5
+Sensitivity:25.8 Specifity:81.9 Precision:47.1 NPRv:63.9
+Threshold: 0.5684673514762758
+TP:9.9 FP:11.2 TN:50.3 FN:28.5
+Sensitivity:25.8 Specifity:81.8 Precision:47.0 NPRv:63.8
+Threshold: 0.5683194240726094
+TP:10.0 FP:11.2 TN:50.3 FN:28.5
+Sensitivity:25.9 Specifity:81.8 Precision:47.1 NPRv:63.8
+Threshold: 0.5678612208411755
+TP:10.0 FP:11.2 TN:50.3 FN:28.5
+Sensitivity:25.9 Specifity:81.7 Precision:47.0 NPRv:63.8
+Threshold: 0.5672631933333461
+TP:10.0 FP:11.2 TN:50.3 FN:28.4
+Sensitivity:26.1 Specifity:81.7 Precision:47.2 NPRv:63.9
+Threshold: 0.5661486353488552
+TP:10.1 FP:11.3 TN:50.3 FN:28.4
+Sensitivity:26.2 Specifity:81.7 Precision:47.2 NPRv:63.9
+Threshold: 0.5652872779607837
+TP:10.1 FP:11.3 TN:50.2 FN:28.3
+Sensitivity:26.4 Specifity:81.6 Precision:47.3 NPRv:63.9
+Threshold: 0.5634218801426909
+TP:10.2 FP:11.4 TN:50.1 FN:28.3
+Sensitivity:26.5 Specifity:81.5 Precision:47.2 NPRv:63.9
+Threshold: 0.559410492543398
+TP:10.3 FP:11.4 TN:50.1 FN:28.2
+Sensitivity:26.8 Specifity:81.5 Precision:47.5 NPRv:64.0
+Threshold: 0.5593116531585701
+TP:10.3 FP:11.5 TN:50.1 FN:28.2
+Sensitivity:26.8 Specifity:81.4 Precision:47.3 NPRv:64.0
+Threshold: 0.557554061085165
+TP:10.3 FP:11.5 TN:50.1 FN:28.1
+Sensitivity:26.9 Specifity:81.4 Precision:47.4 NPRv:64.0
+Threshold: 0.5532435014996729
+TP:10.3 FP:11.5 TN:50.0 FN:28.1
+Sensitivity:26.9 Specifity:81.3 Precision:47.3 NPRv:64.0
+Threshold: 0.5442148838561875
+TP:10.5 FP:11.5 TN:50.0 FN:28.0
+Sensitivity:27.2 Specifity:81.3 Precision:47.7 NPRv:64.1
+Threshold: 0.5441063481149527
+TP:10.5 FP:11.5 TN:50.0 FN:27.9
+Sensitivity:27.3 Specifity:81.3 Precision:47.8 NPRv:64.2
+Threshold: 0.5428253092169129
+TP:10.5 FP:11.5 TN:50.0 FN:27.9
+Sensitivity:27.4 Specifity:81.2 Precision:47.8 NPRv:64.2
+Threshold: 0.5412928310863278
+TP:10.5 FP:11.6 TN:49.9 FN:27.9
+Sensitivity:27.4 Specifity:81.1 Precision:47.6 NPRv:64.1
+Threshold: 0.5392067477723232
+TP:10.6 FP:11.6 TN:49.9 FN:27.8
+Sensitivity:27.6 Specifity:81.1 Precision:47.8 NPRv:64.2
+Threshold: 0.5386477505703887
+TP:10.6 FP:11.6 TN:49.9 FN:27.8
+Sensitivity:27.6 Specifity:81.1 Precision:47.7 NPRv:64.2
+Threshold: 0.537037973752315
+TP:10.7 FP:11.7 TN:49.9 FN:27.8
+Sensitivity:27.7 Specifity:81.0 Precision:47.7 NPRv:64.2
+Threshold: 0.5363952083723432
+TP:10.8 FP:11.7 TN:49.8 FN:27.7
+Sensitivity:28.0 Specifity:81.0 Precision:47.9 NPRv:64.3
+Threshold: 0.5320897122620394
+TP:10.8 FP:11.7 TN:49.8 FN:27.7
+Sensitivity:28.1 Specifity:81.0 Precision:48.0 NPRv:64.3
+Threshold: 0.5316402298490758
+TP:10.9 FP:11.8 TN:49.8 FN:27.5
+Sensitivity:28.4 Specifity:80.9 Precision:48.1 NPRv:64.4
+Threshold: 0.529542315213284
+TP:11.0 FP:11.8 TN:49.8 FN:27.5
+Sensitivity:28.5 Specifity:80.9 Precision:48.2 NPRv:64.4
+Threshold: 0.523180667915176
+TP:11.0 FP:11.8 TN:49.7 FN:27.5
+Sensitivity:28.6 Specifity:80.8 Precision:48.2 NPRv:64.4
+Threshold: 0.5151881895159653
+TP:11.1 FP:11.8 TN:49.7 FN:27.4
+Sensitivity:28.8 Specifity:80.8 Precision:48.4 NPRv:64.5
+Threshold: 0.5137908854216247
+TP:11.1 FP:11.8 TN:49.7 FN:27.4
+Sensitivity:28.9 Specifity:80.8 Precision:48.4 NPRv:64.5
+Threshold: 0.5048584460517518
+TP:11.2 FP:11.8 TN:49.7 FN:27.3
+Sensitivity:29.0 Specifity:80.8 Precision:48.6 NPRv:64.6
+Threshold: 0.5020319677881937
+TP:11.2 FP:11.9 TN:49.6 FN:27.3
+Sensitivity:29.1 Specifity:80.7 Precision:48.5 NPRv:64.6
+Threshold: 0.5009844586036932
+TP:11.2 FP:11.9 TN:49.6 FN:27.2
+Sensitivity:29.2 Specifity:80.7 Precision:48.6 NPRv:64.6
+Threshold: 0.4993890290893168
+TP:11.3 FP:11.9 TN:49.6 FN:27.1
+Sensitivity:29.4 Specifity:80.7 Precision:48.7 NPRv:64.6
+Threshold: 0.49676896767379003
+TP:11.3 FP:11.9 TN:49.6 FN:27.1
+Sensitivity:29.4 Specifity:80.6 Precision:48.7 NPRv:64.6
+Threshold: 0.4963214293514693
+TP:11.4 FP:11.9 TN:49.6 FN:27.1
+Sensitivity:29.6 Specifity:80.6 Precision:48.8 NPRv:64.7
+Threshold: 0.4873241034995533
+TP:11.4 FP:11.9 TN:49.6 FN:27.0
+Sensitivity:29.7 Specifity:80.6 Precision:48.9 NPRv:64.7
+Threshold: 0.48345430743715406
+TP:11.6 FP:12.0 TN:49.5 FN:26.8
+Sensitivity:30.3 Specifity:80.5 Precision:49.2 NPRv:64.9
+Threshold: 0.4820250322063183
+TP:11.7 FP:12.1 TN:49.5 FN:26.7
+Sensitivity:30.5 Specifity:80.4 Precision:49.3 NPRv:64.9
+Threshold: 0.4789716473245291
+TP:11.8 FP:12.1 TN:49.5 FN:26.7
+Sensitivity:30.6 Specifity:80.4 Precision:49.3 NPRv:64.9
+Threshold: 0.4783189075272818
+TP:11.8 FP:12.1 TN:49.5 FN:26.7
+Sensitivity:30.7 Specifity:80.4 Precision:49.4 NPRv:65.0
+Threshold: 0.4769141366253925
+TP:11.8 FP:12.2 TN:49.4 FN:26.6
+Sensitivity:30.8 Specifity:80.2 Precision:49.3 NPRv:65.0
+Threshold: 0.46943323525734443
+TP:11.9 FP:12.2 TN:49.4 FN:26.5
+Sensitivity:31.0 Specifity:80.2 Precision:49.5 NPRv:65.1
+Threshold: 0.46711367480931376
+TP:11.9 FP:12.3 TN:49.3 FN:26.5
+Sensitivity:31.0 Specifity:80.1 Precision:49.3 NPRv:65.0
+Threshold: 0.4660782782760062
+TP:12.0 FP:12.3 TN:49.3 FN:26.5
+Sensitivity:31.1 Specifity:80.1 Precision:49.4 NPRv:65.0
+Threshold: 0.4635217642188842
+TP:12.0 FP:12.3 TN:49.2 FN:26.5
+Sensitivity:31.1 Specifity:79.9 Precision:49.2 NPRv:65.0
+Threshold: 0.45874857929322377
+TP:12.0 FP:12.3 TN:49.2 FN:26.4
+Sensitivity:31.2 Specifity:79.9 Precision:49.3 NPRv:65.0
+Threshold: 0.45633846272544487
+TP:12.0 FP:12.4 TN:49.1 FN:26.4
+Sensitivity:31.2 Specifity:79.8 Precision:49.2 NPRv:65.0
+Threshold: 0.4554859950146043
+TP:12.1 FP:12.4 TN:49.1 FN:26.4
+Sensitivity:31.3 Specifity:79.8 Precision:49.3 NPRv:65.0
+Threshold: 0.448941568470254
+TP:12.1 FP:12.5 TN:49.1 FN:26.4
+Sensitivity:31.4 Specifity:79.8 Precision:49.3 NPRv:65.0
+Threshold: 0.44607313751460254
+TP:12.1 FP:12.5 TN:49.0 FN:26.4
+Sensitivity:31.4 Specifity:79.7 Precision:49.2 NPRv:65.0
+Threshold: 0.4459561098548249
+TP:12.2 FP:12.5 TN:49.0 FN:26.3
+Sensitivity:31.6 Specifity:79.7 Precision:49.3 NPRv:65.1
+Threshold: 0.438962086541417
+TP:12.2 FP:12.5 TN:49.0 FN:26.3
+Sensitivity:31.6 Specifity:79.6 Precision:49.3 NPRv:65.1
+Threshold: 0.4296248487969342
+TP:12.2 FP:12.5 TN:49.0 FN:26.3
+Sensitivity:31.7 Specifity:79.6 Precision:49.3 NPRv:65.1
+Threshold: 0.428341155591914
+TP:12.3 FP:12.5 TN:49.0 FN:26.2
+Sensitivity:31.9 Specifity:79.6 Precision:49.5 NPRv:65.2
+Threshold: 0.4274351245381239
+TP:12.3 FP:12.6 TN:48.9 FN:26.2
+Sensitivity:32.0 Specifity:79.5 Precision:49.4 NPRv:65.2
+Threshold: 0.42684538237251496
+TP:12.3 FP:12.6 TN:48.9 FN:26.1
+Sensitivity:32.1 Specifity:79.5 Precision:49.5 NPRv:65.2
+Threshold: 0.4217120015876925
+TP:12.5 FP:12.6 TN:48.9 FN:26.0
+Sensitivity:32.4 Specifity:79.5 Precision:49.6 NPRv:65.3
+Threshold: 0.4150583969384035
+TP:12.5 FP:12.7 TN:48.8 FN:26.0
+Sensitivity:32.4 Specifity:79.3 Precision:49.4 NPRv:65.2
+Threshold: 0.41362655188593767
+TP:12.5 FP:12.9 TN:48.7 FN:26.0
+Sensitivity:32.5 Specifity:79.1 Precision:49.3 NPRv:65.2
+Threshold: 0.41318987913010885
+TP:12.5 FP:12.9 TN:48.7 FN:25.9
+Sensitivity:32.6 Specifity:79.1 Precision:49.4 NPRv:65.2
+Threshold: 0.4112737862515385
+TP:12.6 FP:12.9 TN:48.6 FN:25.9
+Sensitivity:32.7 Specifity:79.0 Precision:49.4 NPRv:65.3
+Threshold: 0.41126178665607727
+TP:12.6 FP:12.9 TN:48.6 FN:25.9
+Sensitivity:32.8 Specifity:79.0 Precision:49.4 NPRv:65.3
+Threshold: 0.4112198054474002
+TP:12.6 FP:12.9 TN:48.6 FN:25.9
+Sensitivity:32.8 Specifity:79.0 Precision:49.4 NPRv:65.3
+Threshold: 0.41075059667089475
+TP:12.7 FP:13.0 TN:48.6 FN:25.7
+Sensitivity:33.1 Specifity:78.9 Precision:49.6 NPRv:65.4
+Threshold: 0.4084221963922899
+TP:12.7 FP:13.0 TN:48.5 FN:25.7
+Sensitivity:33.1 Specifity:78.9 Precision:49.5 NPRv:65.4
+Threshold: 0.40479866321077096
+TP:12.8 FP:13.0 TN:48.5 FN:25.7
+Sensitivity:33.2 Specifity:78.9 Precision:49.6 NPRv:65.4
+Threshold: 0.39880188210486345
+TP:12.9 FP:13.2 TN:48.4 FN:25.6
+Sensitivity:33.4 Specifity:78.6 Precision:49.4 NPRv:65.4
+Threshold: 0.39791375287319347
+TP:12.9 FP:13.2 TN:48.4 FN:25.6
+Sensitivity:33.5 Specifity:78.6 Precision:49.4 NPRv:65.4
+Threshold: 0.39744866218711633
+TP:12.9 FP:13.2 TN:48.4 FN:25.5
+Sensitivity:33.6 Specifity:78.6 Precision:49.5 NPRv:65.4
+Threshold: 0.39641078228342147
+TP:13.0 FP:13.2 TN:48.3 FN:25.5
+Sensitivity:33.8 Specifity:78.5 Precision:49.6 NPRv:65.5
+Threshold: 0.3904013454417279
+TP:13.0 FP:13.2 TN:48.3 FN:25.4
+Sensitivity:33.9 Specifity:78.5 Precision:49.7 NPRv:65.5
+Threshold: 0.3847142035560024
+TP:13.0 FP:13.3 TN:48.2 FN:25.4
+Sensitivity:33.9 Specifity:78.3 Precision:49.4 NPRv:65.5
+Threshold: 0.38249995639392015
+TP:13.0 FP:13.4 TN:48.1 FN:25.4
+Sensitivity:33.9 Specifity:78.2 Precision:49.3 NPRv:65.4
+Threshold: 0.38029739582563504
+TP:13.1 FP:13.4 TN:48.1 FN:25.4
+Sensitivity:34.0 Specifity:78.2 Precision:49.4 NPRv:65.5
+Threshold: 0.37708638617979756
+TP:13.1 FP:13.4 TN:48.1 FN:25.4
+Sensitivity:34.0 Specifity:78.2 Precision:49.3 NPRv:65.5
+Threshold: 0.3741701007273282
+TP:13.1 FP:13.6 TN:47.9 FN:25.4
+Sensitivity:34.0 Specifity:77.9 Precision:49.0 NPRv:65.4
+Threshold: 0.36038913744354123
+TP:13.1 FP:13.7 TN:47.8 FN:25.4
+Sensitivity:34.0 Specifity:77.7 Precision:48.8 NPRv:65.3
+Threshold: 0.35876306951271936
+TP:13.1 FP:13.9 TN:47.6 FN:25.4
+Sensitivity:34.0 Specifity:77.4 Precision:48.4 NPRv:65.2
+Threshold: 0.35513671778501577
+TP:13.2 FP:13.9 TN:47.6 FN:25.3
+Sensitivity:34.2 Specifity:77.4 Precision:48.6 NPRv:65.3
+Threshold: 0.3550728050553284
+TP:13.2 FP:14.0 TN:47.5 FN:25.3
+Sensitivity:34.2 Specifity:77.2 Precision:48.4 NPRv:65.2
+Threshold: 0.35469345629970717
+TP:13.2 FP:14.1 TN:47.4 FN:25.3
+Sensitivity:34.3 Specifity:77.1 Precision:48.3 NPRv:65.2
+Threshold: 0.3546301598047701
+TP:13.2 FP:14.1 TN:47.4 FN:25.2
+Sensitivity:34.4 Specifity:77.0 Precision:48.3 NPRv:65.3
+Threshold: 0.35271998661590837
+TP:13.3 FP:14.2 TN:47.3 FN:25.2
+Sensitivity:34.5 Specifity:76.8 Precision:48.2 NPRv:65.2
+Threshold: 0.3481816456578355
+TP:13.3 FP:14.2 TN:47.3 FN:25.1
+Sensitivity:34.7 Specifity:76.8 Precision:48.3 NPRv:65.3
+Threshold: 0.34749377568367895
+TP:13.3 FP:14.4 TN:47.2 FN:25.1
+Sensitivity:34.7 Specifity:76.7 Precision:48.1 NPRv:65.2
+Threshold: 0.34727575717010883
+TP:13.4 FP:14.4 TN:47.1 FN:25.1
+Sensitivity:34.8 Specifity:76.6 Precision:48.2 NPRv:65.3
+Threshold: 0.34539798501420516
+TP:13.4 FP:14.4 TN:47.1 FN:25.0
+Sensitivity:35.0 Specifity:76.5 Precision:48.2 NPRv:65.3
+Threshold: 0.33928213601759283
+TP:13.4 FP:14.5 TN:47.0 FN:25.0
+Sensitivity:35.0 Specifity:76.4 Precision:48.1 NPRv:65.3
+Threshold: 0.33907379373911967
+TP:13.5 FP:14.5 TN:47.0 FN:25.0
+Sensitivity:35.0 Specifity:76.4 Precision:48.1 NPRv:65.3
+Threshold: 0.33679379686446215
+TP:13.5 FP:14.7 TN:46.9 FN:24.9
+Sensitivity:35.1 Specifity:76.2 Precision:48.0 NPRv:65.3
+Threshold: 0.3362659443407581
+TP:13.5 FP:14.7 TN:46.8 FN:24.9
+Sensitivity:35.1 Specifity:76.1 Precision:47.9 NPRv:65.2
+Threshold: 0.33483762085936164
+TP:13.6 FP:14.8 TN:46.7 FN:24.8
+Sensitivity:35.4 Specifity:76.0 Precision:47.9 NPRv:65.3
+Threshold: 0.3289778903630171
+TP:13.7 FP:14.9 TN:46.7 FN:24.8
+Sensitivity:35.6 Specifity:75.8 Precision:47.9 NPRv:65.3
+Threshold: 0.3268194575534668
+TP:13.7 FP:14.9 TN:46.6 FN:24.8
+Sensitivity:35.6 Specifity:75.8 Precision:47.9 NPRv:65.3
+Threshold: 0.32422750809680995
+TP:13.7 FP:14.9 TN:46.6 FN:24.7
+Sensitivity:35.7 Specifity:75.8 Precision:48.0 NPRv:65.3
+Threshold: 0.3233926081245731
+TP:13.7 FP:14.9 TN:46.6 FN:24.7
+Sensitivity:35.7 Specifity:75.7 Precision:47.9 NPRv:65.3
+Threshold: 0.3228166315064447
+TP:13.7 FP:15.1 TN:46.5 FN:24.7
+Sensitivity:35.7 Specifity:75.5 Precision:47.7 NPRv:65.3
+Threshold: 0.3218338200441068
+TP:13.9 FP:15.1 TN:46.4 FN:24.6
+Sensitivity:36.1 Specifity:75.4 Precision:47.9 NPRv:65.4
+Threshold: 0.31640489836609453
+TP:13.9 FP:15.2 TN:46.3 FN:24.5
+Sensitivity:36.2 Specifity:75.3 Precision:47.8 NPRv:65.4
+Threshold: 0.31502916239323026
+TP:13.9 FP:15.2 TN:46.3 FN:24.5
+Sensitivity:36.2 Specifity:75.2 Precision:47.7 NPRv:65.4
+Threshold: 0.3135340373458169
+TP:14.0 FP:15.2 TN:46.3 FN:24.5
+Sensitivity:36.3 Specifity:75.2 Precision:47.8 NPRv:65.4
+Threshold: 0.303598537510976
+TP:14.1 FP:15.2 TN:46.3 FN:24.4
+Sensitivity:36.6 Specifity:75.2 Precision:48.0 NPRv:65.5
+Threshold: 0.3027326919390343
+TP:14.1 FP:15.5 TN:46.1 FN:24.4
+Sensitivity:36.6 Specifity:74.9 Precision:47.6 NPRv:65.4
+Threshold: 0.30087588297139256
+TP:14.1 FP:15.5 TN:46.0 FN:24.4
+Sensitivity:36.7 Specifity:74.8 Precision:47.6 NPRv:65.4
+Threshold: 0.2971974659377683
+TP:14.2 FP:15.5 TN:46.0 FN:24.3
+Sensitivity:36.9 Specifity:74.8 Precision:47.8 NPRv:65.5
+Threshold: 0.2913779991279481
+TP:14.2 FP:15.6 TN:45.9 FN:24.3
+Sensitivity:36.9 Specifity:74.6 Precision:47.6 NPRv:65.4
+Threshold: 0.2836769504573381
+TP:14.2 FP:15.7 TN:45.9 FN:24.3
+Sensitivity:36.9 Specifity:74.5 Precision:47.5 NPRv:65.4
+Threshold: 0.2828483555144587
+TP:14.2 FP:15.7 TN:45.8 FN:24.2
+Sensitivity:37.0 Specifity:74.5 Precision:47.6 NPRv:65.4
+Threshold: 0.2817184988080666
+TP:14.3 FP:15.8 TN:45.8 FN:24.2
+Sensitivity:37.1 Specifity:74.3 Precision:47.5 NPRv:65.4
+Threshold: 0.28157797835264575
+TP:14.4 FP:15.9 TN:45.7 FN:24.1
+Sensitivity:37.3 Specifity:74.2 Precision:47.5 NPRv:65.5
+Threshold: 0.28105838087334817
+TP:14.4 FP:15.9 TN:45.6 FN:24.1
+Sensitivity:37.3 Specifity:74.2 Precision:47.5 NPRv:65.4
+Threshold: 0.28079143178067556
+TP:14.4 FP:16.0 TN:45.6 FN:24.1
+Sensitivity:37.4 Specifity:74.0 Precision:47.4 NPRv:65.4
+Threshold: 0.27481150185528247
+TP:14.4 FP:16.0 TN:45.5 FN:24.1
+Sensitivity:37.4 Specifity:73.9 Precision:47.3 NPRv:65.4
+Threshold: 0.2741404819505185
+TP:14.4 FP:16.1 TN:45.5 FN:24.0
+Sensitivity:37.5 Specifity:73.9 Precision:47.3 NPRv:65.4
+Threshold: 0.27349607036901746
+TP:14.4 FP:16.2 TN:45.4 FN:24.0
+Sensitivity:37.5 Specifity:73.8 Precision:47.2 NPRv:65.4
+Threshold: 0.27342734015475156
+TP:14.4 FP:16.2 TN:45.3 FN:24.0
+Sensitivity:37.5 Specifity:73.7 Precision:47.1 NPRv:65.4
+Threshold: 0.27146840424898566
+TP:14.4 FP:16.3 TN:45.2 FN:24.0
+Sensitivity:37.5 Specifity:73.5 Precision:47.0 NPRv:65.3
+Threshold: 0.26862381596752966
+TP:14.5 FP:16.3 TN:45.2 FN:24.0
+Sensitivity:37.6 Specifity:73.5 Precision:47.0 NPRv:65.3
+Threshold: 0.2651426632367172
+TP:14.5 FP:16.4 TN:45.1 FN:24.0
+Sensitivity:37.6 Specifity:73.3 Precision:46.9 NPRv:65.3
+Threshold: 0.26199002069490246
+TP:14.5 FP:16.5 TN:45.1 FN:24.0
+Sensitivity:37.6 Specifity:73.2 Precision:46.7 NPRv:65.3
+Threshold: 0.2593934337724983
+TP:14.5 FP:16.5 TN:45.1 FN:24.0
+Sensitivity:37.7 Specifity:73.2 Precision:46.8 NPRv:65.3
+Threshold: 0.2587673304359022
+TP:14.6 FP:16.5 TN:45.0 FN:23.9
+Sensitivity:37.9 Specifity:73.2 Precision:46.9 NPRv:65.3
+Threshold: 0.25781085090952793
+TP:14.6 FP:16.5 TN:45.0 FN:23.8
+Sensitivity:38.0 Specifity:73.2 Precision:46.9 NPRv:65.4
+Threshold: 0.2537357214272715
+TP:14.6 FP:16.6 TN:44.9 FN:23.8
+Sensitivity:38.0 Specifity:73.0 Precision:46.8 NPRv:65.3
+Threshold: 0.24971017560897102
+TP:14.7 FP:16.6 TN:44.9 FN:23.8
+Sensitivity:38.2 Specifity:73.0 Precision:47.0 NPRv:65.4
+Threshold: 0.24875879830892889
+TP:14.7 FP:16.7 TN:44.8 FN:23.8
+Sensitivity:38.2 Specifity:72.9 Precision:46.8 NPRv:65.3
+Threshold: 0.2476864354776389
+TP:14.7 FP:16.7 TN:44.8 FN:23.8
+Sensitivity:38.2 Specifity:72.8 Precision:46.7 NPRv:65.3
+Threshold: 0.24712762265220983
+TP:14.8 FP:16.7 TN:44.8 FN:23.7
+Sensitivity:38.4 Specifity:72.8 Precision:46.9 NPRv:65.4
+Threshold: 0.2466561729610872
+TP:14.8 FP:16.8 TN:44.8 FN:23.7
+Sensitivity:38.5 Specifity:72.7 Precision:46.9 NPRv:65.4
+Threshold: 0.24559845698878563
+TP:14.9 FP:16.8 TN:44.8 FN:23.6
+Sensitivity:38.7 Specifity:72.7 Precision:47.0 NPRv:65.5
+Threshold: 0.2440040695085418
+TP:14.9 FP:16.9 TN:44.6 FN:23.6
+Sensitivity:38.7 Specifity:72.5 Precision:46.8 NPRv:65.4
+Threshold: 0.2432635144901652
+TP:14.9 FP:16.9 TN:44.6 FN:23.5
+Sensitivity:38.9 Specifity:72.5 Precision:46.9 NPRv:65.5
+Threshold: 0.2426304977213386
+TP:15.0 FP:16.9 TN:44.6 FN:23.5
+Sensitivity:39.0 Specifity:72.5 Precision:47.0 NPRv:65.5
+Threshold: 0.24247147807647157
+TP:15.0 FP:17.0 TN:44.6 FN:23.5
+Sensitivity:39.0 Specifity:72.4 Precision:46.9 NPRv:65.5
+Threshold: 0.24076763354562536
+TP:15.0 FP:17.0 TN:44.5 FN:23.4
+Sensitivity:39.0 Specifity:72.4 Precision:46.9 NPRv:65.5
+Threshold: 0.23956341464713204
+TP:15.0 FP:17.1 TN:44.5 FN:23.4
+Sensitivity:39.0 Specifity:72.3 Precision:46.8 NPRv:65.5
+Threshold: 0.23765466621629483
+TP:15.1 FP:17.1 TN:44.4 FN:23.4
+Sensitivity:39.1 Specifity:72.2 Precision:46.8 NPRv:65.5
+Threshold: 0.2336650259019073
+TP:15.1 FP:17.2 TN:44.4 FN:23.4
+Sensitivity:39.1 Specifity:72.1 Precision:46.7 NPRv:65.5
+Threshold: 0.2333928980848582
+TP:15.1 FP:17.2 TN:44.4 FN:23.4
+Sensitivity:39.2 Specifity:72.1 Precision:46.8 NPRv:65.5
+Threshold: 0.23325104849307599
+TP:15.2 FP:17.2 TN:44.3 FN:23.3
+Sensitivity:39.4 Specifity:72.0 Precision:46.8 NPRv:65.5
+Threshold: 0.23011553320329536
+TP:15.2 FP:17.3 TN:44.2 FN:23.3
+Sensitivity:39.5 Specifity:71.9 Precision:46.8 NPRv:65.5
+Threshold: 0.2284410318732361
+TP:15.2 FP:17.3 TN:44.2 FN:23.2
+Sensitivity:39.6 Specifity:71.9 Precision:46.8 NPRv:65.6
+Threshold: 0.22644603880811187
+TP:15.2 FP:17.3 TN:44.2 FN:23.2
+Sensitivity:39.6 Specifity:71.8 Precision:46.8 NPRv:65.6
+Threshold: 0.22434195421946102
+TP:15.3 FP:17.4 TN:44.2 FN:23.2
+Sensitivity:39.8 Specifity:71.8 Precision:46.9 NPRv:65.6
+Threshold: 0.22392907934863376
+TP:15.3 FP:17.4 TN:44.1 FN:23.2
+Sensitivity:39.8 Specifity:71.7 Precision:46.8 NPRv:65.6
+Threshold: 0.22350079525091465
+TP:15.3 FP:17.5 TN:44.0 FN:23.1
+Sensitivity:39.9 Specifity:71.5 Precision:46.7 NPRv:65.6
+Threshold: 0.22019480100626043
+TP:15.3 FP:17.6 TN:44.0 FN:23.1
+Sensitivity:39.9 Specifity:71.4 Precision:46.6 NPRv:65.5
+Threshold: 0.21985983190540026
+TP:15.4 FP:17.6 TN:44.0 FN:23.0
+Sensitivity:40.1 Specifity:71.4 Precision:46.7 NPRv:65.6
+Threshold: 0.21875088130272768
+TP:15.5 FP:17.6 TN:43.9 FN:23.0
+Sensitivity:40.2 Specifity:71.4 Precision:46.7 NPRv:65.6
+Threshold: 0.21413309255361657
+TP:15.5 FP:17.7 TN:43.9 FN:23.0
+Sensitivity:40.2 Specifity:71.3 Precision:46.7 NPRv:65.6
+Threshold: 0.2121685419197879
+TP:15.5 FP:17.7 TN:43.9 FN:23.0
+Sensitivity:40.3 Specifity:71.3 Precision:46.7 NPRv:65.6
+Threshold: 0.206280997126299
+TP:15.5 FP:17.7 TN:43.8 FN:23.0
+Sensitivity:40.3 Specifity:71.2 Precision:46.7 NPRv:65.6
+Threshold: 0.20617148242828898
+TP:15.5 FP:17.8 TN:43.8 FN:23.0
+Sensitivity:40.3 Specifity:71.1 Precision:46.6 NPRv:65.6
+Threshold: 0.20524926239860047
+TP:15.5 FP:17.8 TN:43.8 FN:22.9
+Sensitivity:40.4 Specifity:71.1 Precision:46.6 NPRv:65.6
+Threshold: 0.20475884565580849
+TP:15.5 FP:17.8 TN:43.7 FN:22.9
+Sensitivity:40.4 Specifity:71.0 Precision:46.5 NPRv:65.6
+Threshold: 0.20433449931941805
+TP:15.6 FP:17.8 TN:43.7 FN:22.9
+Sensitivity:40.5 Specifity:71.0 Precision:46.6 NPRv:65.6
+Threshold: 0.2027832454545554
+TP:15.6 FP:17.9 TN:43.7 FN:22.9
+Sensitivity:40.5 Specifity:71.0 Precision:46.5 NPRv:65.6
+Threshold: 0.20068283256572544
+TP:15.6 FP:18.0 TN:43.6 FN:22.9
+Sensitivity:40.6 Specifity:70.8 Precision:46.5 NPRv:65.6
+Threshold: 0.19982344547163522
+TP:15.6 FP:18.0 TN:43.5 FN:22.9
+Sensitivity:40.6 Specifity:70.7 Precision:46.4 NPRv:65.6
+Threshold: 0.1992638037676634
+TP:15.7 FP:18.0 TN:43.5 FN:22.7
+Sensitivity:40.9 Specifity:70.7 Precision:46.6 NPRv:65.7
+Threshold: 0.19793330883939508
+TP:15.7 FP:18.1 TN:43.4 FN:22.7
+Sensitivity:40.9 Specifity:70.6 Precision:46.5 NPRv:65.6
+Threshold: 0.19651592689806546
+TP:15.7 FP:18.1 TN:43.4 FN:22.7
+Sensitivity:40.9 Specifity:70.5 Precision:46.4 NPRv:65.6
+Threshold: 0.19584297078117174
+TP:15.7 FP:18.2 TN:43.3 FN:22.7
+Sensitivity:40.9 Specifity:70.4 Precision:46.3 NPRv:65.6
+Threshold: 0.19443685619158235
+TP:15.8 FP:18.3 TN:43.3 FN:22.7
+Sensitivity:41.0 Specifity:70.3 Precision:46.3 NPRv:65.6
+Threshold: 0.19412240004520265
+TP:15.8 FP:18.3 TN:43.2 FN:22.7
+Sensitivity:41.0 Specifity:70.2 Precision:46.2 NPRv:65.6
+Threshold: 0.19379031741265018
+TP:15.8 FP:18.3 TN:43.2 FN:22.7
+Sensitivity:41.0 Specifity:70.2 Precision:46.3 NPRv:65.6
+Threshold: 0.19241579261152109
+TP:15.9 FP:18.4 TN:43.1 FN:22.6
+Sensitivity:41.2 Specifity:70.1 Precision:46.3 NPRv:65.6
+Threshold: 0.1920153678669781
+TP:15.9 FP:18.5 TN:43.1 FN:22.5
+Sensitivity:41.4 Specifity:70.0 Precision:46.3 NPRv:65.7
+Threshold: 0.19182884293788932
+TP:16.0 FP:18.6 TN:43.0 FN:22.5
+Sensitivity:41.6 Specifity:69.8 Precision:46.3 NPRv:65.7
+Threshold: 0.19114085216905402
+TP:16.2 FP:18.6 TN:43.0 FN:22.3
+Sensitivity:42.0 Specifity:69.8 Precision:46.5 NPRv:65.8
+Threshold: 0.1896763031737267
+TP:16.2 FP:18.6 TN:42.9 FN:22.3
+Sensitivity:42.0 Specifity:69.8 Precision:46.5 NPRv:65.8
+Threshold: 0.1885617451892358
+TP:16.3 FP:18.6 TN:42.9 FN:22.2
+Sensitivity:42.3 Specifity:69.8 Precision:46.6 NPRv:65.9
+Threshold: 0.1882147846871684
+TP:16.3 FP:18.7 TN:42.9 FN:22.2
+Sensitivity:42.4 Specifity:69.6 Precision:46.6 NPRv:65.9
+Threshold: 0.18793441936450078
+TP:16.3 FP:18.7 TN:42.8 FN:22.2
+Sensitivity:42.4 Specifity:69.6 Precision:46.5 NPRv:65.9
+Threshold: 0.18776457945357822
+TP:16.4 FP:18.8 TN:42.8 FN:22.1
+Sensitivity:42.6 Specifity:69.5 Precision:46.6 NPRv:66.0
+Threshold: 0.1875566377208896
+TP:16.4 FP:18.8 TN:42.7 FN:22.1
+Sensitivity:42.7 Specifity:69.5 Precision:46.6 NPRv:66.0
+Threshold: 0.1870475718722075
+TP:16.4 FP:18.9 TN:42.7 FN:22.1
+Sensitivity:42.7 Specifity:69.3 Precision:46.5 NPRv:65.9
+Threshold: 0.1849091729683654
+TP:16.5 FP:18.9 TN:42.6 FN:22.0
+Sensitivity:42.9 Specifity:69.3 Precision:46.6 NPRv:66.0
+Threshold: 0.1847563580941255
+TP:16.5 FP:19.0 TN:42.6 FN:22.0
+Sensitivity:42.9 Specifity:69.2 Precision:46.5 NPRv:65.9
+Threshold: 0.1825124984188538
+TP:16.5 FP:19.1 TN:42.5 FN:21.9
+Sensitivity:43.0 Specifity:69.0 Precision:46.4 NPRv:65.9
+Threshold: 0.1816802196141784
+TP:16.6 FP:19.1 TN:42.5 FN:21.9
+Sensitivity:43.1 Specifity:69.0 Precision:46.5 NPRv:66.0
+Threshold: 0.1816447243736823
+TP:16.6 FP:19.1 TN:42.4 FN:21.8
+Sensitivity:43.2 Specifity:68.9 Precision:46.5 NPRv:66.0
+Threshold: 0.17790853150899755
+TP:16.7 FP:19.1 TN:42.4 FN:21.8
+Sensitivity:43.4 Specifity:68.9 Precision:46.6 NPRv:66.1
+Threshold: 0.1756327241437956
+TP:16.7 FP:19.2 TN:42.4 FN:21.8
+Sensitivity:43.4 Specifity:68.9 Precision:46.6 NPRv:66.1
+Threshold: 0.1743767053048259
+TP:16.8 FP:19.2 TN:42.3 FN:21.6
+Sensitivity:43.8 Specifity:68.8 Precision:46.7 NPRv:66.2
+Threshold: 0.17163823973934567
+TP:17.0 FP:19.3 TN:42.2 FN:21.5
+Sensitivity:44.1 Specifity:68.6 Precision:46.8 NPRv:66.3
+Threshold: 0.16355728446922924
+TP:17.0 FP:19.3 TN:42.2 FN:21.5
+Sensitivity:44.1 Specifity:68.6 Precision:46.7 NPRv:66.2
+Threshold: 0.16244549844357903
+TP:17.0 FP:19.4 TN:42.1 FN:21.4
+Sensitivity:44.3 Specifity:68.5 Precision:46.7 NPRv:66.3
+Threshold: 0.1621693431020177
+TP:17.1 FP:19.5 TN:42.1 FN:21.4
+Sensitivity:44.4 Specifity:68.3 Precision:46.7 NPRv:66.3
+Threshold: 0.16188895683820442
+TP:17.1 FP:19.5 TN:42.1 FN:21.4
+Sensitivity:44.5 Specifity:68.3 Precision:46.7 NPRv:66.3
+Threshold: 0.1615213196870841
+TP:17.1 FP:19.6 TN:42.0 FN:21.4
+Sensitivity:44.5 Specifity:68.2 Precision:46.7 NPRv:66.3
+Threshold: 0.1592358776165761
+TP:17.1 FP:19.7 TN:41.8 FN:21.3
+Sensitivity:44.6 Specifity:68.0 Precision:46.5 NPRv:66.2
+Threshold: 0.157828293725004
+TP:17.1 FP:19.7 TN:41.8 FN:21.3
+Sensitivity:44.6 Specifity:67.9 Precision:46.5 NPRv:66.2
+Threshold: 0.1531573553225849
+TP:17.3 FP:19.7 TN:41.8 FN:21.2
+Sensitivity:45.0 Specifity:67.9 Precision:46.7 NPRv:66.4
+Threshold: 0.15312074097196854
+TP:17.3 FP:19.8 TN:41.7 FN:21.1
+Sensitivity:45.0 Specifity:67.8 Precision:46.6 NPRv:66.4
+Threshold: 0.14854714117956175
+TP:17.4 FP:19.9 TN:41.7 FN:21.1
+Sensitivity:45.2 Specifity:67.7 Precision:46.7 NPRv:66.4
+Threshold: 0.14665176305738037
+TP:17.5 FP:19.9 TN:41.7 FN:21.0
+Sensitivity:45.4 Specifity:67.7 Precision:46.8 NPRv:66.5
+Threshold: 0.14657898612980835
+TP:17.5 FP:19.9 TN:41.6 FN:21.0
+Sensitivity:45.4 Specifity:67.7 Precision:46.8 NPRv:66.5
+Threshold: 0.14404338840854536
+TP:17.5 FP:19.9 TN:41.6 FN:21.0
+Sensitivity:45.5 Specifity:67.7 Precision:46.8 NPRv:66.5
+Threshold: 0.14314319749693316
+TP:17.5 FP:19.9 TN:41.6 FN:20.9
+Sensitivity:45.6 Specifity:67.6 Precision:46.8 NPRv:66.5
+Threshold: 0.14095643803018465
+TP:17.6 FP:19.9 TN:41.6 FN:20.8
+Sensitivity:45.8 Specifity:67.6 Precision:46.9 NPRv:66.6
+Threshold: 0.13837809829690623
+TP:17.7 FP:20.0 TN:41.5 FN:20.8
+Sensitivity:46.0 Specifity:67.5 Precision:46.9 NPRv:66.7
+Threshold: 0.13256829143038407
+TP:17.7 FP:20.0 TN:41.5 FN:20.8
+Sensitivity:46.0 Specifity:67.4 Precision:46.9 NPRv:66.6
+Threshold: 0.1322517559555191
+TP:17.7 FP:20.1 TN:41.5 FN:20.7
+Sensitivity:46.1 Specifity:67.4 Precision:46.9 NPRv:66.7
+Threshold: 0.12871522927135803
+TP:17.7 FP:20.1 TN:41.4 FN:20.7
+Sensitivity:46.1 Specifity:67.3 Precision:46.9 NPRv:66.6
+Threshold: 0.12827443180635228
+TP:17.8 FP:20.1 TN:41.4 FN:20.7
+Sensitivity:46.2 Specifity:67.3 Precision:46.9 NPRv:66.7
+Threshold: 0.12820465473835302
+TP:17.9 FP:20.1 TN:41.4 FN:20.6
+Sensitivity:46.5 Specifity:67.3 Precision:47.0 NPRv:66.8
+Threshold: 0.12713727222875026
+TP:17.9 FP:20.2 TN:41.4 FN:20.6
+Sensitivity:46.5 Specifity:67.2 Precision:47.0 NPRv:66.8
+Threshold: 0.12420009597933629
+TP:17.9 FP:20.3 TN:41.3 FN:20.5
+Sensitivity:46.6 Specifity:67.1 Precision:46.9 NPRv:66.8
+Threshold: 0.11905914731111206
+TP:17.9 FP:20.3 TN:41.2 FN:20.5
+Sensitivity:46.6 Specifity:67.0 Precision:46.9 NPRv:66.7
+Threshold: 0.1189374655190088
+TP:17.9 FP:20.3 TN:41.2 FN:20.5
+Sensitivity:46.7 Specifity:67.0 Precision:46.9 NPRv:66.8
+Threshold: 0.11782661967820168
+TP:17.9 FP:20.4 TN:41.1 FN:20.5
+Sensitivity:46.7 Specifity:66.8 Precision:46.8 NPRv:66.7
+Threshold: 0.11118577962694753
+TP:18.0 FP:20.4 TN:41.1 FN:20.5
+Sensitivity:46.8 Specifity:66.8 Precision:46.9 NPRv:66.8
+Threshold: 0.10804422631354249
+TP:18.1 FP:20.5 TN:41.1 FN:20.4
+Sensitivity:47.0 Specifity:66.7 Precision:46.9 NPRv:66.8
+Threshold: 0.10722989298656649
+TP:18.1 FP:20.5 TN:41.1 FN:20.4
+Sensitivity:47.0 Specifity:66.7 Precision:46.9 NPRv:66.8
+Threshold: 0.10595086521926922
+TP:18.2 FP:20.5 TN:41.0 FN:20.3
+Sensitivity:47.2 Specifity:66.7 Precision:47.0 NPRv:66.9
+Threshold: 0.10445478459632929
+TP:18.2 FP:20.5 TN:41.0 FN:20.3
+Sensitivity:47.3 Specifity:66.7 Precision:47.0 NPRv:66.9
+Threshold: 0.1034516870976695
+TP:18.2 FP:20.6 TN:41.0 FN:20.2
+Sensitivity:47.4 Specifity:66.5 Precision:47.0 NPRv:66.9
+Threshold: 0.10112299045417605
+TP:18.3 FP:20.6 TN:40.9 FN:20.2
+Sensitivity:47.5 Specifity:66.5 Precision:47.0 NPRv:67.0
+Threshold: 0.09680231697907205
+TP:18.3 FP:20.7 TN:40.8 FN:20.2
+Sensitivity:47.5 Specifity:66.4 Precision:46.9 NPRv:66.9
+Threshold: 0.0965848159792172
+TP:18.3 FP:20.7 TN:40.8 FN:20.1
+Sensitivity:47.6 Specifity:66.3 Precision:46.9 NPRv:66.9
+Threshold: 0.09652178303767783
+TP:18.4 FP:20.8 TN:40.8 FN:20.0
+Sensitivity:47.9 Specifity:66.2 Precision:47.0 NPRv:67.0
+Threshold: 0.09562435696849159
+TP:18.4 FP:20.8 TN:40.7 FN:20.0
+Sensitivity:47.9 Specifity:66.1 Precision:46.9 NPRv:67.0
+Threshold: 0.09522847745428448
+TP:18.5 FP:20.8 TN:40.7 FN:20.0
+Sensitivity:48.0 Specifity:66.1 Precision:47.0 NPRv:67.0
+Threshold: 0.09392433689690982
+TP:18.5 FP:20.9 TN:40.7 FN:20.0
+Sensitivity:48.0 Specifity:66.1 Precision:46.9 NPRv:67.0
+Threshold: 0.09327581840975396
+TP:18.5 FP:20.9 TN:40.7 FN:20.0
+Sensitivity:48.1 Specifity:66.1 Precision:47.0 NPRv:67.1
+Threshold: 0.09200086268605173
+TP:18.6 FP:20.9 TN:40.7 FN:19.8
+Sensitivity:48.5 Specifity:66.1 Precision:47.2 NPRv:67.2
+Threshold: 0.08709589385567373
+TP:18.8 FP:21.0 TN:40.6 FN:19.7
+Sensitivity:48.9 Specifity:66.0 Precision:47.3 NPRv:67.4
+Threshold: 0.08586776413251496
+TP:18.9 FP:21.0 TN:40.5 FN:19.6
+Sensitivity:49.1 Specifity:65.8 Precision:47.3 NPRv:67.4
+Threshold: 0.08506590616537107
+TP:19.0 FP:21.0 TN:40.5 FN:19.5
+Sensitivity:49.3 Specifity:65.8 Precision:47.4 NPRv:67.5
+Threshold: 0.08478899792857864
+TP:19.1 FP:21.0 TN:40.5 FN:19.4
+Sensitivity:49.6 Specifity:65.8 Precision:47.6 NPRv:67.6
+Threshold: 0.0828283422895097
+TP:19.1 FP:21.1 TN:40.4 FN:19.3
+Sensitivity:49.7 Specifity:65.7 Precision:47.5 NPRv:67.6
+Threshold: 0.07898443819893547
+TP:19.2 FP:21.1 TN:40.4 FN:19.3
+Sensitivity:49.9 Specifity:65.7 Precision:47.6 NPRv:67.7
+Threshold: 0.07448889660942187
+TP:19.2 FP:21.1 TN:40.4 FN:19.2
+Sensitivity:50.0 Specifity:65.7 Precision:47.7 NPRv:67.8
+Threshold: 0.07097974934072797
+TP:19.2 FP:21.2 TN:40.4 FN:19.2
+Sensitivity:50.0 Specifity:65.6 Precision:47.6 NPRv:67.7
+Threshold: 0.07086015675433754
+TP:19.3 FP:21.2 TN:40.3 FN:19.1
+Sensitivity:50.3 Specifity:65.5 Precision:47.7 NPRv:67.8
+Threshold: 0.06960772747850863
+TP:19.4 FP:21.3 TN:40.2 FN:19.1
+Sensitivity:50.4 Specifity:65.4 Precision:47.6 NPRv:67.8
+Threshold: 0.06783853122086803
+TP:19.5 FP:21.3 TN:40.2 FN:19.0
+Sensitivity:50.6 Specifity:65.4 Precision:47.7 NPRv:67.9
+Threshold: 0.06529979435482869
+TP:19.5 FP:21.4 TN:40.1 FN:19.0
+Sensitivity:50.7 Specifity:65.2 Precision:47.7 NPRv:67.9
+Threshold: 0.062082999249881365
+TP:19.6 FP:21.4 TN:40.1 FN:18.9
+Sensitivity:51.0 Specifity:65.2 Precision:47.8 NPRv:68.0
+Threshold: 0.05118952340299221
+TP:19.6 FP:21.5 TN:40.0 FN:18.9
+Sensitivity:51.0 Specifity:65.1 Precision:47.7 NPRv:68.0
+Threshold: 0.0441069864068388
+TP:19.6 FP:21.5 TN:40.0 FN:18.8
+Sensitivity:51.0 Specifity:65.1 Precision:47.7 NPRv:68.0
+Threshold: 0.04284686978696978
+TP:19.6 FP:21.5 TN:40.0 FN:18.8
+Sensitivity:51.0 Specifity:65.0 Precision:47.7 NPRv:68.0
+Threshold: 0.041867884244493614
+TP:19.7 FP:21.5 TN:40.0 FN:18.8
+Sensitivity:51.1 Specifity:65.0 Precision:47.7 NPRv:68.0
+Threshold: 0.03484074884403621
+TP:19.8 FP:21.6 TN:40.0 FN:18.7
+Sensitivity:51.4 Specifity:64.9 Precision:47.8 NPRv:68.1
+Threshold: 0.033860123218360516
+TP:19.8 FP:21.6 TN:39.9 FN:18.6
+Sensitivity:51.5 Specifity:64.9 Precision:47.8 NPRv:68.2
+Threshold: 0.033214066513512774
+TP:19.8 FP:21.6 TN:39.9 FN:18.6
+Sensitivity:51.5 Specifity:64.8 Precision:47.8 NPRv:68.1
+Threshold: 0.0325630668814369
+TP:19.9 FP:21.6 TN:39.9 FN:18.6
+Sensitivity:51.6 Specifity:64.8 Precision:47.8 NPRv:68.2
+Threshold: 0.02486394188075669
+TP:19.9 FP:21.7 TN:39.9 FN:18.6
+Sensitivity:51.7 Specifity:64.8 Precision:47.8 NPRv:68.2
+Threshold: 0.02486239146865543
+TP:19.9 FP:21.7 TN:39.8 FN:18.6
+Sensitivity:51.7 Specifity:64.7 Precision:47.8 NPRv:68.2
+Threshold: 0.02157740787298601
+TP:19.9 FP:21.8 TN:39.8 FN:18.5
+Sensitivity:51.8 Specifity:64.6 Precision:47.8 NPRv:68.2
+Threshold: 0.02143928281356411
+TP:20.0 FP:21.9 TN:39.7 FN:18.5
+Sensitivity:51.9 Specifity:64.5 Precision:47.7 NPRv:68.2
+Threshold: 0.018453785948835955
+TP:20.0 FP:21.9 TN:39.7 FN:18.4
+Sensitivity:52.1 Specifity:64.5 Precision:47.8 NPRv:68.3
+Threshold: 0.01780237212405733
+TP:20.0 FP:21.9 TN:39.6 FN:18.4
+Sensitivity:52.1 Specifity:64.4 Precision:47.8 NPRv:68.3
+Threshold: 0.016957287325399806
+TP:20.1 FP:21.9 TN:39.6 FN:18.4
+Sensitivity:52.3 Specifity:64.4 Precision:47.9 NPRv:68.4
+Threshold: 0.008062609186513248
+TP:20.2 FP:21.9 TN:39.6 FN:18.2
+Sensitivity:52.6 Specifity:64.4 Precision:48.0 NPRv:68.5
+Threshold: 0.00594596093390351
+TP:20.2 FP:22.0 TN:39.6 FN:18.2
+Sensitivity:52.6 Specifity:64.3 Precision:47.9 NPRv:68.4
+Threshold: 0.0
+TP:30.8 FP:40.7 TN:20.9 FN:7.6
+Sensitivity:80.2 Specifity:33.9 Precision:43.1 NPRv:73.3
+Threshold: -0.0025826272331174183
+TP:30.9 FP:40.7 TN:20.8 FN:7.5
+Sensitivity:80.4 Specifity:33.8 Precision:43.1 NPRv:73.4
+Threshold: -0.0057820953404829
+TP:31.0 FP:40.7 TN:20.8 FN:7.5
+Sensitivity:80.5 Specifity:33.8 Precision:43.2 NPRv:73.5
+Threshold: -0.008180463457256704
+TP:31.1 FP:40.8 TN:20.7 FN:7.4
+Sensitivity:80.8 Specifity:33.7 Precision:43.2 NPRv:73.7
+Threshold: -0.011252324138494085
+TP:31.1 FP:40.8 TN:20.7 FN:7.4
+Sensitivity:80.9 Specifity:33.7 Precision:43.3 NPRv:73.8
+Threshold: -0.023747266706425685
+TP:31.1 FP:40.8 TN:20.7 FN:7.4
+Sensitivity:80.9 Specifity:33.6 Precision:43.2 NPRv:73.8
+Threshold: -0.03071491608873478
+TP:31.2 FP:40.9 TN:20.7 FN:7.3
+Sensitivity:81.0 Specifity:33.6 Precision:43.3 NPRv:73.9
+Threshold: -0.037933783202264926
+TP:31.2 FP:40.9 TN:20.7 FN:7.3
+Sensitivity:81.1 Specifity:33.6 Precision:43.3 NPRv:74.0
+Threshold: -0.037977747170653386
+TP:31.3 FP:40.9 TN:20.6 FN:7.2
+Sensitivity:81.3 Specifity:33.5 Precision:43.3 NPRv:74.2
+Threshold: -0.04142506230498291
+TP:31.3 FP:40.9 TN:20.6 FN:7.1
+Sensitivity:81.4 Specifity:33.5 Precision:43.4 NPRv:74.3
+Threshold: -0.047085067524054613
+TP:31.4 FP:40.9 TN:20.6 FN:7.0
+Sensitivity:81.7 Specifity:33.5 Precision:43.4 NPRv:74.6
+Threshold: -0.05131140510719384
+TP:31.5 FP:40.9 TN:20.6 FN:7.0
+Sensitivity:81.8 Specifity:33.5 Precision:43.5 NPRv:74.7
+Threshold: -0.05255703081729546
+TP:31.5 FP:41.0 TN:20.6 FN:6.9
+Sensitivity:82.0 Specifity:33.5 Precision:43.5 NPRv:74.8
+Threshold: -0.054551683063292056
+TP:31.5 FP:41.0 TN:20.5 FN:6.9
+Sensitivity:82.0 Specifity:33.4 Precision:43.5 NPRv:74.8
+Threshold: -0.055258451973141554
+TP:31.6 FP:41.1 TN:20.5 FN:6.8
+Sensitivity:82.2 Specifity:33.3 Precision:43.5 NPRv:74.9
+Threshold: -0.05666207284105135
+TP:31.7 FP:41.1 TN:20.5 FN:6.8
+Sensitivity:82.4 Specifity:33.3 Precision:43.6 NPRv:75.1
+Threshold: -0.05682199184902326
+TP:31.7 FP:41.1 TN:20.5 FN:6.7
+Sensitivity:82.5 Specifity:33.3 Precision:43.6 NPRv:75.2
+Threshold: -0.05699183175994582
+TP:31.7 FP:41.1 TN:20.4 FN:6.7
+Sensitivity:82.5 Specifity:33.2 Precision:43.6 NPRv:75.2
+Threshold: -0.08461325590610569
+TP:31.8 FP:41.1 TN:20.4 FN:6.7
+Sensitivity:82.7 Specifity:33.2 Precision:43.6 NPRv:75.4
+Threshold: -0.09214709672188554
+TP:31.8 FP:41.1 TN:20.4 FN:6.7
+Sensitivity:82.7 Specifity:33.2 Precision:43.6 NPRv:75.4
+Threshold: -0.09472701604715361
+TP:31.9 FP:41.2 TN:20.4 FN:6.6
+Sensitivity:83.0 Specifity:33.1 Precision:43.7 NPRv:75.6
+Threshold: -0.09747227752044463
+TP:31.9 FP:41.2 TN:20.4 FN:6.5
+Sensitivity:83.0 Specifity:33.1 Precision:43.7 NPRv:75.7
+Threshold: -0.11176982436789196
+TP:32.0 FP:41.2 TN:20.4 FN:6.4
+Sensitivity:83.2 Specifity:33.1 Precision:43.7 NPRv:76.0
+Threshold: -0.19246005567398727
+TP:32.2 FP:41.2 TN:20.4 FN:6.3
+Sensitivity:83.6 Specifity:33.1 Precision:43.9 NPRv:76.4
+Threshold: -0.20255453718436867
+TP:32.2 FP:41.2 TN:20.3 FN:6.3
+Sensitivity:83.6 Specifity:33.0 Precision:43.8 NPRv:76.3
+Threshold: -0.20289635452509805
+TP:32.2 FP:41.2 TN:20.3 FN:6.3
+Sensitivity:83.7 Specifity:33.0 Precision:43.8 NPRv:76.4
+Threshold: -0.2179515157430197
+TP:32.2 FP:41.2 TN:20.3 FN:6.2
+Sensitivity:83.8 Specifity:33.0 Precision:43.9 NPRv:76.5
+Threshold: -0.23560079166948883
+TP:32.2 FP:41.4 TN:20.2 FN:6.2
+Sensitivity:83.8 Specifity:32.8 Precision:43.8 NPRv:76.4
+Threshold: -0.23574769013685404
+TP:32.3 FP:41.5 TN:20.0 FN:6.2
+Sensitivity:83.9 Specifity:32.5 Precision:43.7 NPRv:76.4
+Threshold: -0.235919045033997
+TP:32.3 FP:41.6 TN:20.0 FN:6.2
+Sensitivity:83.9 Specifity:32.4 Precision:43.7 NPRv:76.3
+Threshold: -0.23679813447606687
+TP:32.3 FP:41.9 TN:19.7 FN:6.2
+Sensitivity:83.9 Specifity:32.0 Precision:43.5 NPRv:76.1
+Threshold: -0.24475641121352404
+TP:32.3 FP:41.9 TN:19.6 FN:6.2
+Sensitivity:83.9 Specifity:31.9 Precision:43.5 NPRv:76.0
+Threshold: -0.24924662758690647
+TP:32.3 FP:41.9 TN:19.6 FN:6.2
+Sensitivity:84.0 Specifity:31.9 Precision:43.5 NPRv:76.1
+Threshold: -0.2541848486683621
+TP:32.4 FP:41.9 TN:19.6 FN:6.0
+Sensitivity:84.3 Specifity:31.8 Precision:43.6 NPRv:76.4
+Threshold: -0.26466341465595516
+TP:32.5 FP:42.0 TN:19.6 FN:6.0
+Sensitivity:84.4 Specifity:31.8 Precision:43.6 NPRv:76.5
+Threshold: -0.2691399835525566
+TP:32.5 FP:42.0 TN:19.6 FN:6.0
+Sensitivity:84.5 Specifity:31.8 Precision:43.6 NPRv:76.6
+Threshold: -0.2727464796072019
+TP:32.5 FP:42.1 TN:19.4 FN:5.9
+Sensitivity:84.6 Specifity:31.5 Precision:43.6 NPRv:76.6
+Threshold: -0.2809102990284892
+TP:32.5 FP:42.2 TN:19.4 FN:5.9
+Sensitivity:84.6 Specifity:31.5 Precision:43.6 NPRv:76.6
+Threshold: -0.28124350051623476
+TP:32.5 FP:42.4 TN:19.1 FN:5.9
+Sensitivity:84.6 Specifity:31.1 Precision:43.4 NPRv:76.3
+Threshold: -0.28685625996239267
+TP:32.5 FP:42.5 TN:19.0 FN:5.9
+Sensitivity:84.6 Specifity:30.9 Precision:43.3 NPRv:76.2
+Threshold: -0.28806069757746405
+TP:32.6 FP:42.9 TN:18.7 FN:5.9
+Sensitivity:84.7 Specifity:30.4 Precision:43.2 NPRv:76.0
+Threshold: -0.29204375591916965
+TP:32.6 FP:42.9 TN:18.7 FN:5.9
+Sensitivity:84.8 Specifity:30.4 Precision:43.2 NPRv:76.1
+Threshold: -0.2968839294524145
+TP:32.6 FP:42.9 TN:18.6 FN:5.9
+Sensitivity:84.8 Specifity:30.3 Precision:43.2 NPRv:76.1
+Threshold: -0.31849529547730693
+TP:32.6 FP:43.0 TN:18.5 FN:5.8
+Sensitivity:84.9 Specifity:30.1 Precision:43.1 NPRv:76.1
+Threshold: -0.3192150977192472
+TP:32.7 FP:43.1 TN:18.4 FN:5.8
+Sensitivity:85.0 Specifity:29.9 Precision:43.1 NPRv:76.1
+Threshold: -0.31922900833340356
+TP:32.7 FP:43.1 TN:18.4 FN:5.8
+Sensitivity:85.0 Specifity:29.9 Precision:43.1 NPRv:76.2
+Threshold: -0.3232804237217113
+TP:32.7 FP:43.3 TN:18.3 FN:5.8
+Sensitivity:85.0 Specifity:29.7 Precision:43.1 NPRv:76.1
+Threshold: -0.3257386024601396
+TP:32.7 FP:43.4 TN:18.1 FN:5.8
+Sensitivity:85.0 Specifity:29.4 Precision:43.0 NPRv:75.9
+Threshold: -0.3260605989652739
+TP:32.7 FP:43.5 TN:18.0 FN:5.8
+Sensitivity:85.0 Specifity:29.3 Precision:42.9 NPRv:75.8
+Threshold: -0.3302117128948913
+TP:32.7 FP:43.8 TN:17.8 FN:5.8
+Sensitivity:85.0 Specifity:28.9 Precision:42.8 NPRv:75.5
+Threshold: -0.3365604157464677
+TP:32.7 FP:43.8 TN:17.7 FN:5.8
+Sensitivity:85.0 Specifity:28.8 Precision:42.7 NPRv:75.5
+Threshold: -0.3401430109499893
+TP:32.7 FP:44.2 TN:17.3 FN:5.8
+Sensitivity:85.0 Specifity:28.2 Precision:42.5 NPRv:75.1
+Threshold: -0.34150132525849564
+TP:32.7 FP:44.6 TN:17.0 FN:5.8
+Sensitivity:85.0 Specifity:27.6 Precision:42.3 NPRv:74.7
+Threshold: -0.3437403128160691
+TP:32.7 FP:44.6 TN:16.9 FN:5.8
+Sensitivity:85.0 Specifity:27.5 Precision:42.3 NPRv:74.6
+Threshold: -0.3450843477271206
+TP:32.7 FP:44.8 TN:16.8 FN:5.7
+Sensitivity:85.1 Specifity:27.3 Precision:42.2 NPRv:74.6
+Threshold: -0.34846495694581753
+TP:32.9 FP:45.1 TN:16.4 FN:5.6
+Sensitivity:85.4 Specifity:26.7 Precision:42.2 NPRv:74.6
+Threshold: -0.3485987558839715
+TP:32.9 FP:45.1 TN:16.4 FN:5.6
+Sensitivity:85.4 Specifity:26.7 Precision:42.1 NPRv:74.5
+Threshold: -0.35433125414108896
+TP:32.9 FP:45.3 TN:16.2 FN:5.6
+Sensitivity:85.5 Specifity:26.3 Precision:42.0 NPRv:74.4
+Threshold: -0.3597390707639966
+TP:33.0 FP:45.5 TN:16.1 FN:5.5
+Sensitivity:85.8 Specifity:26.1 Precision:42.1 NPRv:74.7
+Threshold: -0.36206744854399675
+TP:33.0 FP:45.5 TN:16.0 FN:5.5
+Sensitivity:85.8 Specifity:26.0 Precision:42.0 NPRv:74.6
+Threshold: -0.362928805819126
+TP:33.0 FP:45.8 TN:15.8 FN:5.5
+Sensitivity:85.8 Specifity:25.7 Precision:41.9 NPRv:74.3
+Threshold: -0.3652437442420629
+TP:33.0 FP:46.0 TN:15.6 FN:5.4
+Sensitivity:85.9 Specifity:25.3 Precision:41.8 NPRv:74.2
+Threshold: -0.36774240107009226
+TP:33.0 FP:46.2 TN:15.4 FN:5.4
+Sensitivity:85.9 Specifity:25.0 Precision:41.7 NPRv:73.9
+Threshold: -0.3681708009895161
+TP:33.0 FP:46.4 TN:15.2 FN:5.4
+Sensitivity:85.9 Specifity:24.6 Precision:41.6 NPRv:73.7
+Threshold: -0.3688570258321231
+TP:33.1 FP:46.5 TN:15.1 FN:5.4
+Sensitivity:86.0 Specifity:24.5 Precision:41.6 NPRv:73.7
+Threshold: -0.3748488747637788
+TP:33.1 FP:46.5 TN:15.0 FN:5.4
+Sensitivity:86.0 Specifity:24.4 Precision:41.6 NPRv:73.6
+Threshold: -0.37650567373526267
+TP:33.1 FP:46.8 TN:14.8 FN:5.4
+Sensitivity:86.0 Specifity:24.0 Precision:41.4 NPRv:73.3
+Threshold: -0.3822242298849914
+TP:33.1 FP:47.2 TN:14.3 FN:5.4
+Sensitivity:86.0 Specifity:23.3 Precision:41.2 NPRv:72.7
+Threshold: -0.382530282926764
+TP:33.2 FP:47.5 TN:14.1 FN:5.3
+Sensitivity:86.2 Specifity:22.9 Precision:41.1 NPRv:72.6
+Threshold: -0.38654442108023895
+TP:33.2 FP:47.8 TN:13.8 FN:5.3
+Sensitivity:86.3 Specifity:22.4 Precision:41.0 NPRv:72.3
+Threshold: -0.3897986789767457
+TP:33.2 FP:47.8 TN:13.7 FN:5.3
+Sensitivity:86.3 Specifity:22.3 Precision:41.0 NPRv:72.3
+Threshold: -0.39175059631654474
+TP:33.3 FP:47.9 TN:13.6 FN:5.2
+Sensitivity:86.5 Specifity:22.1 Precision:41.0 NPRv:72.4
+Threshold: -0.3942715532900816
+TP:33.3 FP:48.1 TN:13.4 FN:5.1
+Sensitivity:86.7 Specifity:21.8 Precision:40.9 NPRv:72.3
+Threshold: -0.39524157589533326
+TP:33.3 FP:48.3 TN:13.3 FN:5.1
+Sensitivity:86.7 Specifity:21.5 Precision:40.8 NPRv:72.1
+Threshold: -0.4062335437016767
+TP:33.4 FP:48.4 TN:13.2 FN:5.1
+Sensitivity:86.8 Specifity:21.4 Precision:40.8 NPRv:72.1
+Threshold: -0.4067776155176401
+TP:33.5 FP:48.6 TN:12.9 FN:4.9
+Sensitivity:87.1 Specifity:21.0 Precision:40.8 NPRv:72.3
+Threshold: -0.4101663932394689
+TP:33.5 FP:48.7 TN:12.9 FN:4.9
+Sensitivity:87.1 Specifity:20.9 Precision:40.8 NPRv:72.2
+Threshold: -0.4136927090261756
+TP:33.6 FP:48.9 TN:12.6 FN:4.9
+Sensitivity:87.2 Specifity:20.5 Precision:40.7 NPRv:72.0
+Threshold: -0.4139436822158819
+TP:33.6 FP:49.1 TN:12.5 FN:4.9
+Sensitivity:87.2 Specifity:20.2 Precision:40.6 NPRv:71.7
+Threshold: -0.4148194348046638
+TP:33.6 FP:49.3 TN:12.2 FN:4.9
+Sensitivity:87.3 Specifity:19.9 Precision:40.5 NPRv:71.5
+Threshold: -0.4150899314697779
+TP:33.6 FP:49.4 TN:12.1 FN:4.8
+Sensitivity:87.4 Specifity:19.7 Precision:40.5 NPRv:71.5
+Threshold: -0.41633134666020033
+TP:33.6 FP:49.5 TN:12.1 FN:4.8
+Sensitivity:87.4 Specifity:19.6 Precision:40.5 NPRv:71.4
+Threshold: -0.416954492530964
+TP:33.6 FP:49.5 TN:12.0 FN:4.8
+Sensitivity:87.4 Specifity:19.5 Precision:40.4 NPRv:71.3
+Threshold: -0.41814874812674463
+TP:33.7 FP:49.5 TN:12.0 FN:4.8
+Sensitivity:87.6 Specifity:19.5 Precision:40.5 NPRv:71.6
+Threshold: -0.42214408046385055
+TP:33.7 FP:49.7 TN:11.9 FN:4.8
+Sensitivity:87.6 Specifity:19.3 Precision:40.4 NPRv:71.4
+Threshold: -0.42273302275933644
+TP:33.7 FP:49.8 TN:11.8 FN:4.8
+Sensitivity:87.6 Specifity:19.1 Precision:40.4 NPRv:71.2
+Threshold: -0.4235960035355333
+TP:33.7 FP:50.0 TN:11.6 FN:4.7
+Sensitivity:87.7 Specifity:18.8 Precision:40.3 NPRv:71.0
+Threshold: -0.42385975539455406
+TP:33.8 FP:50.2 TN:11.4 FN:4.7
+Sensitivity:87.8 Specifity:18.5 Precision:40.2 NPRv:70.8
+Threshold: -0.4264054520617354
+TP:33.8 FP:50.4 TN:11.2 FN:4.7
+Sensitivity:87.9 Specifity:18.2 Precision:40.2 NPRv:70.6
+Threshold: -0.4285535650134253
+TP:33.8 FP:50.6 TN:11.0 FN:4.6
+Sensitivity:88.0 Specifity:17.8 Precision:40.1 NPRv:70.4
+Threshold: -0.4342825635704527
+TP:33.9 FP:50.9 TN:10.6 FN:4.5
+Sensitivity:88.2 Specifity:17.3 Precision:40.0 NPRv:70.0
+Threshold: -0.43483567926401157
+TP:33.9 FP:51.0 TN:10.5 FN:4.5
+Sensitivity:88.2 Specifity:17.1 Precision:39.9 NPRv:69.9
+Threshold: -0.43929041515871314
+TP:34.0 FP:51.2 TN:10.4 FN:4.5
+Sensitivity:88.3 Specifity:16.8 Precision:39.9 NPRv:69.7
+Threshold: -0.439552766589689
+TP:34.0 FP:51.2 TN:10.3 FN:4.5
+Sensitivity:88.3 Specifity:16.8 Precision:39.9 NPRv:69.6
+Threshold: -0.4436133308066974
+TP:34.0 FP:51.4 TN:10.2 FN:4.5
+Sensitivity:88.3 Specifity:16.5 Precision:39.8 NPRv:69.3
+Threshold: -0.44437725179053106
+TP:34.0 FP:51.5 TN:10.0 FN:4.5
+Sensitivity:88.3 Specifity:16.2 Precision:39.7 NPRv:68.9
+Threshold: -0.44450750092986674
+TP:34.0 FP:51.8 TN:9.7 FN:4.5
+Sensitivity:88.3 Specifity:15.8 Precision:39.6 NPRv:68.4
+Threshold: -0.4477026100453963
+TP:34.0 FP:52.0 TN:9.5 FN:4.5
+Sensitivity:88.3 Specifity:15.5 Precision:39.5 NPRv:67.9
+Threshold: -0.45117020961980003
+TP:34.0 FP:52.2 TN:9.4 FN:4.5
+Sensitivity:88.4 Specifity:15.2 Precision:39.5 NPRv:67.7
+Threshold: -0.4512877171516147
+TP:34.1 FP:52.5 TN:9.1 FN:4.4
+Sensitivity:88.7 Specifity:14.8 Precision:39.4 NPRv:67.6
+Threshold: -0.45356686608283353
+TP:34.1 FP:52.6 TN:9.0 FN:4.4
+Sensitivity:88.7 Specifity:14.6 Precision:39.3 NPRv:67.3
+Threshold: -0.4542706540361396
+TP:34.1 FP:52.8 TN:8.8 FN:4.3
+Sensitivity:88.8 Specifity:14.2 Precision:39.3 NPRv:66.9
+Threshold: -0.45455550358456315
+TP:34.1 FP:52.8 TN:8.7 FN:4.3
+Sensitivity:88.8 Specifity:14.2 Precision:39.3 NPRv:66.9
+Threshold: -0.4554748538118284
+TP:34.2 FP:52.8 TN:8.7 FN:4.3
+Sensitivity:88.9 Specifity:14.2 Precision:39.3 NPRv:67.0
+Threshold: -0.4595240450826106
+TP:34.2 FP:53.0 TN:8.6 FN:4.2
+Sensitivity:89.0 Specifity:13.9 Precision:39.3 NPRv:67.0
+Threshold: -0.46232558363088055
+TP:34.4 FP:53.4 TN:8.2 FN:4.1
+Sensitivity:89.4 Specifity:13.3 Precision:39.2 NPRv:66.8
+Threshold: -0.4632723967419489
+TP:34.4 FP:53.5 TN:8.0 FN:4.0
+Sensitivity:89.5 Specifity:13.0 Precision:39.2 NPRv:66.6
+Threshold: -0.46690009710501307
+TP:34.5 FP:53.8 TN:7.7 FN:4.0
+Sensitivity:89.6 Specifity:12.6 Precision:39.0 NPRv:65.9
+Threshold: -0.4674200612831858
+TP:34.6 FP:54.1 TN:7.5 FN:3.9
+Sensitivity:89.9 Specifity:12.1 Precision:39.0 NPRv:65.8
+Threshold: -0.47009727358668857
+TP:34.7 FP:54.4 TN:7.1 FN:3.8
+Sensitivity:90.1 Specifity:11.5 Precision:38.9 NPRv:65.1
+Threshold: -0.47234131972899557
+TP:34.7 FP:54.5 TN:7.0 FN:3.7
+Sensitivity:90.3 Specifity:11.4 Precision:38.9 NPRv:65.2
+Threshold: -0.47323159150717553
+TP:34.8 FP:54.9 TN:6.7 FN:3.6
+Sensitivity:90.6 Specifity:10.8 Precision:38.8 NPRv:64.8
+Threshold: -0.4741903271110663
+TP:34.9 FP:55.1 TN:6.4 FN:3.6
+Sensitivity:90.8 Specifity:10.5 Precision:38.8 NPRv:64.5
+Threshold: -0.47697045356083406
+TP:34.9 FP:55.2 TN:6.3 FN:3.5
+Sensitivity:90.9 Specifity:10.2 Precision:38.7 NPRv:64.2
+Threshold: -0.47846450259941153
+TP:35.0 FP:55.5 TN:6.1 FN:3.5
+Sensitivity:91.0 Specifity:9.9 Precision:38.7 NPRv:63.6
+Threshold: -0.4813240796202852
+TP:35.0 FP:55.5 TN:6.0 FN:3.5
+Sensitivity:91.0 Specifity:9.8 Precision:38.6 NPRv:63.3
+Threshold: -0.48260149804519736
+TP:35.1 FP:55.8 TN:5.8 FN:3.4
+Sensitivity:91.1 Specifity:9.4 Precision:38.6 NPRv:62.9
+Threshold: -0.4827679580086981
+TP:35.1 FP:56.0 TN:5.6 FN:3.4
+Sensitivity:91.2 Specifity:9.0 Precision:38.5 NPRv:62.3
+Threshold: -0.4835074552135663
+TP:35.2 FP:56.2 TN:5.3 FN:3.3
+Sensitivity:91.4 Specifity:8.6 Precision:38.5 NPRv:61.7
+Threshold: -0.4845683621712176
+TP:35.2 FP:56.3 TN:5.3 FN:3.3
+Sensitivity:91.4 Specifity:8.6 Precision:38.5 NPRv:61.5
+Threshold: -0.48475903902531703
+TP:35.2 FP:56.5 TN:5.1 FN:3.3
+Sensitivity:91.5 Specifity:8.2 Precision:38.4 NPRv:60.8
+Threshold: -0.48610150419974163
+TP:35.2 FP:56.5 TN:5.0 FN:3.3
+Sensitivity:91.5 Specifity:8.2 Precision:38.4 NPRv:60.6
+Threshold: -0.48852552927092047
+TP:35.3 FP:56.7 TN:4.8 FN:3.2
+Sensitivity:91.8 Specifity:7.8 Precision:38.4 NPRv:60.4
+Threshold: -0.48906932648232965
+TP:35.3 FP:56.8 TN:4.8 FN:3.2
+Sensitivity:91.8 Specifity:7.7 Precision:38.3 NPRv:60.2
+Threshold: -0.4905103858654119
+TP:35.4 FP:57.0 TN:4.5 FN:3.0
+Sensitivity:92.1 Specifity:7.4 Precision:38.3 NPRv:59.9
+Threshold: -0.4967312360730532
+TP:35.5 FP:57.1 TN:4.4 FN:3.0
+Sensitivity:92.3 Specifity:7.1 Precision:38.3 NPRv:59.7
+Threshold: -0.496962373493165
+TP:35.5 FP:57.1 TN:4.4 FN:2.9
+Sensitivity:92.4 Specifity:7.1 Precision:38.3 NPRv:60.0
+Threshold: -0.4975810154257927
+TP:35.5 FP:57.3 TN:4.3 FN:2.9
+Sensitivity:92.4 Specifity:7.0 Precision:38.3 NPRv:59.4
+Threshold: -0.4988827902135735
+TP:35.5 FP:57.3 TN:4.2 FN:2.9
+Sensitivity:92.4 Specifity:6.8 Precision:38.3 NPRv:59.0
+Threshold: -0.5004678362377413
+TP:35.5 FP:57.4 TN:4.2 FN:2.9
+Sensitivity:92.4 Specifity:6.8 Precision:38.2 NPRv:58.8
+Threshold: -0.5035670858368106
+TP:35.6 FP:57.5 TN:4.0 FN:2.9
+Sensitivity:92.6 Specifity:6.5 Precision:38.2 NPRv:58.5
+Threshold: -0.505772298912744
+TP:35.6 FP:57.6 TN:4.0 FN:2.8
+Sensitivity:92.7 Specifity:6.4 Precision:38.2 NPRv:58.4
+Threshold: -0.5091260287743421
+TP:35.7 FP:57.6 TN:3.9 FN:2.8
+Sensitivity:92.8 Specifity:6.4 Precision:38.2 NPRv:58.5
+Threshold: -0.5097131316783049
+TP:35.8 FP:57.8 TN:3.8 FN:2.7
+Sensitivity:93.0 Specifity:6.1 Precision:38.2 NPRv:58.2
+Threshold: -0.5108582975623274
+TP:35.8 FP:57.8 TN:3.7 FN:2.7
+Sensitivity:93.0 Specifity:6.0 Precision:38.2 NPRv:57.7
+Threshold: -0.5111930122469771
+TP:35.9 FP:58.1 TN:3.5 FN:2.6
+Sensitivity:93.2 Specifity:5.7 Precision:38.2 NPRv:57.2
+Threshold: -0.5169866167928722
+TP:35.9 FP:58.1 TN:3.4 FN:2.6
+Sensitivity:93.2 Specifity:5.6 Precision:38.2 NPRv:57.0
+Threshold: -0.5265730417200106
+TP:36.0 FP:58.3 TN:3.2 FN:2.5
+Sensitivity:93.5 Specifity:5.2 Precision:38.2 NPRv:56.4
+Threshold: -0.5265995642282177
+TP:36.0 FP:58.4 TN:3.1 FN:2.5
+Sensitivity:93.6 Specifity:5.1 Precision:38.1 NPRv:55.9
+Threshold: -0.5287951589552341
+TP:36.0 FP:58.5 TN:3.1 FN:2.5
+Sensitivity:93.6 Specifity:5.0 Precision:38.1 NPRv:55.6
+Threshold: -0.5316414128327298
+TP:36.1 FP:58.7 TN:2.9 FN:2.3
+Sensitivity:93.9 Specifity:4.6 Precision:38.1 NPRv:54.9
+Threshold: -0.5408121970170535
+TP:36.2 FP:58.8 TN:2.7 FN:2.3
+Sensitivity:94.1 Specifity:4.5 Precision:38.1 NPRv:54.7
+Threshold: -0.5432858310923374
+TP:36.3 FP:59.0 TN:2.6 FN:2.2
+Sensitivity:94.3 Specifity:4.2 Precision:38.1 NPRv:53.8
+Threshold: -0.5458244537068376
+TP:36.4 FP:59.1 TN:2.4 FN:2.1
+Sensitivity:94.6 Specifity:3.9 Precision:38.1 NPRv:53.7
+Threshold: -0.54985735577166
+TP:36.4 FP:59.2 TN:2.3 FN:2.0
+Sensitivity:94.8 Specifity:3.8 Precision:38.1 NPRv:53.8
+Threshold: -0.5498914617839944
+TP:36.6 FP:59.5 TN:2.1 FN:1.8
+Sensitivity:95.2 Specifity:3.3 Precision:38.1 NPRv:52.8
+Threshold: -0.5506582852404808
+TP:36.7 FP:59.7 TN:1.9 FN:1.8
+Sensitivity:95.3 Specifity:3.0 Precision:38.1 NPRv:51.0
+Threshold: -0.5541995586614805
+TP:36.7 FP:59.8 TN:1.7 FN:1.8
+Sensitivity:95.4 Specifity:2.8 Precision:38.0 NPRv:49.5
+Threshold: -0.5613445342882313
+TP:36.8 FP:60.0 TN:1.6 FN:1.6
+Sensitivity:95.7 Specifity:2.6 Precision:38.0 NPRv:48.9
+Threshold: -0.5767520482534719
+TP:36.9 FP:60.1 TN:1.4 FN:1.6
+Sensitivity:95.9 Specifity:2.3 Precision:38.0 NPRv:47.6
+Threshold: -0.5770841016733363
+TP:37.0 FP:60.3 TN:1.2 FN:1.4
+Sensitivity:96.3 Specifity:2.0 Precision:38.1 NPRv:46.6
+Threshold: -0.5811149060398771
+TP:37.0 FP:60.3 TN:1.2 FN:1.4
+Sensitivity:96.3 Specifity:2.0 Precision:38.0 NPRv:45.8
+Threshold: -0.5816408114523318
+TP:37.1 FP:60.4 TN:1.1 FN:1.4
+Sensitivity:96.4 Specifity:1.8 Precision:38.0 NPRv:44.9
+Threshold: -0.5820840952856061
+TP:37.1 FP:60.5 TN:1.0 FN:1.3
+Sensitivity:96.6 Specifity:1.7 Precision:38.0 NPRv:43.8
+Threshold: -0.6149462883652301
+TP:37.3 FP:60.7 TN:0.8 FN:1.2
+Sensitivity:96.9 Specifity:1.4 Precision:38.0 NPRv:41.1
+Threshold: -0.6211015052201894
+TP:37.3 FP:60.7 TN:0.8 FN:1.2
+Sensitivity:97.0 Specifity:1.4 Precision:38.1 NPRv:41.8
+Threshold: -0.6241850594446964
+TP:37.3 FP:60.7 TN:0.8 FN:1.2
+Sensitivity:97.0 Specifity:1.3 Precision:38.0 NPRv:40.7
+Threshold: -0.6253145775166282
+TP:37.3 FP:60.7 TN:0.8 FN:1.1
+Sensitivity:97.0 Specifity:1.3 Precision:38.1 NPRv:41.5
+Threshold: -0.630425108525607
+TP:37.4 FP:60.8 TN:0.7 FN:1.0
+Sensitivity:97.3 Specifity:1.1 Precision:38.1 NPRv:40.4
+Threshold: -0.6327491350650641
+TP:37.5 FP:60.9 TN:0.7 FN:0.9
+Sensitivity:97.6 Specifity:1.1 Precision:38.1 NPRv:41.9
+Threshold: -0.6386027601694195
+TP:37.6 FP:60.9 TN:0.6 FN:0.9
+Sensitivity:97.7 Specifity:1.0 Precision:38.2 NPRv:41.5
+Threshold: -0.6549725617382957
+TP:37.6 FP:61.0 TN:0.6 FN:0.9
+Sensitivity:97.7 Specifity:1.0 Precision:38.1 NPRv:40.0
+Threshold: -0.6795574898076887
+TP:37.7 FP:61.1 TN:0.4 FN:0.7
+Sensitivity:98.1 Specifity:0.7 Precision:38.2 NPRv:37.5
+Threshold: -0.6990270652496636
+TP:37.8 FP:61.1 TN:0.4 FN:0.7
+Sensitivity:98.2 Specifity:0.7 Precision:38.2 NPRv:36.7
+Threshold: -0.7083341424234495
+TP:37.8 FP:61.1 TN:0.4 FN:0.7
+Sensitivity:98.3 Specifity:0.7 Precision:38.2 NPRv:37.9
+Threshold: -0.7118548031512324
+TP:37.8 FP:61.2 TN:0.4 FN:0.7
+Sensitivity:98.3 Specifity:0.6 Precision:38.2 NPRv:35.7
+Threshold: -0.7288552640463305
+TP:37.8 FP:61.2 TN:0.4 FN:0.6
+Sensitivity:98.4 Specifity:0.6 Precision:38.2 NPRv:37.0
+Threshold: -0.7435328823432356
+TP:38.0 FP:61.3 TN:0.3 FN:0.5
+Sensitivity:98.8 Specifity:0.4 Precision:38.3 NPRv:35.0
+Threshold: -0.762318744484676
+TP:38.0 FP:61.3 TN:0.2 FN:0.4
+Sensitivity:98.9 Specifity:0.4 Precision:38.3 NPRv:33.3
+Threshold: -0.8167581316817614
+TP:38.1 FP:61.3 TN:0.2 FN:0.4
+Sensitivity:99.0 Specifity:0.4 Precision:38.3 NPRv:35.3
+Threshold: -0.8469203985362577
+TP:38.3 FP:61.5 TN:0.1 FN:0.2
+Sensitivity:99.5 Specifity:0.1 Precision:38.4 NPRv:28.6
+Threshold: -0.8472254501283731
+TP:38.3 FP:61.5 TN:0.0 FN:0.1
+Sensitivity:99.6 Specifity:0.1 Precision:38.4 NPRv:20.0
+Threshold: -0.9288903420803669
+TP:38.4 FP:61.5 TN:0.0 FN:0.0
+Sensitivity:99.9 Specifity:0.1 Precision:38.5 NPRv:50.0
+Threshold: -0.96954897694756
+TP:38.5 FP:61.5 TN:0.0 FN:0.0
+Sensitivity:100.0 Specifity:0.0 Precision:38.5 NPRv:100.0

@@ -1,0 +1,116 @@
+Model name: LR_SCL_pipeline
+AUC ROC: 0.8016147635524798
+AUC ROC stderr: 0.05484038308362747
+AUC ROC Confidence Interval (95%): 0.7467743804688524-0.8564551466361073
+AUC PR: 0.5201262585902868
+AUC PR stderr: 0.08081749981838576
+AUC PR Confidence Interval (95%): 0.43930875877190106-0.6009437584086725
+
+Threshold: 0.3789831542820788 Optimum for accuracy
+TP:11.8 FP:5.9 TN:69.1 FN:13.2
+Sensitivity:47.1 Specifity:92.2 Precision:66.7 NPRv:83.9
+
+Threshold: 0.22804120306123138 Optimum for single point AUC
+TP:20.6 FP:22.1 TN:52.9 FN:4.4
+Sensitivity:82.4 Specifity:70.6 Precision:48.3 NPRv:92.3
+
+Optimum for double point AUC
+Threshold: 0.17956695380020796
+TP:23.5 FP:35.3 TN:39.7 FN:1.5
+Sensitivity:94.1 Specifity:52.9 Precision:40.0 NPRv:96.4
+Threshold: 0.331768107765665
+TP:13.2 FP:7.4 TN:67.6 FN:11.8
+Sensitivity:52.9 Specifity:90.2 Precision:64.3 NPRv:85.2
+
+Optimum for triple point AUC
+Threshold: 0.1531212374381185
+TP:25.0 FP:44.1 TN:30.9 FN:0.0
+Sensitivity:100.0 Specifity:41.2 Precision:36.2 NPRv:100.0
+Threshold: 0.22804120306123138
+TP:20.6 FP:22.1 TN:52.9 FN:4.4
+Sensitivity:82.4 Specifity:70.6 Precision:48.3 NPRv:92.3
+Threshold: 0.331768107765665
+TP:13.2 FP:7.4 TN:67.6 FN:11.8
+Sensitivity:52.9 Specifity:90.2 Precision:64.3 NPRv:85.2
+
+Threshold: 0.331768107765665 Optimum for f0.5
+TP:13.2 FP:7.4 TN:67.6 FN:11.8
+Sensitivity:52.9 Specifity:90.2 Precision:64.3 NPRv:85.2
+
+Threshold: 0.22804120306123138 Optimum for f1
+TP:20.6 FP:22.1 TN:52.9 FN:4.4
+Sensitivity:82.4 Specifity:70.6 Precision:48.3 NPRv:92.3
+
+Threshold: 0.17956695380020796 Optimum for f2
+TP:23.5 FP:35.3 TN:39.7 FN:1.5
+Sensitivity:94.1 Specifity:52.9 Precision:40.0 NPRv:96.4
+
+LR_SCL_pipeline eli5 MDA importances on external Dataset
+FA_paroxistica       1.000 0.244
+ACO previa si no     0.101 0.092
+FEVI L-M-G           0.055 0.088
+edoxaban             0.047 0.052
+Dil AI MS            0.041 0.074
+IM                   0.018 0.046
+AVK O ACOD           0.008 0.017
+IECAS/ARA II         0.007 0.094
+IT                   0.006 0.013
+TFG                  0.005 0.061
+heparina             0.000 0.000
+flecainida           0.000 0.000
+exfumador o fumador  0.000 0.000
+dronedarona          0.000 0.000
+clopi o tica         0.000 0.000
+amiodarona           0.000 0.000
+TEP/TVP              0.000 0.000
+TALLA                0.000 0.000
+SANGRADO PREVIO      0.000 0.000
+SAC VAL              0.000 0.000
+REUMATICA            0.000 0.000
+Prot mec             0.000 0.000
+Prot bio             0.000 0.000
+Previous CVE attempt 0.000 0.000
+MOVILIDAD            0.000 0.000
+Iao                  0.000 0.000
+ICTUS/AIT PREVIO     0.000 0.000
+ICC                  0.000 0.000
+HP high              0.000 0.000
+HASBLED              0.000 0.000
+FEVI M-G             0.000 0.000
+FEVI G               0.000 0.000
+FA_persistenteLD2    0.000 0.000
+Eao                  0.000 0.000
+EM                   0.000 0.000
+EAP                  0.000 0.000
+Doble Antiagregantes 0.000 0.000
+DM                   0.000 0.000
+DL                   0.000 0.000
+DIGOXINA             0.000 0.000
+Creatinina           0.000 0.000
+CF>=3                0.000 0.000
+CF>=2                0.000 0.000
+CF==4                0.000 0.000
+CC s n               0.000 0.000
+ARM                  0.000 0.000
+AINES                0.000 0.000
+AAS                  0.000 0.000
+AA pre               0.000 0.000
+rivaroxaban          -0.000 0.003
+fumador              -0.000 0.001
+dabigatran           -0.001 0.003
+Valvulopatía sign    -0.001 0.003
+HP low               -0.002 0.002
+sintrom              -0.002 0.015
+BB si no             -0.002 0.022
+Dil AI LMS           -0.003 0.006
+RESPIRATORIO         -0.003 0.008
+NEOPLASIA            -0.003 0.004
+apixaban             -0.004 0.002
+HTA                  -0.006 0.007
+Dil AI S             -0.007 0.014
+Genero               -0.013 0.013
+Masa VI              -0.013 0.011
+EDAD                 -0.019 0.032
+ANEMIA               -0.034 0.021
+IMC                  -0.043 0.141
+EAC o CI             -0.044 0.043
